@@ -1,0 +1,45 @@
+Thu Jun 18 13:53:34 PDT 2020
+
+ DSCF STATISTICS OUTPUT :
+
+ integral neglect threshold       :  0.13E-09
+ integral storage threshold THIZE :  0.10E-04
+ integral storage threshold THIME :         5
+
+
+ --------------------    1.ITERATION  --------------------
+ norm of density matrix                :    2.97732607297    
+ total energy                          : -76.272425475460    
+ one-electron energy                   : -122.79015375460    
+ two-electron energy                   :  37.481220368169    
+ damping factor ttr                    :           0.3000    
+
+ --------------------    2.ITERATION  --------------------
+ 
+  weight factors dlin for linear combination of density matrices :
+  0.99999793    
+ accerr=   2.000  crierr=1000.000  ilam=  0  grange= 0.0      chatol=   0.634
+
+ norm of difference density matrix     :   0.443106632645E-04
+ norm of simple difference density     :   0.447365122216E-04
+ norm of density matrix                :    2.97731991508    
+ total energy                          : -76.272425475872    
+ one-electron energy                   : -122.79008102602    
+ two-electron energy                   :  37.481147639181    
+ energy increment                      :          -0.4116E-09
+ damping factor ttr                    :           0.3000    
+
+ --------------------    3.ITERATION  --------------------
+ 
+  weight factors dlin for linear combination of density matrices :
+  0.99999817       1.1591472    
+ accerr=   2.540  crierr=  10.000  ilam=  0  grange= 0.0      chatol=   0.524
+
+ norm of difference density matrix     :   0.147020163011E-04
+ norm of simple difference density     :   0.163205642192E-04
+ norm of density matrix                :    2.97732061202    
+ total energy                          : -76.272663836709    
+ one-electron energy                   : -122.79014572272    
+ two-electron energy                   :  37.480973975039    
+ energy increment                      :          -0.2041E-10
+ damping factor ttr                    :           0.3500    
