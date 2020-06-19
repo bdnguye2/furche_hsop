@@ -1,2 +1,3 @@
 # furche_hsop
- high school outreach program
+Introduction for high school students in Computational and
+Theoretical Chemistr
