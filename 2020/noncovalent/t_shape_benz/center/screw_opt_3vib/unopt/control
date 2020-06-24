@@ -1,0 +1,127 @@
+$title
+$symmetry c1
+$redundant    file=coord
+$user-defined bonds    file=coord
+$coord    file=coord
+$optimize
+ internal   on
+ redundant  on
+ cartesian  off
+ global     off
+ basis      off
+$atoms
+h  1,4,6,8,10,12-13,16,18,20,22,24                                             \
+   basis =h def2-TZVP                                                          \
+   jbas  =h def2-TZVP
+c  2-3,5,7,9,11,14-15,17,19,21,23                                              \
+   basis =c def2-TZVP                                                          \
+   jbas  =c def2-TZVP
+$basis    file=basis
+$scfmo   file=mos
+$closed shells
+ a       1-42                                   ( 2 )
+$scfiterlimit       30
+$thize     0.10000000E-04
+$thime        5
+$scfdamp   start=0.300  step=0.050  min=0.100
+$scfdump
+$scfintunit
+ unit=30       size=0        file=twoint
+$scfdiis
+$maxcor    3500 MiB  per_core
+$scforbitalshift  automatic=.1
+$drvopt
+   cartesian  on
+   basis      off
+   global     off
+   hessian    on
+   dipole     on
+   nuclear polarizability
+$interconversion  off
+   qconv=1.d-7
+   maxiter=25
+$coordinateupdate
+   dqmax=0.3
+   interpolate  on
+   statistics    5
+$forceupdate
+   ahlrichs numgeo=0  mingeo=3 maxgeo=4 modus=<g|dq> dynamic fail=0.3
+   threig=0.005  reseig=0.005  thrbig=3.0  scale=1.00  damping=0.0
+$forceinit on
+   diag=default
+$energy    file=energy
+$grad    file=gradient
+$forceapprox    file=forceapprox
+$ricore    55000
+$rij
+$jbas    file=auxbasis
+$dft
+   functional tpssh
+   gridsize   5
+$scfconv        7
+$denconv 1d-7
+$disp3 bj
+$rundimensions
+   natoms=24
+   nbf(CAO)=504
+   nbf(AO)=444
+$last step     vibrations
+$last SCF energy change = 0.10844417E-07
+$charge from ridft
+          0.000 (not to be modified here)
+$dipole from force
+  x    -0.00367721907775    y    -0.17963644272621    z     0.01396770789034    a.u.
+   | dipole | =    0.4580672930  debye
+$optinfo       file=optinfo
+$hessapprox   file=hessapprox
+$dipgrad    file=dipgrad
+$hessian (projected)    file=hessian
+$vibrational normal modes    file=vib_normal_modes
+$vibrational reduced masses
+   3.6586794297   5.8060130789   6.1396039948   4.8746736434   5.5374794770
+   6.2623526408   4.8483557140   3.7117466493   3.7298855326   5.9547740241
+   3.9462103709   4.0298031602   2.9223894009   2.9412924020   2.8962385902
+   2.9351725604   6.0069877005   6.0054192590   6.0045674971   6.0184074657
+   1.0851552406   1.0868759160   4.1181503678   3.7820234555   1.2477455024
+   1.2470988763   1.2496872856   1.2497156135   1.3533414142   1.3052575879
+   1.3696207171   1.3704073067   1.2484051101   1.2482747412   5.8359333793
+   5.8900331650   6.5412358313   6.5444416813   1.7161105558   1.7131515375
+   1.7150772377   1.7195550380   1.0698615973   1.0696939045   1.1412549872
+   1.1425335079   1.1427016505   1.1423368924   7.1229687885   7.1177556591
+   1.2478699055   1.2477648513   2.0055317518   1.9922164337   1.9958494414
+   1.9896111511   5.2948578463   5.2838592008   5.3037606689   5.2800818081
+   1.0836776220   1.0835500476   1.0870441146   1.0872509639   1.0872971689
+   1.0884695376   1.0944429651   1.0947913704   1.0948793760   1.0957251167
+   1.0990716569   1.0965079869
+$nvibro       72
+$vibrational spectrum    file=vibspectrum
+$orbital_max_rnorm 0.13439143839700E-03
+$subenergy  Etot         E1                  Ej                Ex                 Ec                 En                 Disp
+-464.7295608709    -1798.248227452     811.6139533842    -66.98795476210    -2.758513114300     591.6813461479    -.3016507497114E-01
+$newcoord
+# cartesian coordinates shifted along normal mode   1 by *******
+   -1.40479038969337     -2.99229948636281      4.83166454429333      h
+   -0.88269936768948     -3.70223191917965      2.81964493864866      c
+   -2.74518224674217     -3.56411072225944      0.79470541445664      c
+   -4.71685877349792     -2.74958332108198      1.23238292831292      h
+   -2.07091344703139     -4.45016526510765     -1.79418797821170      c
+   -3.52017850247870     -4.33850939922222     -3.37413828195121      h
+    0.46907776381252     -5.47297014884774     -2.36229617735002      c
+    0.99664510390924     -6.15454416795873     -4.38154953880205      h
+    2.33230394868194     -5.61802413945911     -0.33545238663131      c
+    4.31048608380650     -6.41632300404973     -0.77816995172594      h
+    1.65514997693374     -4.73296507380104      2.25598680761789      c
+    3.10715818987133     -4.83765268076848      3.83198707842121      h
+    4.08783424079309      7.39833188970363      0.55800901448372      h
+    2.38883667543414      6.16885263538543      0.21207107459371      c
+    3.11448521224127      3.57096450500198     -0.50103865895917      c
+    5.37874483221025      2.77609283995466     -0.70833104639128      h
+    0.93530613867290      1.98971949415410     -0.94373812954873      c
+    1.48965387492867     -0.03230257910558     -1.48519122337954      h
+   -1.97382136352098      3.01127846705292     -0.66967621217469      c
+   -3.66974121978922      1.77530160857286     -1.00737346500177      h
+   -2.70247255054265      5.60805158840419      0.04080614781018      c
+   -4.96836940699157      6.40159290982243      0.25136265638604      h
+   -0.52042623373134      7.18816697693436      0.48257051683123      c
+   -1.08634790944314      9.21081080000138      1.03655231802044      h
+$end

@@ -1,0 +1,13 @@
+-------------- slurm.epilog ---------------
+Job ID:    2451928
+User:      bdnguye2
+Group:     furche
+Job Name:  t_shape_center
+Partition: brd2.4
+QOS:       normal 
+Account:   furche
+Reason:    None,c-19-411
+Nodelist:  c-19-411
+Command:   /DFS-L/DATA/furche/bdnguye2/furche_hsop/noncovalent/t_shape_benz/center/screw_opt_3vib/1vib_shift/run_slurm.turbomole
+WorkDir:   /DFS-L/DATA/furche/bdnguye2/furche_hsop/noncovalent/t_shape_benz/center/screw_opt_3vib/1vib_shift
+BatchHost: c-19-411

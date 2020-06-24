@@ -1,0 +1,30 @@
+Mon Jun 22 19:37:18 PDT 2020
+
+ DSCF STATISTICS OUTPUT :
+
+ integral neglect threshold       :  0.66E-11
+ integral storage threshold THIZE :  0.10E-04
+ integral storage threshold THIME :         5
+
+
+ --------------------    1.ITERATION  --------------------
+ total energy                          : -464.72956076936    
+ one-electron energy                   : -1798.2482001911    
+ two-electron energy                   :  741.86745834873    
+ damping factor ttr                    :           0.3000    
+
+ --------------------    2.ITERATION  --------------------
+ RMS (maximum over irreps) of difference density =0.153978D-05
+ total energy                          : -464.72956086371    
+ one-electron energy                   : -1798.2483046350    
+ two-electron energy                   :  741.86756269834    
+ energy increment                      :          -0.9435E-07
+ damping factor ttr                    :           0.3000    
+
+ --------------------    3.ITERATION  --------------------
+ RMS (maximum over irreps) of difference density =0.406597D-06
+ total energy                          : -464.72956087086    
+ one-electron energy                   : -1798.2482274516    
+ two-electron energy                   :  741.86748550776    
+ energy increment                      :          -0.7148E-08
+ damping factor ttr                    :           0.3500    

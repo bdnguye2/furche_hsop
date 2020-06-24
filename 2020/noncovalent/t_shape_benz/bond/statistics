@@ -1,0 +1,60 @@
+Fri Jun 19 07:14:42 PDT 2020
+
+ DSCF STATISTICS OUTPUT :
+
+ integral neglect threshold       :  0.66E-11
+ integral storage threshold THIZE :  0.10E-04
+ integral storage threshold THIME :         5
+
+
+ --------------------    1.ITERATION  --------------------
+ norm of density matrix                :    5.14988810285    
+ number of shell pairs ii,jj included  :        12701
+ number of integral batches included   :     51936486
+ number of batches from twoint         :            0
+ unnecessary integral batches on file  :            0
+
+ total energy                          : -464.72715376601    
+ one-electron energy                   : -1805.2228439250    
+ two-electron energy                   :  745.37151561382    
+ damping factor ttr                    :           0.3000    
+
+ --------------------    2.ITERATION  --------------------
+ 
+  weight factors dlin for linear combination of density matrices :
+  0.99998900    
+ accerr=   2.000  crierr=1000.000  ilam=  0  grange= 0.0      chatol=   0.634
+
+ norm of difference density matrix     :   0.400106248476E-02
+ norm of simple difference density     :   0.400146332764E-02
+ norm of density matrix                :    5.14983302048    
+ number of shell pairs ii,jj included  :        12771
+ number of integral batches included   :     28279394
+ number of batches from twoint         :            0
+ unnecessary integral batches on file  :            0
+
+ total energy                          : -464.72715423792    
+ one-electron energy                   : -1805.2229211386    
+ two-electron energy                   :  745.37159235558    
+ energy increment                      :          -0.4719E-06
+ damping factor ttr                    :           0.2500    
+
+ --------------------    3.ITERATION  --------------------
+ 
+  weight factors dlin for linear combination of density matrices :
+  0.99998569       1.2581148    
+ accerr=   2.636  crierr=  10.000  ilam=  0  grange= 0.0      chatol=   0.511
+
+ norm of difference density matrix     :   0.150385830773E-03
+ norm of simple difference density     :   0.104376487867E-02
+ norm of density matrix                :    5.14981688567    
+ number of shell pairs ii,jj included  :        12799
+ number of integral batches included   :     18538034
+ number of batches from twoint         :            0
+ unnecessary integral batches on file  :            0
+
+ total energy                          : -464.72978081049    
+ one-electron energy                   : -1805.2228984407    
+ two-electron energy                   :  745.36894308509    
+ energy increment                      :          -0.3606E-07
+ damping factor ttr                    :           0.3000    

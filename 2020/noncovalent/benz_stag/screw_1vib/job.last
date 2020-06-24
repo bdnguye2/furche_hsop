@@ -1,0 +1,962 @@
+
+OPTIMIZATION CYCLE 35
+Mon Jun 22 20:34:37 PDT 2020
+           Doing BLAS/Lapack in the master proc. with 16 CPUs.
+           SMPCPUS    set: Shared-memory Parallelization with  28 CPUs.
+
+           SMP Parallelization Reference:
+           C. van Wullen, J. Comput. Chem. 32 (2011) 1195--1201
+
+ rdgrad (c-12-38) : TURBOMOLE V7.2 ( 21454 ) 4 Oct 2017 at 12:48:15
+ Copyright (C) 2017 TURBOMOLE GmbH, Karlsruhe
+
+
+    2020-06-22 20:34:37.550 
+
+
+
+                                 r d g r a d
+
+                          gradient for ridft program 
+
+                        by K.Eichkorn, O.Treutler, H.Oehm, 
+                             M.Haeser and R.Ahlrichs
+                  (Chemical Physics Letters 242 (1995) 652-660)
+                    parallel version: M.v.Arnim  &  R.Ahlrichs
+                            quantum chemistry group
+                             university  karlsruhe
+                                   germany
+
+
+
+
+                          References             
+                                                 
+          Density Functional:                              
+              O. Treutler and R. Ahlrichs                      
+              Efficient Molecular Numerical Integration Schemes
+              J. chem. Phys. 102: 346 (1995)                   
+          Parallel Version:                                
+              Performance of parallel TURBOMOLE for Density    
+              Functional Calculations                          
+              M. v.Arnim and R. Ahlrichs                      
+              J. comp. Chem. 19: 1746 (1998)                   
+          RI-J Method:                                     
+              Auxiliary Basis Sets to approximate Coulomb      
+              Potentials                                       
+              Chem. Phys. Lett. 240: 283 (1995)                
+              K. Eichkorn, O. Treutler, H. Oehm, M. Haeser     
+              and R. Ahlrichs                                  
+              Chem. Phys. Lett. 242: 652 (1995)                
+                                                           
+              Auxiliary Basis Sets for Main Row Atoms and their
+              Use to approximate Coulomb Potentials            
+              K. Eichkorn, F. Weigend, O. Treutler and         
+              R. Ahlrichs                                      
+              Theo. Chem. Acc. 97: 119 (1997)                   
+                                         
+
+
+
+ integral neglect threshold       :  0.66E-11
+ integral storage threshold THIZE :  0.10E-04
+ integral storage threshold THIME :         5
+
+
+ DENSITY CONVERGENCE CHECK SWITCHED ON !
+ SCF CONVERGENCE IF RMS(delta[D]) <     0.1000000000E-06
+
+ TPSS global hybrid functional
+ exchange:    9/10 (LDA+TPSS) + 1/10 HF
+ correlation: LDA (PW) + TPSS
+ A Hybrid-DFT calculation using the RI-J approximation will be carried out.
+  
+  
+ AUXILIARY BASIS SET information:
+
+ symmetry group of the molecule :   c1 
+
+ the group has the following generators :
+   c1(z)
+
+    1 symmetry operations found
+
+ there are 1 real representations :   a   
+
+ maximum number of shells which are related by symmetry :  1
+
+
+    mo occupation :
+   irrep   mo's   occupied
+    a      444       42
+ 
+ number of basis functions   :                    444
+ number of occupied orbitals :                     42
+ 
+
+ number of off-diagonal lagrangians expected :  0
+
+ biggest AO integral is expected to be     5.725698708
+  
+           ------------------
+           density functional
+           ------------------
+ TPSS global hybrid functional
+ exchange:    9/10 (LDA+TPSS) + 1/10 HF
+ correlation: LDA (PW) + TPSS
+
+ spherical integration : Lebedev's spherical grid
+ spherical gridsize    :                     5
+    i.e. gridpoints    :                   590
+ value for diffuse not defined
+ radial integration    : Chebyshev 2nd kind (scaling 3)
+ radial gridsize       :                     8
+ integration cells     :                    24
+ partition function    : becke
+ partition sharpness   :                     3
+  
+  
+           ------------------------
+             RDGRAD - INFORMATION
+           ------------------------
+  
+ Threshold for integral neglect (rithr1): 1E-10
+ Threshold for integral neglect (rithr2): 1E-10
+ Contributions to RI integral batches: 
+  neglected integral batches:                  2433
+  direct contribution:                        13857
+     
+ ****************************************
+ Memory allocated for RDGRAD: 7 MiB
+ ****************************************
+                                            
+     
+
+ nuclear repulsion energy  :   623.234096421    
+
+  MOs are in ASCII format !
+
+
+ reading orbital data $scfmo  from file mos
+ orbital characterization : scfconv=7
+  Deviation of MOs from orthonormality   1.088932277681920E-010
+  W A R N I N G 
+
+    ----------------------------------------
+     S+T+V CONTRIBUTIONS TO ENERGY GRADIENT 
+    ----------------------------------------
+
+ 1e-integral 1st. derivatives will be neglected if expon. factor < 0.132841E-13
+
+  _________________________________
+ |                                 |
+ |         DFTD3 V3.1 Rev 0        |
+ | S.Grimme, University Bonn       |
+ |            June  2014           |
+ |   see standalone version        |
+ |       dftd3 -h for options      |
+ |_________________________________|
+ 
+ Please cite DFT-D3 work done with this code as:
+ S. Grimme, J. Antony, S. Ehrlich and H. Krieg,
+ J. Chem. Phys, 132 (2010), 154104.
+ If used with BJ-damping cite also
+ S. Grimme, S. Ehrlich and L. Goerigk,
+ J. Comput. Chem. 32 (2011), 1456-1465
+ For DFT-D2 the reference is
+ S. Grimme, J. Comput. Chem., 27 (2006), 1787-1799
+ 
+C6 coefficients used:
+                     2  C6 for element                      1
+Z=  1 CN= 0.912     C6(AA)=    3.03
+Z=  1 CN= 0.000     C6(AA)=    7.59
+                     5  C6 for element                      6
+Z=  6 CN= 0.000     C6(AA)=   49.11
+Z=  6 CN= 0.987     C6(AA)=   43.25
+Z=  6 CN= 1.998     C6(AA)=   29.36
+Z=  6 CN= 2.999     C6(AA)=   25.78
+Z=  6 CN= 3.984     C6(AA)=   18.21
+
+#           XYZ [au]              R0(AA) [Ang.]  CN          C6(AA)     C8(AA)   C10(AA) [au]
+  1   0.17405   4.22200   4.60930   h   0.417  1.003         3.1        37.3       553.0
+  2  -0.15661   3.96883   2.60323   c   0.644  3.137        25.3       732.2     25942.3
+  3  -2.19117   2.51990   1.77871   c   0.644  3.139        25.3       732.0     25935.3
+  4  -3.43585   1.63181   3.14082   h   0.417  1.003         3.1        37.3       553.0
+  5  -2.61134   2.18592  -0.79389   c   0.644  3.139        25.3       732.0     25935.5
+  6  -4.17701   1.03215  -1.43341   h   0.417  1.004         3.1        37.3       552.9
+  7  -0.99720   3.30210  -2.54412   c   0.644  3.138        25.3       732.1     25938.3
+  8  -1.31715   3.02980  -4.54912   h   0.417  1.003         3.1        37.3       553.0
+  9   1.03978   4.74795  -1.72236   c   0.644  3.136        25.3       732.3     25945.1
+ 10   2.30016   5.61253  -3.08688   h   0.417  1.003         3.1        37.3       553.0
+ 11   1.46168   5.08022   0.85338   c   0.644  3.136        25.3       732.3     25946.0
+ 12   3.04893   6.20573   1.49506   h   0.417  1.003         3.1        37.3       553.0
+ 13   0.09730  -3.89045   4.61711   h   0.417  1.003         3.1        37.3       553.0
+ 14  -2.95457  -6.08137   1.82738   h   0.417  1.003         3.1        37.3       553.0
+ 15   0.30960  -3.78327   2.58217   c   0.644  3.137        25.3       732.2     25941.0
+ 16  -1.40853  -5.01031   1.01471   c   0.644  3.136        25.3       732.3     25945.8
+ 17   2.29095  -2.40351   1.53864   c   0.644  3.139        25.3       732.0     25935.2
+ 18  -1.14045  -4.86305  -1.59883   c   0.644  3.136        25.3       732.3     25945.4
+ 19   3.61161  -1.42323   2.75820   h   0.417  1.004         3.1        37.3       552.9
+ 20  -2.47860  -5.81832  -2.82145   h   0.417  1.003         3.1        37.3       553.0
+ 21   2.55832  -2.25583  -1.07139   c   0.644  3.139        25.3       732.0     25935.4
+ 22   0.84419  -3.48782  -2.64014   c   0.644  3.138        25.3       732.2     25939.9
+ 23   4.08503  -1.15870  -1.88215   h   0.417  1.004         3.1        37.3       552.9
+ 24   1.04688  -3.36305  -4.67496   h   0.417  1.003         3.1        37.3       553.0
+
+molecular C6(AA) [au] =      6633.34
+
+           DFT-D V3(BJ)
+ DF tpssh                                             
+ parameters
+ s6       :    1.0000
+ s8       :    2.2382
+ a1       :    0.4529
+ a2       :    4.6550
+ k1-k3    :   16.0000    1.3333   -4.0000
+ 
+ Edisp /kcal,au:   -20.8955 -0.03329906
+
+ E6    /kcal :   -10.0245
+ E8    /kcal :   -10.8710
+ % E8        : 52.03
+ 
+ doing analytical gradient O(N^2) ...
+ 
+ |G|=  1.524939851764147E-002
+
+ setting up bound for integral derivative estimation
+
+ increment for numerical differentiation : 0.00050000
+
+ biggest AO integral is expected to be     5.725698708
+ biggest cartesian 1st derivative AO integral is expected to be    10.738636663
+
+ biggest 1-particle AO density matrix element is expected to be    0.8278700573
+
+ setting up bound for integral derivative estimation
+
+ increment for numerical differentiation : 0.00050000
+
+ biggest AO integral is expected to be     5.725698708
+ biggest cartesian 1st derivative AO integral is expected to be    10.738636663
+
+ 2e-integral 1st. derivatives will be neglected if expon. factor < 0.100000E-06
+ outer boundary for 2e-integral derivative neglection is 0.243178E-07
+
+          Overall gridpoints after grid construction =        369728
+
+ Integrated ground state density     :   84.00000418645260    
+
+
+          ------------------------------------------------
+           cartesian gradient of the energy (hartree/bohr)
+          ------------------------------------------------
+
+  ATOM      1 h           2 c           3 c           4 h           5 c 
+dE/dx  0.8851984D-06  0.4875193D-06 -0.1281398D-06  0.8407298D-06  0.3964729D-06
+dE/dy  0.6367183D-06  0.3767194D-06  0.2911015D-05  0.2137298D-05  0.1097578D-05
+dE/dz -0.1101022D-05  0.1348318D-06  0.1517390D-05 -0.4789954D-06  0.2101421D-05
+
+  ATOM      6 h           7 c           8 h           9 c          10 h 
+dE/dx -0.9634748D-08 -0.5821221D-06 -0.4706193D-06  0.7455801D-06  0.8931646D-06
+dE/dy  0.8413282D-06  0.7064171D-06  0.5232033D-07  0.1095748D-05 -0.2631005D-06
+dE/dz  0.1370200D-05  0.4518246D-06 -0.2725294D-06  0.1221475D-05 -0.6436544D-06
+
+  ATOM     11 c          12 h          13 h          14 h          15 c 
+dE/dx  0.1640608D-06  0.1188715D-05 -0.1223092D-05 -0.1403149D-05 -0.1061392D-05
+dE/dy -0.4543040D-06 -0.3171944D-06  0.1941298D-06  0.9949727D-06  0.1416989D-05
+dE/dz -0.1993928D-06 -0.7395805D-06 -0.1500655D-05 -0.3176459D-06 -0.9452738D-06
+
+  ATOM     16 c          17 c          18 c          19 h          20 h 
+dE/dx  0.7761819D-06 -0.2536679D-05 -0.2431233D-05 -0.1778421D-05 -0.1320210D-05
+dE/dy  0.9862546D-06 -0.1678899D-06  0.1567138D-05 -0.1745258D-06  0.3334606D-06
+dE/dz -0.8340941D-06  0.9517579D-06  0.3143232D-06 -0.1844026D-05 -0.5972613D-06
+
+  ATOM     21 c          22 c          23 h          24 h 
+dE/dx  0.5179691D-07 -0.8708032D-06  0.9676967D-07 -0.1461930D-06
+dE/dy  0.6703977D-06  0.5247361D-06 -0.8420067D-07 -0.1034278D-06
+dE/dz  0.1905772D-05 -0.1458064D-05 -0.1404970D-05 -0.7573962D-06
+ 
+ resulting FORCE  (fx,fy,fz) = (-.744D-05,0.150D-04,-.313D-05)
+ resulting MOMENT (mx,my,mz) = (0.135D-04,0.209D-04,-.936D-04)
+
+
+ exx =       0.000000 eyy =      -0.000009 ezz =      -0.000014
+ eyz =       0.000018 exz =      -0.000010 exy =       0.000019
+
+
+ **********************************************************************
+  |maximum component of gradient| : 0.29110150E-05  (atom  3 c )       
+   gradient norm                  : 0.91261335E-05
+ **********************************************************************
+   ***  cartesian gradients written onto <gradient>  ***
+
+
+     --- calculation of the energy gradient finished ---
+
+
+
+    ------------------------------------------------------------------------
+         total  cpu-time :  6 minutes and 37 seconds
+         total wall-time :  47.33 seconds
+    ------------------------------------------------------------------------
+
+   ****  rdgrad : all done  ****
+
+
+    2020-06-22 20:35:24.833 
+
+fine, there is no data group "$actual step"
+next step = relax
+
+ statpt (c-12-38) : TURBOMOLE V7.2 ( 21454 ) 2 Oct 2017 at 16:43:05
+ Copyright (C) 2017 TURBOMOLE GmbH, Karlsruhe
+
+
+    2020-06-22 20:35:24.951 
+
+
+
+                           this is S T A T P T   
+
+
+                     hessian and coordinate update for
+                          stationary point search 
+
+                     by barbara unterreiner, marek sierka,
+                           and reinhart ahlrichs
+
+                          quantum chemistry group
+                          universitaet  karlsruhe
+                                  germany
+
+
+
+
+              +--------------------------------------------------+
+              | Atomic coordinate, charge and isotop information |
+              +--------------------------------------------------+
+
+                    atomic coordinates            atom    charge  isotop
+          0.17405261    4.22200404    4.60930266    h      1.000     0
+         -0.15661316    3.96883077    2.60322510    c      6.000     0
+         -2.19117105    2.51990026    1.77870814    c      6.000     0
+         -3.43585274    1.63181264    3.14082407    h      1.000     0
+         -2.61134094    2.18591841   -0.79389056    c      6.000     0
+         -4.17701187    1.03214601   -1.43340555    h      1.000     0
+         -0.99720420    3.30209769   -2.54411520    c      6.000     0
+         -1.31715174    3.02979966   -4.54912024    h      1.000     0
+          1.03977841    4.74794606   -1.72236388    c      6.000     0
+          2.30016089    5.61252524   -3.08687799    h      1.000     0
+          1.46168264    5.08021922    0.85338210    c      6.000     0
+          3.04893159    6.20573055    1.49505670    h      1.000     0
+          0.09729526   -3.89044578    4.61711414    h      1.000     0
+         -2.95456860   -6.08137350    1.82738316    h      1.000     0
+          0.30960039   -3.78327245    2.58216912    c      6.000     0
+         -1.40852632   -5.01031451    1.01470776    c      6.000     0
+          2.29095284   -2.40351403    1.53863854    c      6.000     0
+         -1.14045258   -4.86305206   -1.59883017    c      6.000     0
+          3.61160820   -1.42323029    2.75819511    h      1.000     0
+         -2.47859581   -5.81832275   -2.82145159    h      1.000     0
+          2.55832158   -2.25582739   -1.07139147    c      6.000     0
+          0.84419449   -3.48782459   -2.64014047    c      6.000     0
+          4.08503081   -1.15869969   -1.88215450    h      1.000     0
+          1.04687930   -3.36305351   -4.67496500    h      1.000     0
+ 
+       center of nuclear mass  :   -0.00005479    0.00007799    0.00000697
+       center of nuclear charge:   -0.00004630    0.00006592    0.00000589
+  Keyword $statpt not found - using default options
+ 
+        ***************  Stationary point options ******************
+        ************************************************************
+           Maximum allowed trust radius:           3.000000E-01
+           Minimum allowed trust radius:           1.000000E-03
+           Initial trust radius:                   1.500000E-01
+           GDIIS used if gradient norm <           1.000000E-02
+           Number of previous steps for GDIIS:       5
+           Hessian update method:                  BFGS
+                        *** Convergence criteria ***                
+           Threshold for energy change:            1.000000E-06
+           Threshold for max displacement element: 1.000000E-03
+           Threshold for max gradient element :    1.000000E-03
+           Threshold for RMS of displacement:      5.000000E-04
+           Threshold for RMS of gradient:          5.000000E-04
+        ************************************************************
+ 
+
+ keyword $statp missing in file <control>
+
+  Keyword $statpt not found - using default options
+     Number of symmetry restricted degrees of freedom:    72
+     Constituted by:     3 translational degrees of freedom
+                         3 rotational degrees of freedom
+                      66 internal degrees of freedom
+
+  *************************************************************************
+   ATOM                      CARTESIAN COORDINATES
+    1 h       0.17405261132377      4.22200403868386      4.60930266231129
+    2 c      -0.15661316348447      3.96883077145334      2.60322510408892
+    3 c      -2.19117104844886      2.51990025697919      1.77870814050674
+    4 h      -3.43585273819348      1.63181264132116      3.14082407403442
+    5 c      -2.61134093878758      2.18591840873116     -0.79389056268801
+    6 h      -4.17701187330528      1.03214601073743     -1.43340554892039
+    7 c      -0.99720419912784      3.30209768933138     -2.54411520167447
+    8 h      -1.31715174428595      3.02979965694751     -4.54912024302034
+    9 c       1.03977841095263      4.74794606295896     -1.72236387812391
+   10 h       2.30016088647189      5.61252523811098     -3.08687799228174
+   11 c       1.46168264175995      5.08021922458610      0.85338210422934
+   12 h       3.04893159008690      6.20573054815598      1.49505669908832
+   13 h       0.09729526110165     -3.89044577924202      4.61711414162815
+   14 h      -2.95456860012595     -6.08137350458900      1.82738316344222
+   15 c       0.30960039226649     -3.78327245053259      2.58216911917255
+   16 c      -1.40852631969783     -5.01031451180298      1.01470776448797
+   17 c       2.29095283632882     -2.40351403392586      1.53863854092544
+   18 c      -1.14045257579114     -4.86305205572166     -1.59883016925852
+   19 h       3.61160819631196     -1.42323028697973      2.75819510958415
+   20 h      -2.47859580688651     -5.81832274898409     -2.82145159205800
+   21 c       2.55832158385203     -2.25582738755853     -1.07139147113503
+   22 c       0.84419448665559     -3.48782458927114     -2.64014046784469
+   23 h       4.08503081068255     -1.15869968589958     -1.88215449669223
+   24 h       1.04687930034063     -3.36305351348996     -4.67496499980223
+  *************************************************************************
+   ATOM                      CARTESIAN GRADIENTS  
+    1 h       0.00000088519838      0.00000063671834     -0.00000110102166
+    2 c       0.00000048751926      0.00000037671941      0.00000013483182
+    3 c      -0.00000012813984      0.00000291101505      0.00000151738966
+    4 h       0.00000084072984      0.00000213729810     -0.00000047899543
+    5 c       0.00000039647287      0.00000109757850      0.00000210142080
+    6 h      -0.00000000963475      0.00000084132821      0.00000137019970
+    7 c      -0.00000058212210      0.00000070641710      0.00000045182463
+    8 h      -0.00000047061930      0.00000005232033     -0.00000027252939
+    9 c       0.00000074558014      0.00000109574764      0.00000122147456
+   10 h       0.00000089316460     -0.00000026310050     -0.00000064365441
+   11 c       0.00000016406083     -0.00000045430398     -0.00000019939276
+   12 h       0.00000118871539     -0.00000031719436     -0.00000073958054
+   13 h      -0.00000122309165      0.00000019412979     -0.00000150065535
+   14 h      -0.00000140314876      0.00000099497274     -0.00000031764592
+   15 c      -0.00000106139200      0.00000141698927     -0.00000094527381
+   16 c       0.00000077618185      0.00000098625457     -0.00000083409407
+   17 c      -0.00000253667908     -0.00000016788989      0.00000095175795
+   18 c      -0.00000243123279      0.00000156713827      0.00000031432315
+   19 h      -0.00000177842065     -0.00000017452583     -0.00000184402611
+   20 h      -0.00000132021040      0.00000033346060     -0.00000059726133
+   21 c       0.00000005179691      0.00000067039767      0.00000190577217
+   22 c      -0.00000087080323      0.00000052473607     -0.00000145806381
+   23 h       0.00000009676967     -0.00000008420067     -0.00000140497011
+   24 h      -0.00000014619303     -0.00000010342783     -0.00000075739618
+  *************************************************************************
+
+  norm of actual CARTESIAN gradient:  9.12613E-06
+  norm of actual INTERNAL  gradient:  6.17042E-06
+
+  ENERGY =    -464.7299411543 a.u.; # of cycle =   35
+
+  Approximate Hessian read from $hessapprox data section
+
+  Hessian updated according to BFGS formula
+  Number of zero Hessian eigenvalues:   0
+  FOURTH criterion done:  -0.999795963557430       0.710000000000000     
+  Number of structures for GDIIS interpolation:    3
+  GDIIS step:     0.001476
+
+  Transforming internal coordinate displacements to Cartesian space
+      Iteration   1 residual norm     1.475782E-03
+      Iteration   2 residual norm     1.033313E-07
+      Iteration   3 residual norm     1.573120E-14
+      Transformation converged
+      Residual norm:    1.573120E-14 after    3 iterations
+
+      ****************************************************************** 
+                          CONVERGENCE INFORMATION
+
+                               Converged?     Value      Criterion
+             Energy change         yes      0.0000000   0.0000010
+             RMS of displacement   yes      0.0001817   0.0005000
+             RMS of gradient       yes      0.0000008   0.0005000
+             MAX displacement      yes      0.0005777   0.0010000
+             MAX gradient          yes      0.0000025   0.0010000
+      ****************************************************************** 
+
+
+    ------------------------------------------------------------------------
+         total  cpu-time :   0.46 seconds
+         total wall-time :   0.46 seconds
+    ------------------------------------------------------------------------
+
+   ****  statpt : all done  ****
+
+
+    2020-06-22 20:35:25.395 
+
+fine, there is no data group "$actual step"
+next step = ridft
+           Doing BLAS/Lapack in the master proc. with 16 CPUs.
+           SMPCPUS    set: Shared-memory Parallelization with  28 CPUs.
+
+           SMP Parallelization Reference:
+           C. van Wullen, J. Comput. Chem. 32 (2011) 1195--1201
+
+ ridft (c-12-38) : TURBOMOLE V7.2 ( 21454 ) 4 Oct 2017 at 12:48:15
+ Copyright (C) 2017 TURBOMOLE GmbH, Karlsruhe
+
+
+    2020-06-22 20:35:25.889 
+
+
+
+                                  r i d f t
+
+                        DFT program with RI approximation 
+                                for coulomb part 
+
+
+
+
+                                                 
+                                 References:     
+                                                 
+          TURBOMOLE:                             
+              R. Ahlrichs, M. Baer, M. Haeser, H. Horn, and
+              C. Koelmel
+              Electronic structure calculations on workstation
+              computers: the program system TURBOMOLE
+              Chem. Phys. Lett. 162: 165 (1989)
+          Density Functional:                              
+              O. Treutler and R. Ahlrichs                      
+              Efficient Molecular Numerical Integration Schemes
+              J. Chem. Phys. 102: 346 (1995)                   
+          Parallel Version:                                
+              Performance of parallel TURBOMOLE for Density    
+              Functional Calculations                          
+              M. v. Arnim and R. Ahlrichs                      
+              J. Comp. Chem. 19: 1746 (1998)                   
+          RI-J Method:                                     
+              Auxiliary Basis Sets to approximate Coulomb      
+              Potentials                                       
+              Chem. Phys. Lett. 240: 283 (1995)                
+              K. Eichkorn, O. Treutler, H. Oehm, M. Haeser     
+              and R. Ahlrichs                                  
+              Chem. Phys. Lett. 242: 652 (1995)                
+                                                           
+              Auxiliary Basis Sets for Main Row Atoms and their
+              Use to approximate Coulomb Potentials            
+              K. Eichkorn, F. Weigend, O. Treutler and         
+              R. Ahlrichs                                      
+              Theo. Chem. Acc. 97: 119 (1997)                   
+                                                           
+              Accurate Coulomb-fitting basis sets for H to Rn 
+              F. Weigend                                        
+              Phys. Chem. Chem. Phys. 8: 1057 (2006)            
+                                                           
+          Multipole accelerated RI-J (MARI-J):             
+              Fast evaluation of the Coulomb potential for     
+              electron densities using multipole accelerated   
+              resolution of identity approximation             
+              M. Sierka, A. Hogekamp and R. Ahlrichs           
+              J. Chem. Phys. 118: 9136 (2003)                  
+          RI-JK Method:                                     
+              A fully direct RI-HF algorithm: Implementation,
+              optimised auxiliary basis sets, demonstration of
+              accuracy and efficiency                         
+              F. Weigend                                      
+              Phys. Chem. Chem. Phys. 4: 4285 (2002)           
+          Two-component HF and DFT with spin-orbit coupling:  
+              Self-consistent treatment of spin-orbit         
+              interactions with efficient Hartree-Fock and    
+              density functional methods                      
+              M. K. Armbruster, F. Weigend, C. van Wüllen and 
+              W. Klopper                                      
+              Phys. Chem. Chem. Phys. 10: 1748 (2008)         
+          Relativistic all-electron 2c calculations           
+              An efficient implementation of two-component    
+              relativistic exact-decoupling methods for large 
+              molecules                                       
+              D. Peng, N. Middendorf, F. Weigend, M. Reiher   
+              J. Chem. Phys. 138, 184105 (2013)               
+                                         
+
+
+
+
+              +--------------------------------------------------+
+              |      general information about current run       |
+              +--------------------------------------------------+
+
+ 
+
+ DENSITY CONVERGENCE CHECK SWITCHED ON !
+ SCF CONVERGENCE IF RMS(delta[D]) <     0.1000000000E-06
+
+ TPSS global hybrid functional
+ exchange:    9/10 (LDA+TPSS) + 1/10 HF
+ correlation: LDA (PW) + TPSS
+ A Hybrid-DFT calculation using the RI-J approximation will be carried out.
+ Allocatable memory for RI due to $ricore (MB):                 55000
+
+
+              +--------------------------------------------------+
+              | Atomic coordinate, charge and isotop information |
+              +--------------------------------------------------+
+
+                    atomic coordinates            atom    charge  isotop
+          0.17371653    4.22185547    4.60939235    h      1.000     0
+         -0.15680273    3.96874681    2.60328251    c      6.000     0
+         -2.19128292    2.51981773    1.77857081    c      6.000     0
+         -3.43604940    1.63166799    3.14056879    h      1.000     0
+         -2.61126356    2.18591597   -0.79406906    c      6.000     0
+         -4.17687382    1.03214445   -1.43373454    h      1.000     0
+         -0.99701454    3.30217485   -2.54413998    c      6.000     0
+         -1.31681277    3.02993912   -4.54917753    h      1.000     0
+          1.03988998    4.74802249   -1.72219398    c      6.000     0
+          2.30035875    5.61266413   -3.08658895    h      1.000     0
+          1.46160444    5.08021543    0.85359358    c      6.000     0
+          3.04879176    6.20572671    1.49542095    h      1.000     0
+          0.09759853   -3.89021155    4.61714107    h      1.000     0
+         -2.95447874   -6.08123318    1.82771847    h      1.000     0
+          0.30977192   -3.78314115    2.58217698    c      6.000     0
+         -1.40847536   -5.01023507    1.01488858    c      6.000     0
+          2.29107365   -2.40345864    1.53844917    c      6.000     0
+         -1.14057287   -4.86310159   -1.59867437    c      6.000     0
+          3.61181956   -1.42313180    2.75787327    h      1.000     0
+         -2.47881089   -5.81841174   -2.82116147    h      1.000     0
+          2.55827171   -2.25590103   -1.07160532    c      6.000     0
+          0.84402414   -3.48795145   -2.64018192    c      6.000     0
+          4.08494225   -1.15883371   -1.88252323    h      1.000     0
+          1.04657439   -3.36328025   -4.67502619    h      1.000     0
+ 
+       center of nuclear mass  :   -0.00005466    0.00007778    0.00000683
+       center of nuclear charge:   -0.00004620    0.00006573    0.00000577
+
+              +--------------------------------------------------+
+              |               basis set information              |
+              +--------------------------------------------------+
+
+              we will work with the 1s 3p 5d 7f 9g ... basis set
+              ...i.e. with spherical basis functions...
+
+   type   atoms  prim   cont   basis
+   ---------------------------------------------------------------------------
+    h       12      8      6   def2-TZVP   [3s1p|5s1p]
+    c       12     46     31   def2-TZVP   [5s3p2d1f|11s6p2d1f]
+   ---------------------------------------------------------------------------
+   total:   24    648    444
+   ---------------------------------------------------------------------------
+
+   total number of primitive shells          :   26
+   total number of contracted shells         :  180
+   total number of cartesian basis functions :  504
+   total number of SCF-basis functions       :  444
+
+
+ integral neglect threshold       :  0.66E-11
+ integral storage threshold THIZE :  0.10E-04
+ integral storage threshold THIME :         5
+
+ RI-J AUXILIARY BASIS SET information:
+
+              we will work with the 1s 3p 5d 7f 9g ... basis set
+              ...i.e. with spherical basis functions...
+
+   type   atoms  prim   cont   basis
+   ---------------------------------------------------------------------------
+    h       12     16     11   def2-TZVP   [3s1p1d|5s2p1d]
+    c       12     70     49   def2-TZVP   [6s4p3d1f1g|12s5p4d2f1g]
+   ---------------------------------------------------------------------------
+   total:   24   1032    720
+   ---------------------------------------------------------------------------
+
+   total number of primitive shells          :   32
+   total number of contracted shells         :  240
+   total number of cartesian basis functions :  876
+   total number of SCF-basis functions       :  720
+
+
+ symmetry group of the molecule :   c1 
+
+ the group has the following generators :
+   c1(z)
+
+    1 symmetry operations found
+
+ there are 1 real representations :   a   
+
+ maximum number of shells which are related by symmetry :  1
+
+
+    mo occupation :
+   irrep   mo's   occupied
+    a      444       42
+ 
+ number of basis functions   :                    444
+ number of occupied orbitals :                     42
+ 
+  
+           ------------------
+           density functional
+           ------------------
+ TPSS global hybrid functional
+ exchange:    9/10 (LDA+TPSS) + 1/10 HF
+ correlation: LDA (PW) + TPSS
+
+ spherical integration : Lebedev's spherical grid
+ spherical gridsize    :                     5
+    i.e. gridpoints    :                   590
+ value for diffuse not defined
+ radial integration    : Chebyshev 2nd kind (scaling 3)
+ radial gridsize       :                     8
+ integration cells     :                    24
+ partition function    : becke
+ partition sharpness   :                     3
+  
+
+ biggest AO integral is expected to be     5.725698708
+  
+           ------------------------
+               RI-J - INFORMATION
+           ------------------------
+ Contributions to RI integral batches: 
+  neglected integral batches:                  2433
+  direct contribution:                            0
+  memory contribution:                 13857
+ Memory core needed for (P|Q) and Cholesky      4 MByte
+ Memory core minimum needed except of (P|Q)     2 MByte
+ Total minimum memory core needed (sum)         5 MByte
+  
+ ****************************************
+ Memory allocated for RI-J   757 MByte
+ ****************************************
+                                            
+
+          ------------------------
+          nuclear repulsion energy  :   623.234219741    
+          ------------------------
+
+  _________________________________
+ |                                 |
+ |         DFTD3 V3.1 Rev 0        |
+ | S.Grimme, University Bonn       |
+ |            June  2014           |
+ |   see standalone version        |
+ |       dftd3 -h for options      |
+ |_________________________________|
+ 
+ Please cite DFT-D3 work done with this code as:
+ S. Grimme, J. Antony, S. Ehrlich and H. Krieg,
+ J. Chem. Phys, 132 (2010), 154104.
+ If used with BJ-damping cite also
+ S. Grimme, S. Ehrlich and L. Goerigk,
+ J. Comput. Chem. 32 (2011), 1456-1465
+ For DFT-D2 the reference is
+ S. Grimme, J. Comput. Chem., 27 (2006), 1787-1799
+ 
+C6 coefficients used:
+                     2  C6 for element                      1
+Z=  1 CN= 0.912     C6(AA)=    3.03
+Z=  1 CN= 0.000     C6(AA)=    7.59
+                     5  C6 for element                      6
+Z=  6 CN= 0.000     C6(AA)=   49.11
+Z=  6 CN= 0.987     C6(AA)=   43.25
+Z=  6 CN= 1.998     C6(AA)=   29.36
+Z=  6 CN= 2.999     C6(AA)=   25.78
+Z=  6 CN= 3.984     C6(AA)=   18.21
+
+#           XYZ [au]              R0(AA) [Ang.]  CN          C6(AA)     C8(AA)   C10(AA) [au]
+  1   0.17372   4.22186   4.60939   h   0.417  1.003         3.1        37.3       553.0
+  2  -0.15680   3.96875   2.60328   c   0.644  3.137        25.3       732.2     25942.3
+  3  -2.19128   2.51982   1.77857   c   0.644  3.139        25.3       732.0     25935.3
+  4  -3.43605   1.63167   3.14057   h   0.417  1.003         3.1        37.3       553.0
+  5  -2.61126   2.18592  -0.79407   c   0.644  3.139        25.3       732.0     25935.5
+  6  -4.17687   1.03214  -1.43373   h   0.417  1.004         3.1        37.3       552.9
+  7  -0.99701   3.30217  -2.54414   c   0.644  3.138        25.3       732.1     25938.3
+  8  -1.31681   3.02994  -4.54918   h   0.417  1.003         3.1        37.3       553.0
+  9   1.03989   4.74802  -1.72219   c   0.644  3.136        25.3       732.3     25945.1
+ 10   2.30036   5.61266  -3.08659   h   0.417  1.003         3.1        37.3       553.0
+ 11   1.46160   5.08022   0.85359   c   0.644  3.136        25.3       732.3     25946.0
+ 12   3.04879   6.20573   1.49542   h   0.417  1.003         3.1        37.3       553.0
+ 13   0.09760  -3.89021   4.61714   h   0.417  1.003         3.1        37.3       553.0
+ 14  -2.95448  -6.08123   1.82772   h   0.417  1.003         3.1        37.3       553.0
+ 15   0.30977  -3.78314   2.58218   c   0.644  3.137        25.3       732.2     25941.0
+ 16  -1.40848  -5.01024   1.01489   c   0.644  3.136        25.3       732.3     25945.8
+ 17   2.29107  -2.40346   1.53845   c   0.644  3.139        25.3       732.0     25935.2
+ 18  -1.14057  -4.86310  -1.59867   c   0.644  3.136        25.3       732.3     25945.4
+ 19   3.61182  -1.42313   2.75787   h   0.417  1.004         3.1        37.3       552.9
+ 20  -2.47881  -5.81841  -2.82116   h   0.417  1.003         3.1        37.3       553.0
+ 21   2.55827  -2.25590  -1.07161   c   0.644  3.139        25.3       732.0     25935.4
+ 22   0.84402  -3.48795  -2.64018   c   0.644  3.138        25.3       732.2     25939.9
+ 23   4.08494  -1.15883  -1.88252   h   0.417  1.004         3.1        37.3       552.9
+ 24   1.04657  -3.36328  -4.67503   h   0.417  1.003         3.1        37.3       553.0
+
+molecular C6(AA) [au] =      6633.34
+
+           DFT-D V3(BJ)
+ DF tpssh                                             
+ parameters
+ s6       :    1.0000
+ s8       :    2.2382
+ a1       :    0.4529
+ a2       :    4.6550
+ k1-k3    :   16.0000    1.3333   -4.0000
+ 
+ Edisp /kcal,au:   -20.8955 -0.03329909
+
+ E6    /kcal :   -10.0245
+ E8    /kcal :   -10.8710
+ % E8        : 52.03
+ nuclear repulsion energy                  =     623.234219741
+ empirical dispersive energy correction    =      -0.033299088
+ nuclear repulsion + dispersion correction =     623.200920653
+
+
+         -----------------
+         -S,T+V- integrals
+         -----------------
+
+ 1e-integrals will be neglected if expon. factor < 0.663088E-12
+ Difference densities >>NOT<< switched on in parallel ridft!
+
+ DIIS switched on: error vector is FDS-SDF
+ Max. Iterations for DIIS is     :   4
+ DIIS matrix (see manual) 
+    Scaling factor of diagonals  :  1.200
+    threshold for scaling factor :  0.000
+
+ scf convergence criterion : increment of total energy < .1000000D-06
+                  and increment of one-electron energy < .1000000D-03
+
+  MOs are in ASCII format !
+
+
+ automatic virtual orbital shift switched on 
+      shift if e(lumo)-e(homo) < 0.10000000    
+
+
+ reading orbital data $scfmo  from file mos
+ orbital characterization : scfconv=7
+
+ DSCF restart information will be dumped onto file mos
+
+
+ Starting SCF iterations
+
+          Overall gridpoints after grid construction =        369729
+
+ ITERATION  ENERGY          1e-ENERGY        2e-ENERGY     RMS[dD(SAO)]   TOL
+   1  -464.72994112722    -1861.5907940     773.65993220    0.000D+00 0.661D-11
+                            Exc = -63.0928111934     Coul =  843.408719537    
+                            exK = -6.65597614609    
+                              N = 84.000004182    
+                            current damping = 0.300
+ 
+          max. resid. norm for Fia-block=  4.004D-05 for orbital     28a         
+          max. resid. fock norm         =  1.280D-03 for orbital    433a         
+
+ ITERATION  ENERGY          1e-ENERGY        2e-ENERGY     RMS[dD(SAO)]   TOL
+   2  -464.72994114879    -1861.5907382     773.65987639    0.657D-06 0.661D-11
+                            Exc = -63.0928088206     Coul =  843.408661114    
+                            exK = -6.65597590445    
+                              N = 84.000004182    
+                            current damping = 0.300
+ 
+          Norm of current diis error: 0.15324E-03
+          max. resid. norm for Fia-block=  1.157D-05 for orbital     28a         
+          max. resid. fock norm         =  2.957D-04 for orbital    433a         
+
+ ENERGY & DENSITY CONVERGED !
+
+
+ ITERATION  ENERGY          1e-ENERGY        2e-ENERGY     RMS[dD(SAO)]   TOL
+   3  -464.72994114961    -1861.5907991     773.65993732    0.259D-06 0.661D-11
+                            Exc = -63.0928112176     Coul =  843.408724689    
+                            exK = -6.65597614978    
+                              N = 84.000004182    
+                            current damping = 0.350
+ 
+          Norm of current diis error: 0.14801E-03
+          max. resid. norm for Fia-block=  3.692D-06 for orbital     28a         
+          max. resid. fock norm         =  6.862D-05 for orbital    433a         
+
+ End of SCF iterations
+
+   convergence criteria satisfied after     3 iterations
+
+
+                  ------------------------------------------ 
+                 |  total energy      =   -464.72994114961  |
+                  ------------------------------------------ 
+                 :  kinetic energy    =    462.51161236871  :
+                 :  potential energy  =   -927.24155351832  :
+                 :  virial theorem    =      1.99522662823  :
+                 :  wavefunction norm =      0.99999999990  :
+                  .......................................... 
+
+
+ orbitals $scfmo  will be written to file mos
+
+    irrep                 38a         39a         40a         41a         42a   
+ eigenvalues H         -0.32315    -0.24907    -0.24005    -0.23996    -0.23252
+            eV          -8.7934     -6.7776     -6.5321     -6.5296     -6.3272
+ occupation              2.0000      2.0000      2.0000      2.0000      2.0000 
+
+    irrep                 43a         44a         45a         46a         47a   
+ eigenvalues H         -0.01977    -0.01782    -0.01681    -0.01575     0.03662
+            eV          -0.5379     -0.4850     -0.4573     -0.4285      0.9965
+ 
+ 
+ 
+ 
+ ==============================================================================
+                           electrostatic moments
+ ==============================================================================
+
+ reference point for electrostatic moments:    0.00000   0.00000   0.00000
+
+ 
+              nuc           elec       ->  total
+ ------------------------------------------------------------------------------
+                          charge      
+ ------------------------------------------------------------------------------
+          84.000000     -84.000000       0.000000
+ 
+ ------------------------------------------------------------------------------
+                       dipole moment  
+ ------------------------------------------------------------------------------
+   x      -0.003881       0.004543       0.000662
+   y       0.005522      -0.005414       0.000108
+   z       0.000485      -0.000169       0.000316
+ 
+   | dipole moment | =     0.0007 a.u. =     0.0019 debye 
+ 
+ ------------------------------------------------------------------------------
+                     quadrupole moment
+ ------------------------------------------------------------------------------
+  xx     281.775066    -333.113849     -51.338783
+  yy    1234.781436   -1290.898877     -56.117441
+  zz     380.110421    -427.753656     -47.643235
+  xy       3.843594       1.445204       5.288798
+  xz      -4.070844       3.991048      -0.079796
+  yz      12.708640     -12.612778       0.095862
+ 
+     1/3  trace=     -51.699819
+     anisotropy=      11.752159
+ 
+ ==============================================================================
+ 
+
+
+    ------------------------------------------------------------------------
+         total  cpu-time : 12 minutes and 56 seconds
+         total wall-time :  35.21 seconds
+    ------------------------------------------------------------------------
+
+   ****  ridft : all done  ****
+
+
+    2020-06-22 20:36:01.050 
+
+fine, there is no data group "$actual step"
+next step = rdgrad
+ energy change  : actual value =  -0.4990E-07 threshold =   0.1000E-05
+ geom. gradient : actual value =   0.2465E-05 threshold =   0.1000E-02
+
+CONVERGENCY CRITERIA FULFILLED IN CYCLE 35
+

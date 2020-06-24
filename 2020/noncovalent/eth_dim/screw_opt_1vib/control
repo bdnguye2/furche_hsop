@@ -1,0 +1,95 @@
+$title
+$symmetry c1
+$redundant    file=coord
+$user-defined bonds    file=coord
+$coord    file=coord
+$optimize
+ internal   on
+ redundant  on
+ cartesian  off
+ global     off
+ basis      off
+$atoms
+c  1-2,9-10                                                                    \
+   basis =c def2-TZVP                                                          \
+   jbas  =c def2-TZVP
+h  3-8,11-16                                                                   \
+   basis =h def2-TZVP                                                          \
+   jbas  =h def2-TZVP
+$basis    file=basis
+$scfmo   file=mos
+$closed shells
+ a       1-18                                   ( 2 )
+$scfiterlimit       50
+$thize     0.10000000E-04
+$thime        5
+$scfdamp   start=0.300  step=0.050  min=0.100
+$scfdump
+$scfintunit
+ unit=30       size=0        file=twoint
+$scfdiis
+$maxcor    4500 MiB  per_core
+$scforbitalshift  automatic=.1
+$drvopt
+   cartesian  on
+   basis      off
+   global     off
+   hessian    on
+   dipole     on
+   nuclear polarizability
+$interconversion  off
+   qconv=1.d-7
+   maxiter=25
+$coordinateupdate
+   dqmax=0.3
+   interpolate  on
+   statistics    5
+$forceupdate
+   ahlrichs numgeo=0  mingeo=3 maxgeo=4 modus=<g|dq> dynamic fail=0.3
+   threig=0.005  reseig=0.005  thrbig=3.0  scale=1.00  damping=0.0
+$forceinit on
+   diag=default
+$energy    file=energy
+$grad    file=gradient
+$forceapprox    file=forceapprox
+$ricore    55000
+$rij
+$jbas    file=auxbasis
+$dft
+   functional tpssh
+   gridsize   4
+$scfconv        7
+$disp3 bj
+$rundimensions
+   natoms=16
+   nbf(CAO)=216
+   nbf(AO)=196
+$last step     force
+$last SCF energy change = -.34250320E-07
+$charge from ridft
+          0.000 (not to be modified here)
+$dipole from force
+  x    -0.00009779213460    y     0.00047172891149    z     0.00019955113748    a.u.
+   | dipole | =    0.0013254086  debye
+$optinfo       file=optinfo
+$hessapprox   file=hessapprox
+$orbital_max_rnorm 0.32629271258502E-04
+$subenergy  Etot         E1                  Ej                Ex                 Ec                 En                 Disp
+-159.7409257951    -462.2325198187     202.4693305184    -25.12234093355    -1.122270124112     126.2763421121    -.9467549191965E-02
+$dipgrad    file=dipgrad
+$hessian (projected)    file=hessian
+$vibrational normal modes    file=vib_normal_modes
+$vibrational reduced masses
+   3.4216094951   2.9254292394   3.3547447472   3.3783844233   3.6071183815
+   2.5589512067   1.3554522227   1.2593486270   1.8825011548   3.7386767149
+   1.5219830548   1.5477748696   1.0081257974   1.0081340241   1.0575203331
+   1.0573324642   1.0573837719   1.0566262222   3.3697707862   3.3868044936
+   1.4683588000   1.4675312130   1.4665060610   1.4671067730   1.1989486918
+   1.1988390893   1.2414205246   1.2393167243   1.0277575700   1.0262778238
+   1.0244340543   1.0599736669   1.0215150030   1.0530924691   1.0568895178
+   1.0547924474   1.0358012542   1.0357475612   1.0337567564   1.0338490561
+   1.1003685296   1.1004641514   1.1003428984   1.1003053853   1.1024798780
+   1.1024797229   1.1025639845   1.1023421770
+$nvibro       48
+$vibrational spectrum    file=vibspectrum
+$end

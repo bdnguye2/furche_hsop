@@ -1,0 +1,13 @@
+-------------- slurm.epilog ---------------
+Job ID:    2427536
+User:      bdnguye2
+Group:     furche
+Job Name:  geo_opt_benzene
+Partition: ilg2.3
+QOS:       normal 
+Account:   furche
+Reason:    None,c-13-38
+Nodelist:  c-13-38
+Command:   /DFS-L/DATA/furche/bdnguye2/furche_hsop/noncovalent/benzene/run_slurm.turbomole
+WorkDir:   /DFS-L/DATA/furche/bdnguye2/furche_hsop/noncovalent/benzene
+BatchHost: c-13-38

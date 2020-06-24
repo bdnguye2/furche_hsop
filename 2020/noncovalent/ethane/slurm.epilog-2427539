@@ -1,0 +1,13 @@
+-------------- slurm.epilog ---------------
+Job ID:    2427539
+User:      bdnguye2
+Group:     furche
+Job Name:  geo_opt_ethane
+Partition: ilg2.3
+QOS:       normal 
+Account:   furche
+Reason:    None,c-13-41
+Nodelist:  c-13-41
+Command:   /DFS-L/DATA/furche/bdnguye2/furche_hsop/noncovalent/ethane/run_slurm.turbomole
+WorkDir:   /DFS-L/DATA/furche/bdnguye2/furche_hsop/noncovalent/ethane
+BatchHost: c-13-41
