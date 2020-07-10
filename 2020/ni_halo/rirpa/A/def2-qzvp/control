@@ -1,0 +1,82 @@
+$title
+$symmetry c1
+$redundant    file=coord
+$user-defined bonds    file=coord
+$coord    file=coord
+$optimize
+ internal   on
+ redundant  on
+ cartesian  off
+ global     off
+ basis      off
+$atoms
+o  1                                                                           \
+   basis =o def2-QZVP                                                          \
+   cbas  =o def2-QZVP                                                          \
+   jbas  =o def2-QZVP
+h  2-3                                                                         \
+   basis =h def2-QZVP                                                          \
+   cbas  =h def2-QZVP                                                          \
+   jbas  =h def2-QZVP
+$basis    file=basis
+$scfmo   file=mos
+$closed shells
+ a       1-5                                    ( 2 )
+$scfiterlimit       30
+$thize     0.10000000E-04
+$thime        5
+$scfdamp   start=0.300  step=0.050  min=0.100
+$scfdump
+$scfintunit
+ unit=30       size=0        file=twoint
+$scfdiis
+$maxcor    500 MiB  per_core
+$scforbitalshift  automatic=.1
+$drvopt
+   cartesian  on
+   basis      off
+   global     off
+   hessian    on
+   dipole     on
+   nuclear polarizability
+$interconversion  off
+   qconv=1.d-7
+   maxiter=25
+$coordinateupdate
+   dqmax=0.3
+   interpolate  on
+   statistics    5
+$forceupdate
+   ahlrichs numgeo=0  mingeo=3 maxgeo=4 modus=<g|dq> dynamic fail=0.3
+   threig=0.005  reseig=0.005  thrbig=3.0  scale=1.00  damping=0.0
+$forceinit on
+   diag=default
+$energy    file=energy
+$grad    file=gradient
+$forceapprox    file=forceapprox
+$ricore      500
+$rij
+$jbas    file=auxbasis
+$dft
+   functional pbe
+   gridsize   4
+$scfconv   7
+$rirpa
+    npoints                    100
+$rundimensions
+   natoms=3
+   nbf(CAO)=142
+   nbf(AO)=117
+$last step     rirpa
+$orbital_max_rnorm 0.72203787729490E-06
+$last SCF energy change = -76.386999
+$subenergy  Etot         E1                  Ej                Ex                 Ec                 En
+-76.38699919413    -122.7979649402     46.57771771402    -8.907159435383    -.3242393571179     9.064646824513
+$charge from ridft
+          0.000 (not to be modified here)
+$dipole from ridft
+  x     0.00000000000237    y     0.00000000000195    z    -0.73683020112818    a.u.
+   | dipole | =    1.8728497172  debye
+$cbas file=auxbasis
+$last RIRPA energy change= -.15515940
+$end
