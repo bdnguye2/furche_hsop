@@ -1,0 +1,4090 @@
+WEBVTT
+
+1
+00:01:55.680 --> 00:01:56.340
+Brian Nguyen: All right.
+
+2
+00:02:07.980 --> 00:02:13.410
+Brian Nguyen: At least we have one more, one more, one where it's going to show up.
+
+3
+00:02:15.780 --> 00:02:17.100
+Brian Nguyen: Wait for a few MIT.
+
+4
+00:02:20.280 --> 00:02:21.540
+Brian Nguyen: How's everyone's weekend.
+
+5
+00:03:20.640 --> 00:03:21.900
+Samuel Bekoe: Hey, can you guys hear me.
+
+6
+00:03:38.220 --> 00:03:38.790
+Brian Nguyen: If you can
+
+7
+00:03:39.900 --> 00:03:41.040
+Brian Nguyen: Kind of get started in
+
+8
+00:03:42.090 --> 00:03:43.080
+Brian Nguyen: May before we
+
+9
+00:03:44.640 --> 00:03:50.370
+Brian Nguyen: Actually start the presentation. I think it'd be good, that maybe we all introduce ourselves again.
+
+10
+00:03:51.930 --> 00:04:10.740
+Brian Nguyen: Because I think a few people you hadn't seen maybe the last Friday that hadn't talked too much. Right. So I'd say that's probably a good idea to be true studios to Jerry one, last one, last time before you know because preferences, you're going to work on what project you like work on
+
+11
+00:04:12.570 --> 00:04:13.140
+Brian Nguyen: But, uh,
+
+12
+00:04:15.660 --> 00:04:35.730
+Brian Nguyen: Well, I guess I'll get started. You guys know me. I've been there. Yeah, you're at against your substitute teacher or wherever mentor has in the past week. Feel a little sad every asking you guys on to act. True, true mentors. Right. And so I hope you guys
+
+13
+00:04:35.760 --> 00:04:38.250
+Brian Nguyen: learned something new. Again, I'm Brian
+
+14
+00:04:39.480 --> 00:04:45.720
+Brian Nguyen: In the fourth year graduate students working on understanding, whatnot great directions are good.
+
+15
+00:04:49.380 --> 00:04:49.710
+Right.
+
+16
+00:04:51.900 --> 00:04:52.260
+Brian Nguyen: Again,
+
+17
+00:05:13.890 --> 00:05:16.200
+Victoria Choi: Incoming junior high school
+
+18
+00:05:18.420 --> 00:05:20.070
+Victoria Choi: as anything else I need to say
+
+19
+00:05:26.010 --> 00:05:26.760
+Brian Nguyen: It was tree.
+
+20
+00:05:28.530 --> 00:05:30.510
+Brian Nguyen: What we did last week.
+
+21
+00:05:33.840 --> 00:05:36.420
+Victoria Choi: I went to the field and I call
+
+22
+00:05:42.120 --> 00:05:47.700
+Aakrsh: My name is Dr. I am 50 years old. I'll be a junior next year at Dana hillsides.
+
+23
+00:05:53.400 --> 00:05:54.360
+Brian Nguyen: What to do where we can
+
+24
+00:05:55.950 --> 00:06:02.460
+Aakrsh: Oh last weekend. It was a friend's birthday. So I did. We did like a drive by think
+
+25
+00:06:06.480 --> 00:06:10.710
+thanh: I am. My name is Tom and I'm from I'm introducing your at
+
+26
+00:06:10.920 --> 00:06:15.210
+thanh: Valley High School. And one thing I did last weekend was
+
+27
+00:06:16.860 --> 00:06:19.440
+thanh: I made a cake cake for my friends.
+
+28
+00:06:21.090 --> 00:06:22.290
+jeffrt7: Is the other ones like
+
+29
+00:06:22.560 --> 00:06:25.770
+jeffrt7: Ice cream in the middle of a bunch of lava cake so us
+
+30
+00:06:29.010 --> 00:06:30.300
+Theresa Carlos: My name is Teresa.
+
+31
+00:06:30.390 --> 00:06:42.660
+Theresa Carlos: I'm 16 years old and I'm going to be a senior in high school in New Jersey. And one thing I did over the weekend. I got bubble tea with my siblings and we went to the park.
+
+32
+00:06:44.580 --> 00:06:44.850
+Theresa Carlos: Yeah.
+
+33
+00:06:53.460 --> 00:06:55.260
+jeffrt7: I'm Jeffrey for cigarettes, then
+
+34
+00:06:57.600 --> 00:07:00.450
+jeffrt7: I don't. Yeah, my weekend was kind of boring.
+
+35
+00:07:01.680 --> 00:07:10.200
+jeffrt7: My sleep schedule is thrown off wax. I was like, out of it for most of the day by still mustered up the mental capacity to read a bunch of papers.
+
+36
+00:07:11.880 --> 00:07:12.120
+Yeah.
+
+37
+00:07:18.120 --> 00:07:22.080
+Eva Von Domaros: Okay, so I'm EVA. I'm a postdoc in our group.
+
+38
+00:07:23.190 --> 00:07:24.660
+Eva Von Domaros: Yeah, my work weekend.
+
+39
+00:07:25.680 --> 00:07:33.750
+Eva Von Domaros: Hasn't been too exciting either. I was current evening. So I tried to stay away from people. Um,
+
+40
+00:07:34.950 --> 00:07:36.390
+Eva Von Domaros: Yeah, so that's it.
+
+41
+00:07:39.960 --> 00:07:40.290
+Eva Von Domaros: Hi.
+
+42
+00:07:40.980 --> 00:07:55.440
+Samuel Bekoe: My name is Samuel and I'm a second year of grad student. I'm a weekend or spent just cleaning my apartment and doing laundry and talking to friends and family back home. Yeah.
+
+43
+00:07:58.170 --> 00:08:00.750
+Brian Nguyen: This is a perfect time to do some cleaning
+
+44
+00:08:02.040 --> 00:08:02.280
+Brian Nguyen: Right.
+
+45
+00:08:03.450 --> 00:08:06.060
+Brian Nguyen: Okay, great. Thank you everyone for listening.
+
+46
+00:08:07.980 --> 00:08:15.000
+Brian Nguyen: So this guy today is that we will have some presentations read and mentors. So, Asia, Jeffrey, Sam.
+
+47
+00:08:16.500 --> 00:08:26.280
+Brian Nguyen: Patience to show up soon. Anytime moment right now. Yes I text him so I'll give a three to five minutes for segmentation and about our research.
+
+48
+00:08:27.030 --> 00:08:34.830
+Brian Nguyen: What type of questions we're looking at. And then what what what type of roles you guys going to add in helping us out answering these questions.
+
+49
+00:08:35.790 --> 00:08:47.070
+Brian Nguyen: And then after this presentation will finish out what we were learning on Friday. So on the North Korean interactions. Are you guys ready to compete the binding energies are you own.
+
+50
+00:08:47.850 --> 00:08:57.300
+Brian Nguyen: Just let me know if you have problems, we can discover it one last time later define everything the whole whole deal. All right, now asking will show and
+
+51
+00:08:57.840 --> 00:09:10.950
+Brian Nguyen: Today will be the how to visualize some news molecular orbital interpret though all right into that ob, a very important point and skill you learn when you were working with your, your mentors. Alright.
+
+52
+00:09:12.480 --> 00:09:27.450
+Brian Nguyen: And the last thing I'll send, send out an email form a Google form to going to ask you what your preferences for some of the projects we have in your time availability. So that can can align your time time slots with their mentors. Right.
+
+53
+00:09:29.430 --> 00:09:40.770
+Brian Nguyen: Okay, so yeah. Are there any questions before we actually start with the presentation. Right. Okay. All right, so no questions.
+
+54
+00:09:41.790 --> 00:09:43.830
+Brian Nguyen: Well, okay, well,
+
+55
+00:09:45.930 --> 00:09:51.840
+Brian Nguyen: Anyway, like to, you know, centers like yeah, they're like to volunteer first
+
+56
+00:09:53.160 --> 00:09:53.760
+Brian Nguyen: Present.
+
+57
+00:10:00.090 --> 00:10:01.410
+Eva Von Domaros: I guess I can go first.
+
+58
+00:10:03.180 --> 00:10:04.950
+Eva Von Domaros: share my screen.
+
+59
+00:10:09.150 --> 00:10:10.590
+Eva Von Domaros: Wow, this is taking forever.
+
+60
+00:10:12.840 --> 00:10:14.910
+Brian Nguyen: Okay technology.
+
+61
+00:10:15.870 --> 00:10:19.500
+Eva Von Domaros: Yeah, might be due to the fact that I'm running a calculation in the background.
+
+62
+00:10:20.250 --> 00:10:20.610
+Brian Nguyen: Oh, yeah.
+
+63
+00:10:23.700 --> 00:10:24.240
+Brian Nguyen: All right.
+
+64
+00:10:26.280 --> 00:10:28.500
+Eva Von Domaros: Okay, here we go.
+
+65
+00:10:29.730 --> 00:10:45.150
+Eva Von Domaros: Okay, so the protest I envisioned for you would be quantum protons and acid base phenomena. I apologize for this presentation, being very, very basic, I guess you are way ahead of what I'm telling you know
+
+66
+00:10:45.960 --> 00:10:57.510
+Eva Von Domaros: Um, let's start with a brief introduction about assets and basis. I mean, you know, these substances from your daily life. So, you know, vinegar is acidic, you know that.
+
+67
+00:10:58.440 --> 00:11:05.670
+Eva Von Domaros: The sprinkles in your soda are just sold weighted carbon dioxide. And you also knows nitric acid.
+
+68
+00:11:06.450 --> 00:11:13.050
+Eva Von Domaros: Um, you also know that baking soda is basic, and then you need to add an s to make it work.
+
+69
+00:11:13.770 --> 00:11:34.440
+Eva Von Domaros: I want bladder slightly basic so this basic. Um, so you're familiar with these substances and you see the underlying chemical reactions here. So an acid molecule ha loses the H plus and the back reaction would be a base molecule be which accepts an H plus to form.
+
+70
+00:11:35.520 --> 00:11:36.300
+Eva Von Domaros: These
+
+71
+00:11:37.470 --> 00:11:55.110
+Eva Von Domaros: Class and await ions and the easier the molecule lose the proton or the more protons can be extracted by base molecules and the more acidic or the, the stronger the acid or the stronger the base.
+
+72
+00:11:56.490 --> 00:11:58.530
+Eva Von Domaros: So that's essentially it
+
+73
+00:12:01.980 --> 00:12:15.060
+Eva Von Domaros: So if we now go to photo assets that means we go one step further photo means that you shine light on molecules and excite them. That means you transfer the molecule.
+
+74
+00:12:15.870 --> 00:12:35.910
+Eva Von Domaros: To any excited states. And then there are molecules which are more acidic when they're excited. So after shining light on them, they lose the proton easier and molecules can also be more basic and excited states and these substances are called photo acids and photo basis and
+
+75
+00:12:37.140 --> 00:12:59.100
+Eva Von Domaros: You might have noticed that everything that is photo in it is pretty fancy and has amazing applications, especially nowadays, where we want to have sustainable energy. So everything that is photo in it means it kind of absorbs energy from the sunlight, which we can then transform to other
+
+76
+00:13:00.270 --> 00:13:07.860
+Eva Von Domaros: Kinds of energy. So these molecules have really amazing applications. And this is why we are so interested in them.
+
+77
+00:13:09.660 --> 00:13:18.450
+Eva Von Domaros: Okay Um okay now let's come to the theory. So this project is kind of all about these H plus particles.
+
+78
+00:13:19.590 --> 00:13:29.670
+Eva Von Domaros: You know, from Brian's introduction that we treat atoms and electrons in a different way on a different level. So atoms are what we call a classical particles.
+
+79
+00:13:30.000 --> 00:13:36.720
+Eva Von Domaros: They have positions XYZ, and they have a velocity or they don't have a velocity. And so that's fine too.
+
+80
+00:13:37.290 --> 00:13:51.000
+Eva Von Domaros: And they have mess and charge and the entire mess is assumed to be on that specific point in space electrons. On the other hand, are very, very small. So, we call them quantum particles and
+
+81
+00:13:52.080 --> 00:13:59.760
+Eva Von Domaros: they obey the uncertainty principle, which means we do not know the exact position empty except velocity at the same time.
+
+82
+00:14:00.870 --> 00:14:18.060
+Eva Von Domaros: So instead of using XYZ coordinates we described them by a wave function. So, which is the probability of finding them at a certain point, and these are the orbitals, you're calculating and your later today, visualizing with Brian
+
+83
+00:14:19.680 --> 00:14:38.340
+Eva Von Domaros: So the hydrogen atom actually is an atom. So usually we treat it as a classical particle, I guess you've done that with Brian, too. So I'm sure there are hydrogen atoms in your calculation. So you can look into your core Word file and then you will find the hydrogen atom with the XYZ coordinates.
+
+84
+00:14:39.630 --> 00:14:46.410
+Eva Von Domaros: But if you think about it, the hydrogen atom has the lowest math of all the atoms in the periodic table. So, um,
+
+85
+00:14:47.280 --> 00:14:57.690
+Eva Von Domaros: It's kind of in between atoms and electrons. And there are some experimental observations that indicate that the proton has a substantial quantum character.
+
+86
+00:14:58.530 --> 00:15:16.710
+Eva Von Domaros: So what we do in this project is we take a photo as it so you can see the picture here. I call this gapes photo acids. So this is Theo female or semi know female. So the yellow Adam is a sulfur or selenium.
+
+87
+00:15:18.030 --> 00:15:18.630
+Eva Von Domaros: And
+
+88
+00:15:19.980 --> 00:15:30.960
+Eva Von Domaros: Um, so you've you've met gave and gave us working on these further edits and gave us taking care of the photo part so gave is calculating the citations and all that.
+
+89
+00:15:31.530 --> 00:15:39.900
+Eva Von Domaros: And your work would now be the following. So you would do a usual computation like characterizing characterization of these molecules.
+
+90
+00:15:40.740 --> 00:15:50.460
+Eva Von Domaros: And after that you would treat quantum protons, which means that the hydrogen atom, which is attached to the yellow selenium or software, Adam.
+
+91
+00:15:51.060 --> 00:16:01.530
+Eva Von Domaros: That will be a quantum particle and we will get away French. And for this, just as we get for the electrons. We might also consider quantum solvents, which means quantum water.
+
+92
+00:16:02.670 --> 00:16:16.740
+Eva Von Domaros: And after the computations, we'll also do analysis. So we'll calculate and compare the energies will also consider energy difference, just as you do with Brian right now for the interaction energy and we will see
+
+93
+00:16:17.940 --> 00:16:36.930
+Eva Von Domaros: If and how we can get acidity constants from a quantum proton, because this is not trivial. So this is something we'll have to think about and discuss this. And finally, will visualize and interpret the orbitals. So the electronic orbitals and the nuclear orbitals.
+
+94
+00:16:37.440 --> 00:16:39.000
+Brian Nguyen: So what you can expect in this
+
+95
+00:16:39.000 --> 00:16:42.840
+Eva Von Domaros: PART IS YOU AROUND trouble more calculations, of course.
+
+96
+00:16:44.070 --> 00:16:57.180
+Eva Von Domaros: However, the quantum protons are kind of a development version. So, for example, they, they don't go with defined so we'll have to bid to do a bit of file manipulation, maybe best scripting.
+
+97
+00:16:58.350 --> 00:17:02.850
+Eva Von Domaros: I tend to use Python for my analysis. So if you like that, you know,
+
+98
+00:17:03.960 --> 00:17:11.100
+Eva Von Domaros: You're happy or I'm happy to have you do that too. We'll use visualization, just as you'll do later today. And I think will also
+
+99
+00:17:11.460 --> 00:17:20.520
+Eva Von Domaros: Closely collaborate with Gabe on this one. So we'll have meetings and discuss the background. And if you're interested. We'll also have meetings about the interesting applications of this
+
+100
+00:17:21.240 --> 00:17:40.440
+Eva Von Domaros: Yeah. And so the background knowledge as much as you like. So I just can echo what you've heard before. On Friday, just asked questions. Yeah, so that's basically the end of my presentation. And if you have any questions, I'm just go ahead and ask, I'll stop sharing now.
+
+101
+00:17:48.150 --> 00:17:49.860
+Brian Nguyen: Okay, thank you. Eva.
+
+102
+00:17:50.970 --> 00:17:52.530
+Brian Nguyen: Are there questions.
+
+103
+00:17:56.790 --> 00:17:57.810
+Brian Nguyen: Like have questions.
+
+104
+00:18:03.030 --> 00:18:11.490
+Brian Nguyen: Okay. All right. So I do have maybe not questions for the project crazy, but maybe maybe on as
+
+105
+00:18:11.880 --> 00:18:12.210
+jeffrt7: You know,
+
+106
+00:18:12.270 --> 00:18:13.530
+Brian Nguyen: What is a postdoc
+
+107
+00:18:13.890 --> 00:18:14.430
+Brian Nguyen: Now maybe
+
+108
+00:18:17.580 --> 00:18:42.390
+Eva Von Domaros: Yes, so it is so um it's part of the academic career, I would say, so what happens usually as you go to call it they you then you go to grad school, you get your PhD and postdoc is kind of what do you do between you get your PhD and you get a faculty position if you get one. So,
+
+109
+00:18:43.890 --> 00:18:57.270
+Eva Von Domaros: Yeah, you basically you just do science and teaching so you don't have to obtain a degree anymore. When I first saw my first poster year SOMEONE ASKED ME HOW WAS BEING A post. And I was like,
+
+110
+00:18:57.300 --> 00:18:58.200
+Theresa Carlos: It's the best.
+
+111
+00:18:58.890 --> 00:19:12.060
+Eva Von Domaros: So if you have a job, of course, it's only temporary. But you have a job you do research. You do what you like to do and you don't have that pressure of having to finish a PhD, so it's awesome.
+
+112
+00:19:13.980 --> 00:19:21.180
+Brian Nguyen: Yeah, let's get to this is for everyone to know. So I'm not sure if you guys ever heard a postdoc before
+
+113
+00:19:23.910 --> 00:19:28.920
+Brian Nguyen: Great night but yeah okay good and joy. You guys have been heard.
+
+114
+00:19:30.570 --> 00:19:40.590
+Brian Nguyen: I haven't heard about postdoc me to join under I started in my graduate school or thinking about it. Okay. All right. Thank you. Eva appreciate that.
+
+115
+00:19:41.850 --> 00:19:44.190
+Brian Nguyen: Other mentors. Want to get started presenting
+
+116
+00:19:49.110 --> 00:19:56.790
+jeffrt7: My presentation is very much not pretty. Like it was because I currently don't actually have
+
+117
+00:19:58.410 --> 00:20:01.980
+jeffrt7: An ongoing applications project by will be taking up one or two.
+
+118
+00:20:03.450 --> 00:20:06.930
+jeffrt7: Within the next week or two. So it's like perfect timing for this.
+
+119
+00:20:09.420 --> 00:20:19.230
+jeffrt7: So I think I'll so there's a chance that I'll be working on something in future related to, I didn't undergrad, so I'll
+
+120
+00:20:20.280 --> 00:20:20.880
+Do the
+
+121
+00:20:26.490 --> 00:20:28.860
+Let's take this presentation so
+
+122
+00:20:31.110 --> 00:20:34.110
+jeffrt7: Oh, it's only two slides and it's three pictures so
+
+123
+00:20:35.820 --> 00:20:47.010
+jeffrt7: So I like to just start off with what it didn't my undergraduate research. So it has to do with competitions on surface chemistry and specifically metal surfaces.
+
+124
+00:20:47.730 --> 00:20:59.220
+jeffrt7: So the metal surfaces like the one made up of these gold Adams here, they're able to catalyze reactions, which means making your for certain reactions to happen.
+
+125
+00:21:00.570 --> 00:21:11.790
+jeffrt7: And this has applications in I think primarily in organic chemistry. So, the most notable example is probably the hydrogen nation reaction using platinum.
+
+126
+00:21:12.840 --> 00:21:24.210
+jeffrt7: You can also have occasions in things like fuel generation carbon dioxide captured and you can even look at Astro chemistry. So chemistry that happens in space.
+
+127
+00:21:25.140 --> 00:21:34.620
+jeffrt7: So for this chemistry to actually happen certain reactions in your reaction have to actually stick onto the surface and in many of these cases.
+
+128
+00:21:35.130 --> 00:21:42.660
+jeffrt7: They'll have them break into fragments in the process. So my specific project, which is not this image here, but it's pretty similar.
+
+129
+00:21:43.530 --> 00:21:54.690
+jeffrt7: Was investigating the way that methanol will break apart and stick onto a platinum surface and it happens that there are multiple different ways that it could end up breaking apart.
+
+130
+00:21:55.410 --> 00:22:03.930
+jeffrt7: And knowing how to act, how it actually breaks apart is a primate interest because you would be able to control the reactions that you're doing.
+
+131
+00:22:05.370 --> 00:22:19.140
+jeffrt7: By doing things like this where the surface isn't exactly flat, you have certain kinks and those kings cannot end up changing the way that the chemistry happens and this project I did had primarily
+
+132
+00:22:20.460 --> 00:22:26.580
+jeffrt7: An application in direct methanol fuel cells. So its fuel cells that produce electricity from methanol.
+
+133
+00:22:29.040 --> 00:22:34.650
+jeffrt7: So here's the complicated thing. The theory project I'm currently working on, it's related to density functional theory.
+
+134
+00:22:35.370 --> 00:22:46.170
+jeffrt7: I don't think anyone would expect anyone to understand what that the functional theory is within a short talk like this. So within the methods that people use to do calculations.
+
+135
+00:22:47.790 --> 00:22:49.530
+jeffrt7: Tennessee functional theory is
+
+136
+00:22:50.760 --> 00:23:01.650
+jeffrt7: one of, if not the most popular that are used in the world. And so to explain what density functional theory is here's two very different images of what
+
+137
+00:23:02.340 --> 00:23:14.370
+jeffrt7: An item looks like. So the one on the left is the wrong way of viewing an item where electrons don't actually go around in these like defined orbits around the nucleus.
+
+138
+00:23:15.270 --> 00:23:25.320
+jeffrt7: Instead, it's something more like the one on the right, where you have these electron clouds that form around the nucleus civil electrons are just buzzing around inside these clouds.
+
+139
+00:23:25.740 --> 00:23:27.960
+Eva Von Domaros: Is it just me, I'm still seeing slide one
+
+140
+00:23:29.010 --> 00:23:31.170
+Eva Von Domaros: I think you're talking about the second one.
+
+141
+00:23:32.460 --> 00:23:32.820
+Yeah.
+
+142
+00:23:34.530 --> 00:23:35.850
+jeffrt7: Is that a problem for anyone else.
+
+143
+00:23:39.060 --> 00:23:39.240
+Theresa Carlos: Oh,
+
+144
+00:23:40.260 --> 00:23:41.550
+jeffrt7: The presentation can
+
+145
+00:23:42.810 --> 00:23:58.410
+jeffrt7: You see it now. Okay, I'll just presentation mode. Okay. Sorry. So yeah, the lot in the left wrong view orbits doesn't actually work. The one on the right with the clouds, where the electrons are buzzing around inside these clouds. That's the more correct view.
+
+146
+00:23:59.550 --> 00:24:10.500
+jeffrt7: So just like regular clouds have certain density of luck of water droplets these electron clouds have a certain density of electrons within them.
+
+147
+00:24:12.330 --> 00:24:24.840
+jeffrt7: And you'll also notice that. So what's cool about density functional theory is that you can extract a ton of information about atoms and molecules just from looking at how these clouds are shaped
+
+148
+00:24:27.180 --> 00:24:44.370
+jeffrt7: So you'll also notice that these clouds are in specific formations so very rudimentary view. But just like gravity, there are certain forces that keep electrons to form these certain formations and
+
+149
+00:24:45.420 --> 00:25:04.050
+jeffrt7: If you can figure out what the force is look like you can define how these densities are formed. So how these Clouds are formed, and even at the same time. If you know how the Clouds are formed, you can extract what kinds of forces, keep those clouds in the shape that they are
+
+150
+00:25:06.330 --> 00:25:22.920
+jeffrt7: So this is easier said than done. There are certain effects that quantum effects that we can only approximate not defined specifically. So as theorists, we need to approximate these forces and there are certain mathematically prove
+
+151
+00:25:22.920 --> 00:25:23.610
+Brian Nguyen: Theorems
+
+152
+00:25:23.700 --> 00:25:38.580
+jeffrt7: So that means that they have to hold true behind these theories that we need to follow and the problem right now is that current density functional theories that people use they violate one of these very, very important theorems that should that they should follow
+
+153
+00:25:39.600 --> 00:25:43.740
+jeffrt7: So our current project is aiming to invent a new theory.
+
+154
+00:25:45.060 --> 00:25:56.310
+jeffrt7: Well, a related theory that actually satisfies all these theorems. So what this means for an applications project is that there are certain applications where
+
+155
+00:25:57.570 --> 00:26:01.530
+jeffrt7: These issues that we run into using the traditional methods.
+
+156
+00:26:03.210 --> 00:26:12.570
+jeffrt7: Might be solved by this new theory. So one of our recently graduated group members had a project where this was true, where
+
+157
+00:26:13.770 --> 00:26:24.360
+jeffrt7: There are certain calculations that they were trying to do that might be remedied in terms of accuracy like being more accurate or being able to actually be done by using this new theory.
+
+158
+00:26:28.020 --> 00:26:33.450
+jeffrt7: And because of the shutdown. I didn't actually get to learn about it from the person himself.
+
+159
+00:26:34.920 --> 00:26:44.610
+jeffrt7: But I'll be talking to fill up about that specific project. And I'm also currently picking up a calculation relate to
+
+160
+00:26:45.930 --> 00:26:47.820
+jeffrt7: What Sam might bring up which is
+
+161
+00:26:49.380 --> 00:26:55.530
+jeffrt7: His previous work on like the nights and nights think that should sound like still current
+
+162
+00:26:57.990 --> 00:27:02.910
+jeffrt7: Well, yeah, but yeah, I'm proud currently in the process of learning ballot.
+
+163
+00:27:04.830 --> 00:27:11.310
+jeffrt7: So that's another applications project that you might pick up on. So like if his projects.
+
+164
+00:27:12.360 --> 00:27:14.670
+jeffrt7: You'd be doing terrible calculations.
+
+165
+00:27:16.200 --> 00:27:16.770
+jeffrt7: I can
+
+166
+00:27:17.850 --> 00:27:20.670
+jeffrt7: Also be teaching scripting to make your life easier.
+
+167
+00:27:22.680 --> 00:27:34.950
+jeffrt7: And anything that you're interested in, in terms of chemistry. The things related to these projects or even outside, you can just let me know. I'll study up on it and then
+
+168
+00:27:36.930 --> 00:27:39.000
+jeffrt7: I'm also willing to teach that as well.
+
+169
+00:27:43.560 --> 00:27:44.880
+jeffrt7: So stop sharing
+
+170
+00:27:51.810 --> 00:27:56.130
+Brian Nguyen: Thank you. Jeffrey. I have a question like every oh
+
+171
+00:27:57.720 --> 00:27:58.200
+Brian Nguyen: You're back
+
+172
+00:28:02.550 --> 00:28:04.230
+jeffrt7: To turn on my fan. Yeah.
+
+173
+00:28:04.410 --> 00:28:04.740
+Yeah.
+
+174
+00:28:06.090 --> 00:28:06.240
+Brian Nguyen: Yeah.
+
+175
+00:28:15.240 --> 00:28:15.600
+Brian Nguyen: Okay.
+
+176
+00:28:17.910 --> 00:28:22.770
+Brian Nguyen: Sam, can you present. I'm gonna try. I'm trying to reach out to Jason we look around.
+
+177
+00:28:27.480 --> 00:28:29.340
+jeffrt7: Okay, I'll call just
+
+178
+00:28:31.410 --> 00:28:33.480
+Samuel Bekoe: Trying to bring up my slide.
+
+179
+00:29:07.980 --> 00:29:10.320
+Samuel Bekoe: guys see my screen.
+
+180
+00:29:12.780 --> 00:29:14.520
+Samuel Bekoe: Okay, okay. Yeah.
+
+181
+00:29:15.750 --> 00:29:19.500
+Samuel Bekoe: So my name is Sam again and
+
+182
+00:29:21.300 --> 00:29:22.980
+Samuel Bekoe: Over the past few years.
+
+183
+00:29:24.450 --> 00:29:29.160
+Samuel Bekoe: Just two years of being with the first group I've run a bunch of calculations on
+
+184
+00:29:30.660 --> 00:29:46.320
+Samuel Bekoe: lanta nice and aconites complexes. So, for the purpose of this presentation ages chose this title prediction of excitation spectra of London tonight complexes. So basically what
+
+185
+00:29:47.430 --> 00:29:48.930
+Samuel Bekoe: This is all about is
+
+186
+00:29:50.400 --> 00:29:51.630
+Samuel Bekoe: In chemistry,
+
+187
+00:29:52.860 --> 00:30:06.270
+Samuel Bekoe: We try to come up with. We try to run reactions and in running this kind of reactions. Some of them just can take forever to run. And so you want to
+
+188
+00:30:06.750 --> 00:30:29.340
+Samuel Bekoe: Speed up this processes and in speeding up this processes you imply something you guys are familiar with a catalyst and these catalysts. Also, I also chemical compounds and they are mostly made up made up of metallics with some
+
+189
+00:30:30.780 --> 00:30:35.670
+Samuel Bekoe: Other items around which we call the guns and so
+
+190
+00:30:38.730 --> 00:30:47.370
+Samuel Bekoe: we synthesize this catalyst in the in the lab. But then after synthesizing this catalyst, you want to
+
+191
+00:30:47.760 --> 00:30:49.050
+Samuel Bekoe: Characterize and
+
+192
+00:30:49.380 --> 00:31:11.610
+Samuel Bekoe: See if what you synthesize is what you have seen. Okay. And that brings me to this topic. So one of the earlier calculations. I did in the past was the synthesis of this Trish trial mythos seelye circumvent the diner for room complex. So basically,
+
+193
+00:31:13.020 --> 00:31:20.550
+Samuel Bekoe: This was an experimental work done in the lab. So they started off with this compound, if you guys can see my mouse right
+
+194
+00:31:23.190 --> 00:31:26.610
+Samuel Bekoe: Right. Great. I can't, I can't see you on the screen so
+
+195
+00:31:29.280 --> 00:31:29.520
+Yeah.
+
+196
+00:31:31.350 --> 00:31:32.190
+Samuel Bekoe: Yes, so
+
+197
+00:31:33.030 --> 00:31:44.910
+Samuel Bekoe: In the lab day they start off with this term complex and essentially or basically they don't want to synthesize this compound here but
+
+198
+00:31:46.200 --> 00:31:49.440
+Samuel Bekoe: When they do the synthesis
+
+199
+00:31:50.490 --> 00:32:07.890
+Samuel Bekoe: A compound degrades very quickly it. It's very stable so they can characterize what a day, a fine by characterized. I mean, they run a bunch of other analysis, which includes spectroscopy to find
+
+200
+00:32:09.000 --> 00:32:25.890
+Samuel Bekoe: To to actually know or K I'm forming this tutorial complex with these lead guns around it. So they characterize it. But the templates or songs they would. Are they couldn't characterize it. And the only thing they could do was to just
+
+201
+00:32:27.510 --> 00:32:39.840
+Samuel Bekoe: Calculate actually Rhonda UV this spectrum as the ultraviolet, visible spectra on this complex. Okay. And that was the only thing they had so
+
+202
+00:32:41.040 --> 00:32:44.760
+Samuel Bekoe: They don't know anything about the complex different okay and
+
+203
+00:32:47.910 --> 00:33:00.540
+Samuel Bekoe: They have to take another step to know exactly what they've calculated. So what Dave synthesize and that is where our competition comes in. So we start off with
+
+204
+00:33:01.260 --> 00:33:11.580
+Samuel Bekoe: Complexes they have run it, but a bunch of calculations on them and we do some checks and preliminary checks and then we we look at
+
+205
+00:33:12.900 --> 00:33:16.110
+Samuel Bekoe: The spectra. So, as she can see right here.
+
+206
+00:33:17.730 --> 00:33:21.840
+Samuel Bekoe: In the, in the red line that is the that is the
+
+207
+00:33:23.040 --> 00:33:28.140
+Samuel Bekoe: The experimentally calculated you this spectrum gone and
+
+208
+00:33:29.310 --> 00:33:31.860
+Samuel Bekoe: The blue line, you've seen is the
+
+209
+00:33:33.060 --> 00:33:47.160
+Samuel Bekoe: Is the computer spectra I calculated. So basically, what I did was to first start off by calculating or optimizing this structure here, which is the studying complex
+
+210
+00:33:47.640 --> 00:34:05.400
+Samuel Bekoe: And then I also optimize the structure here, but also there was the possibility of not just forming this complex here that could also be the possibility of still maintaining this complex, but just kick off, sir, but just
+
+211
+00:34:06.510 --> 00:34:17.520
+Samuel Bekoe: Ejection an electron. So there was a possibility of still forming this complex here so I run a bunch of calculations on them, which takes me to the next slide.
+
+212
+00:34:18.000 --> 00:34:27.330
+Samuel Bekoe: So this is the complex, they want to form. This was a studying complex, they look pretty. The same. So basically what you're doing, was to just kick off this
+
+213
+00:34:27.750 --> 00:34:33.990
+Samuel Bekoe: Item here, which is, which was a bromine just kick off this item and then formed this complex here.
+
+214
+00:34:34.410 --> 00:34:47.040
+Samuel Bekoe: But, like I was saying. There was also the possibility of, you know, just kicking off this bromine retaining the bromine and just kicking off an electron to form this complex here. And when you do that.
+
+215
+00:34:49.140 --> 00:35:02.160
+Samuel Bekoe: The spectrum spectra could also be the same or different. And so what I did was to optimize all of this structures down here and then calculate the spectra and then I basically just
+
+216
+00:35:03.180 --> 00:35:19.200
+Samuel Bekoe: compared the spectral with what they had experimentally. So over here, as you can see the blue line again corresponds to this complex here and the red line corresponds to you, forming
+
+217
+00:35:20.100 --> 00:35:30.390
+Samuel Bekoe: still retaining the bromine but kicking off an electron and green line running down there, which is the studying complex, it's, it's hard to see.
+
+218
+00:35:30.900 --> 00:35:43.680
+Samuel Bekoe: But there's a Greenland running down there, which is the studying complex okay now comparing all this spectra to the experimental spectra back here it is. I began to see that.
+
+219
+00:35:45.870 --> 00:35:59.670
+Samuel Bekoe: It is actually this complex that they were able to cut the rice, which was what they form and which was what they expected. So, in, in, in essence, we are using our computation or two to
+
+220
+00:36:01.200 --> 00:36:12.330
+Samuel Bekoe: Kind of validate what they are finding India experiment and another copulation around which was very recent, and Alice word Jeffrey was
+
+221
+00:36:13.650 --> 00:36:19.440
+Samuel Bekoe: Pointing out to was a synthesis of article in places where
+
+222
+00:36:20.760 --> 00:36:22.440
+Samuel Bekoe: You're trying to form this
+
+223
+00:36:23.670 --> 00:36:39.180
+Samuel Bekoe: Land tonight system, which in this case was a boat set some areas and your demon and with all this league and surrounded and like I said on purpose of farming or this complex is
+
+224
+00:36:40.500 --> 00:36:53.820
+Samuel Bekoe: Because of their one not not entirely because of but one of the reasons why they form these complexes is because of the catalytic nature because they can speed up other
+
+225
+00:36:54.840 --> 00:36:56.910
+Samuel Bekoe: Other reaction reactions. So
+
+226
+00:36:57.960 --> 00:37:12.270
+Samuel Bekoe: They formed this complex but again it's unstable and they can't characterize it. And so we employ a computational tools again to to run this reactions and then
+
+227
+00:37:13.470 --> 00:37:30.090
+Samuel Bekoe: Compare our data to DS and up here was the case for some areas where you had L ln being some Iran. And this was the case for your demon, which were which was what they were interested in and we do other stuff.
+
+228
+00:37:31.350 --> 00:37:34.230
+Samuel Bekoe: I say just calculating the spectra. We also
+
+229
+00:37:35.700 --> 00:37:44.340
+Samuel Bekoe: Look at the electronic configurations of this complexes which are very important because based on the electronic configuration.
+
+230
+00:37:45.570 --> 00:37:49.530
+Samuel Bekoe: You can that complex can either be
+
+231
+00:37:50.610 --> 00:37:51.030
+Samuel Bekoe: Like
+
+232
+00:37:52.260 --> 00:38:16.080
+Samuel Bekoe: A very good reducing oxidative agents and so we also do all those authorizations and now today. The other projects have been doing so I'm running at our calculations on the side, which I don't have. I have not put together all the results yet. So if we were to come on board.
+
+233
+00:38:17.160 --> 00:38:17.670
+Samuel Bekoe: We could
+
+234
+00:38:18.780 --> 00:38:32.640
+Samuel Bekoe: Do is exciting react calculations and also my other projects I'm working on right now is so computing this spectra, you're seeing here.
+
+235
+00:38:33.630 --> 00:38:48.900
+Samuel Bekoe: takes a lot of effort and we are trying to come up with a new library and you were to calculate not really a new way. But we are trying to add on to the way we calculate the spectra and that is
+
+236
+00:38:51.510 --> 00:38:54.270
+Samuel Bekoe: On the other side of what I'm doing so.
+
+237
+00:38:55.710 --> 00:38:57.720
+Samuel Bekoe: When I said I just say thank you.
+
+238
+00:39:08.010 --> 00:39:10.290
+Brian Nguyen: Hey, are they question.
+
+239
+00:39:11.130 --> 00:39:18.720
+jeffrt7: I'm actually have a question on something I've been thinking about. So for these complexes. If they're so short lived.
+
+240
+00:39:19.980 --> 00:39:31.080
+jeffrt7: How are they actually being able to be used as a catalyst if is it like they find out. Okay, this complex is really useful. So we'll find ways of making it more stable. Is that what they would do.
+
+241
+00:39:31.170 --> 00:39:32.820
+Samuel Bekoe: Yes, basically. Yeah.
+
+242
+00:39:36.480 --> 00:39:45.060
+Eva Von Domaros: I guess you can also generate them and see to so you generate them. And so just the second day of their you actually directly use them. So maybe
+
+243
+00:39:45.180 --> 00:39:48.120
+Samuel Bekoe: They do something. Yeah. So yeah.
+
+244
+00:39:48.600 --> 00:40:00.240
+Eva Von Domaros: I also just want to add a brief comment on this. So, um, I don't know how familiar you are with the spectra. So you eat this spectra. So what happens is you shine light on the molecule.
+
+245
+00:40:00.930 --> 00:40:11.850
+Eva Von Domaros: And so it's actually related to the photo properties. I was talking about earlier. And what happens is, since the electrons can only occupy distinct orbital and cannot take any energy value.
+
+246
+00:40:12.600 --> 00:40:23.910
+Eva Von Domaros: They absorb energy of that certain amount of so they absorb light of that certain energy sorry for being so confusing.
+
+247
+00:40:24.360 --> 00:40:37.440
+Eva Von Domaros: And so they get excited and they also admit the same amount of energy or another amount of energy, but it's always limited by the energies of the orbitals, they can occupy
+
+248
+00:40:38.250 --> 00:40:48.780
+Eva Von Domaros: And so the experimentalists can measure the spectra, but they cannot actually look at the electrons, but we can so we can calculate the orbital energies.
+
+249
+00:40:50.220 --> 00:40:58.650
+Eva Von Domaros: The methods. Sam is using our every state of the art so I'm the excited states calculations are pretty advanced
+
+250
+00:40:59.370 --> 00:41:07.080
+Eva Von Domaros: And also related to these photo properties. I just wanted to add that. And also you might have noticed that there was visible and you'd be this.
+
+251
+00:41:07.680 --> 00:41:21.570
+Eva Von Domaros: And that means that that the light that is absorbed or emitted is part of the visible spectrum. So this is what actually makes compounds colorful. Yeah, I just wanted to, to add this sorry
+
+252
+00:41:22.470 --> 00:41:23.670
+Brian Nguyen: Oh yeah, good.
+
+253
+00:41:23.970 --> 00:41:25.590
+Samuel Bekoe: Stuff is great. Yeah, thanks.
+
+254
+00:41:27.540 --> 00:41:28.530
+Brian Nguyen: Are there other questions.
+
+255
+00:41:31.170 --> 00:41:31.890
+Brian Nguyen: Thank good
+
+256
+00:41:32.970 --> 00:41:34.080
+Brian Nguyen: Like in cases.
+
+257
+00:41:34.560 --> 00:41:44.040
+Brian Nguyen: Like a join us. So we do a little introduction. Can you introduce this so knowing, like what you did over the weekend and maybe
+
+258
+00:41:45.060 --> 00:41:47.310
+Brian Nguyen: You can give your presentation to
+
+259
+00:41:48.240 --> 00:41:49.980
+yujm1: Like a general introduction
+
+260
+00:41:50.520 --> 00:41:59.940
+yujm1: Yeah, okay. Yeah. So my name is Jason Yeah, sorry. I came in a little late. I'm a third year grad student with Philip M and what I did this weekend.
+
+261
+00:42:00.600 --> 00:42:00.900
+Yeah.
+
+262
+00:42:02.280 --> 00:42:03.060
+yujm1: You know I
+
+263
+00:42:04.320 --> 00:42:07.650
+yujm1: went outside, try to get some exercise and enjoy the day
+
+264
+00:42:09.870 --> 00:42:15.240
+yujm1: And also you know that a little bit of work, but didn't think too much about that. And I guess just relaxed.
+
+265
+00:42:18.510 --> 00:42:18.780
+Cool.
+
+266
+00:42:20.460 --> 00:42:24.510
+Brian Nguyen: Yeah, they can you have a presentation presentation.
+
+267
+00:42:25.200 --> 00:42:26.430
+yujm1: Yeah, yeah, it's my turn.
+
+268
+00:42:27.240 --> 00:42:32.010
+yujm1: Yes. Okay. And I have the ability to share my screen.
+
+269
+00:42:32.340 --> 00:42:33.840
+Brian Nguyen: Yes, I think so. Okay.
+
+270
+00:42:36.630 --> 00:42:38.640
+yujm1: Do you guys see
+
+271
+00:42:39.690 --> 00:42:44.430
+yujm1: This image is it too small to big circular to present this thing.
+
+272
+00:42:46.500 --> 00:42:57.900
+yujm1: Does that, does that work yeah okay might be a little blurry. I don't know why that is. Okay, so I sent Brian a title of the talk.
+
+273
+00:42:58.800 --> 00:43:05.700
+yujm1: That I was going to give. And then I changed my mind. Just because I think this is more related to the research that I'm currently doing.
+
+274
+00:43:06.330 --> 00:43:15.300
+yujm1: Although if we were to do work on work together, then we might be considering doing other projects to and all sort of mentioned at the end.
+
+275
+00:43:15.720 --> 00:43:34.380
+yujm1: So what this picture basically is is very similar to what Sam just talked about, but perhaps with a bit of a different motivation. So, here, let me just explain the components of this slide. So in the beginning. Oh, sorry about that there's some overlap is there a blocking my
+
+276
+00:43:35.670 --> 00:43:36.450
+My picture.
+
+277
+00:43:37.770 --> 00:43:42.360
+yujm1: On my end. Okay. When dragging us decide. All right. So in the beginning.
+
+278
+00:43:44.760 --> 00:43:55.830
+yujm1: People have found transition metal catalyst. So you've heard the term catalyst from last talk to be incredibly useful for lots of applications in both biological
+
+279
+00:43:56.610 --> 00:44:10.920
+yujm1: Fields, as well as chemical fields. So there's applications in the manufacturing setting as well as medicinal purposes. And so that's sort of represented by this very prototypical transition metal compound known as Pharaoh scene.
+
+280
+00:44:12.270 --> 00:44:20.940
+yujm1: And so one thing that our group focuses on is that we try to find very similarly applicable and useful.
+
+281
+00:44:21.450 --> 00:44:31.830
+yujm1: Compounds of the Act denied elements as well. So you have the transition metals which are in the 3D block and the bulk of the periodic table and you had the lat the Knights of aconites which lie.
+
+282
+00:44:32.190 --> 00:44:37.620
+yujm1: At the bottom of the periodic table and F block, but for the longest time, it was found that because
+
+283
+00:44:37.890 --> 00:44:49.350
+yujm1: Of the f orbitals associated with these lands nights and nights that they were less chemically useful and perhaps why that was is because the f orbitals possess very limited.
+
+284
+00:44:50.310 --> 00:45:06.240
+yujm1: You know radio extent or the f orbitals are smaller than the d orbitals. And we're less less likely to form these cavaillon bonds that we find so useful for doing all sorts of chemical processes that we need, you know, in our daily life and things that would make it much better.
+
+285
+00:45:07.260 --> 00:45:19.620
+yujm1: And so this sort of middle slide represents sort of some of the computational and theoretical tools that we use to sort of try to bridge this gap. And so this is represented by our trusty
+
+286
+00:45:20.430 --> 00:45:29.220
+yujm1: time independent Schrodinger equation which is one of the most fundamental equations at least us in quantum mechanics. And you may or may not be familiar with it, um,
+
+287
+00:45:29.970 --> 00:45:37.590
+yujm1: And then here's just a picture of supercomputing clusters. So these two aspects, both the theory and the computation are what we use.
+
+288
+00:45:38.790 --> 00:45:47.310
+yujm1: And so through this and the sort of motivation, it actually gave way to us, discovering some new Act denied chemistry that
+
+289
+00:45:48.150 --> 00:46:03.240
+yujm1: You know that represents some first steps towards bridging this gap between some of the more established and useful transition metal catalysts and some of the F block elements and that comes in the form of this Act tonight compound that actually
+
+290
+00:46:04.710 --> 00:46:13.740
+yujm1: Has a very similar structure to this prototypical transition metal compound. As you can see here from these five members rings. It's got a few more other things.
+
+291
+00:46:14.760 --> 00:46:24.660
+yujm1: On the lignans but that's just because of I suppose what that's sort of what we need in order to obtain this linear structure. And you can see here that this orbital.
+
+292
+00:46:25.860 --> 00:46:30.060
+yujm1: That is its highest occupied molecular orbital. It's actually very similar
+
+293
+00:46:30.510 --> 00:46:43.170
+yujm1: In shape to that observed for the transition metal compound above. And so we've discovered some sort of analog very similar to that which we find very useful. I'm in lots of industrial and
+
+294
+00:46:43.830 --> 00:46:50.910
+yujm1: medicinal purposes for the aconites and so that's sort of one of our demonstration of
+
+295
+00:46:51.360 --> 00:47:01.320
+yujm1: Perhaps some of the things that we can do together in this group. I'm not saying that we're going to discover a new compound, but we have the tools and we have the motivation to
+
+296
+00:47:02.040 --> 00:47:10.230
+yujm1: Ask the right questions that might lead to discovering new compounds that are currently being evaluated for potential applicability to
+
+297
+00:47:11.850 --> 00:47:14.310
+yujm1: All these fields and applications that we would like
+
+298
+00:47:15.630 --> 00:47:25.110
+yujm1: So that's one thing. And this is sort of just one slide representing sort of this process. The other, the other thing I don't have a slide for but it's more of a
+
+299
+00:47:26.520 --> 00:47:30.420
+yujm1: It's more of a, I would say a computational project.
+
+300
+00:47:31.500 --> 00:47:40.890
+yujm1: Where we sort of come up with ways to search through the vast space of potential chemicals that we, that might be realized.
+
+301
+00:47:41.250 --> 00:47:54.330
+yujm1: And to come up with some that are the best in some way or another. And so how we do that is we have computational software that tells us many interesting properties of molecules and chemical systems.
+
+302
+00:47:55.170 --> 00:48:08.430
+yujm1: And perhaps we can come up with some computational or algorithmic way to sort of search through these chemicals and come up with those that are the best in, let's say, the energy or the
+
+303
+00:48:09.240 --> 00:48:23.220
+yujm1: orbital energies or, you know, these sort of geometric properties. And so that's a very broad project. And so part of that one would involve us sitting down together and coming up with a proposal about what exactly we want
+
+304
+00:48:23.850 --> 00:48:42.330
+yujm1: To accomplish regarding this, but I have a general idea ready. And so just to give an example of one potential application that we've explored in the past, is that we've tried to optimize the fluorescence of small molecules through changing up. It's not looking through possible structures.
+
+305
+00:48:43.350 --> 00:48:45.330
+yujm1: In a systematic way, and
+
+306
+00:48:46.530 --> 00:48:52.620
+yujm1: The reason for this is just because we've tried to come up with those which had the best Chem a lumen essence.
+
+307
+00:48:52.950 --> 00:49:06.570
+yujm1: And the point of that is, you know, we could potentially use them as biomarkers for things such as cancer detection or, you know, disease detection, prevention and so that's sort of one example of a potential
+
+308
+00:49:07.200 --> 00:49:17.610
+yujm1: Reason why this might be cool and why it might be applicable. So that's the other potential thing that we could work on together both of those are interesting and I think, you know,
+
+309
+00:49:18.270 --> 00:49:28.110
+yujm1: We can make it into an enriching internship experience, either way. So with that being said stop sharing my screen.
+
+310
+00:49:29.610 --> 00:49:31.170
+yujm1: I think that's it. Thanks.
+
+311
+00:49:34.350 --> 00:49:37.590
+Brian Nguyen: Alright, thank you. Good question for Jason
+
+312
+00:49:40.920 --> 00:49:42.660
+Brian Nguyen: Good. All right.
+
+313
+00:49:44.670 --> 00:49:46.230
+Brian Nguyen: Thank you my presentation to
+
+314
+00:49:49.140 --> 00:49:50.130
+Brian Nguyen: share my screen.
+
+315
+00:49:57.240 --> 00:49:57.810
+Brian Nguyen: Alright.
+
+316
+00:49:59.850 --> 00:50:02.310
+Brian Nguyen: Alright, everyone is Brian
+
+317
+00:50:03.540 --> 00:50:26.340
+Brian Nguyen: Dan will be presenting a question to you, everyone. What are non crazy directions. Do you mind that non Kobe interactions is synonymous to internal internal feature molecular forces. So you can ask this question to the ICC piano. Can you can remind me what type of internal forces. Oh, yeah.
+
+318
+00:50:31.830 --> 00:50:32.430
+Brian Nguyen: Shout out.
+
+319
+00:50:44.280 --> 00:50:45.360
+Victoria Choi: dipole dipole
+
+320
+00:50:46.410 --> 00:50:47.310
+Brian Nguyen: dipole dipole
+
+321
+00:50:47.850 --> 00:50:49.080
+Victoria Choi: Fun discretion.
+
+322
+00:50:50.820 --> 00:50:51.690
+Brian Nguyen: On this version.
+
+323
+00:50:53.310 --> 00:50:53.700
+Victoria Choi: Bonnie
+
+324
+00:50:54.540 --> 00:50:56.250
+Brian Nguyen: Bonnie thanks Victoria.
+
+325
+00:50:57.570 --> 00:51:05.400
+Brian Nguyen: Keep those interactions in mind, and I'm going to read present you kind of examples of non creative actions.
+
+326
+00:51:06.360 --> 00:51:20.970
+Brian Nguyen: Some questions that I'm trying to investigate potential collaboration that have been working out from this logic and then kind of talk about you know what what type of roles, you may have on the project I'm working on now. We're going to be addressing these questions.
+
+327
+00:51:22.260 --> 00:51:29.820
+Brian Nguyen: So, how important are not really into action. Well, one of the things that you can kind of Seiko is the sample on the left is to get to
+
+328
+00:51:31.440 --> 00:51:38.280
+Brian Nguyen: You know one question that we always have is you know how to act. How does it get to climb walls and how can a time was upside down.
+
+329
+00:51:39.030 --> 00:51:48.030
+Brian Nguyen: Because they're forming non coven interactions with your feet right there's interaction or we can upset, break it and reform it each time.
+
+330
+00:51:48.750 --> 00:51:58.350
+Brian Nguyen: And let's say one very unique thing that you can see in nature, but the darkroom works on very very small things there. And I'm very malecki scale.
+
+331
+00:51:58.800 --> 00:52:05.640
+Brian Nguyen: One thing that comes into mind and that will again be related. And I will discuss later on these protein. Protein directions.
+
+332
+00:52:06.150 --> 00:52:19.200
+Brian Nguyen: proteins interact these chapters, they form, it's very important non creative direction. So you see here, ionic bonds. Hydrogen bonding hydrophobic in general interactions with the same as dispersion directions.
+
+333
+00:52:20.040 --> 00:52:36.060
+Brian Nguyen: How, how did they all work together to interact and you know let's play a role in the cell signaling processes or how they see you. Nice to meet interesting design different drugs that bind well to the protein or to target.
+
+334
+00:52:38.490 --> 00:52:44.760
+Brian Nguyen: And so where do we get, you know, how, how can we visualize these interactions.
+
+335
+00:52:45.840 --> 00:53:03.690
+Brian Nguyen: One of the things I know the previous presentation. There's a lot of discussion about molecular orbital in this picture, we have descriptions of some of these net tonight complexes. So, metal complexes and this is a picture of the highest molecular orbital lowest unoccupied.
+
+336
+00:53:05.070 --> 00:53:13.890
+Brian Nguyen: On a professional like the orbital these users actually describing the interaction of the electrons describing the bonding between all these atoms.
+
+337
+00:53:14.610 --> 00:53:32.220
+Brian Nguyen: Ions and from these on the cake on electronic structured, we can kind of me understand the chemical process. So then the question is, that is equivalent to, you know, visualize these like or rules for non Koreans reactions and can we kind of visualize it and interpret
+
+338
+00:53:33.330 --> 00:53:40.950
+Brian Nguyen: So there'll be a lot of, you know, a little bit of theoretical development. There's Daniel Where are these tiny energies coming from now I see you
+
+339
+00:53:41.460 --> 00:53:51.210
+Brian Nguyen: Friday we started learning how to compete. These tiny energy. Right. It's not enough for us, as you know, for our group to just run a calculation, get a number
+
+340
+00:53:51.900 --> 00:53:58.230
+Brian Nguyen: And not really understanding where are these numbers coming from right and so that's why we can try to do all right with me.
+
+341
+00:53:59.130 --> 00:54:18.300
+Brian Nguyen: From this project within have a potential collaboration with the vendor wall group, a very experimental is actually synthesizing some of these compounds. Right. And so one of the compounds, they're interested in is designed is like softly need compound and adding different
+
+342
+00:54:19.710 --> 00:54:30.540
+Brian Nguyen: Mistakes a different functional groups to this is the compounds that can be used to present perfect tense with drug for targeting reivers own
+
+343
+00:54:31.080 --> 00:54:38.970
+Brian Nguyen: And so I developed a model in which we can kind of study these interactions and we found that there is a very important
+
+344
+00:54:39.900 --> 00:54:49.410
+Brian Nguyen: New interaction. Maybe it's very different. You haven't heard yet, but this is like called chlorine to two pi system interaction. So
+
+345
+00:54:49.920 --> 00:55:00.720
+Brian Nguyen: This is like the art to the RNA and isn't a nucleotide and answering the question is, how, how can you compete and how do we care dress different directions.
+
+346
+00:55:01.590 --> 00:55:19.590
+Brian Nguyen: Can you generate a trend and we really understand the specificity of this interaction, like the orientation and how scoring interact with these these dreams. Okay. And so that's the collaboration and working with the venerable roofing Oh, more than happy to have you tagged along the incident.
+
+347
+00:55:21.120 --> 00:55:37.050
+Brian Nguyen: Was your role right how do we start tackling these complex chemistry questions. And so one of the best way to tackle anything that's complex us to begin by breaking it down to smaller, less complicated
+
+348
+00:55:38.730 --> 00:55:50.640
+Brian Nguyen: Item right to make it smaller and in tackling those things, one by one, though, are we going to be working on is we need to kind of start on determining helped me out determine what available competition methods.
+
+349
+00:55:51.390 --> 00:56:00.960
+Brian Nguyen: I can repeat these can actually predict a novel chlorine by interaction, I have an idea. But I need your help to verify that idea for me.
+
+350
+00:56:01.560 --> 00:56:09.870
+Brian Nguyen: And then from the last slide, possibly designing a new I saw some new drugs in silicosis so it means that you just do on a computer.
+
+351
+00:56:10.530 --> 00:56:15.330
+Brian Nguyen: And then determine trends with these binding and sees an entire understanding what they what they really mean.
+
+352
+00:56:15.990 --> 00:56:31.710
+Brian Nguyen: And then you can have some contributions. If you guys to do a little bit more dig into a little bit more. The mathematics and physics like and how to help me out. And maybe try to contribute to decision a nation of these non creative actions. So those are possible.
+
+353
+00:56:33.330 --> 00:56:48.270
+Brian Nguyen: Area, so you can work on we'll jump back and forth. And now that's a pretty good experience, right. So I just want to thank you everyone for your attention, and I'll show you guys this little picture is how will be socializing in 2020
+
+354
+00:56:49.770 --> 00:56:55.410
+Brian Nguyen: We're doing a pretty good job and hopefully make something good out of this whole experience right
+
+355
+00:56:57.210 --> 00:56:57.600
+Brian Nguyen: Okay.
+
+356
+00:56:59.190 --> 00:56:59.790
+Brian Nguyen: Thank you guys.
+
+357
+00:57:02.940 --> 00:57:03.360
+Brian Nguyen: Alright.
+
+358
+00:57:05.160 --> 00:57:06.810
+Brian Nguyen: guys have questions for me.
+
+359
+00:57:10.470 --> 00:57:17.610
+Eva Von Domaros: Okay, so now that you've heard everything. Do you have any questions, and also to Brian or
+
+360
+00:57:19.080 --> 00:57:20.070
+Eva Von Domaros: To anyone else.
+
+361
+00:57:30.600 --> 00:57:47.850
+Brian Nguyen: All right. Yeah, I know we we talked a lot information that you will have this recording and stuff for you guys to look at it later today. All right. Let's take a look at it again. All right. I want to run. Applause Thank you to all the mentors for presenting today. I know it's great.
+
+362
+00:57:51.960 --> 00:57:53.040
+Brian Nguyen: Alright, so
+
+363
+00:57:53.100 --> 00:57:55.680
+Brian Nguyen: I think that, you know, so
+
+364
+00:57:56.760 --> 00:57:57.420
+Brian Nguyen: So,
+
+365
+00:57:59.040 --> 00:58:02.370
+Brian Nguyen: Right, thank you. Eva Sam Jason Jeffrey for Jenny.
+
+366
+00:58:03.570 --> 00:58:08.970
+Brian Nguyen: Now I'm going to be working with ISIS to finish up some of the things that we started on Friday.
+
+367
+00:58:11.130 --> 00:58:11.460
+Brian Nguyen: So,
+
+368
+00:58:13.020 --> 00:58:15.330
+Brian Nguyen: You guys free free one stick around and not
+
+369
+00:58:16.590 --> 00:58:17.910
+Eva Von Domaros: Okay. Thanks everyone.
+
+370
+00:58:19.080 --> 00:58:19.560
+Brian Nguyen: Okay.
+
+371
+00:58:24.480 --> 00:58:25.020
+Brian Nguyen: All right.
+
+372
+00:58:26.220 --> 00:58:26.910
+Brian Nguyen: Thank you.
+
+373
+00:58:27.480 --> 00:58:38.790
+Brian Nguyen: Oh my god. Laughs Oh, Jeffrey you fuzzy you stick around. Okay. All right. Yes. How do you feel as a bunch of projects with taught that you
+
+374
+00:58:43.530 --> 00:58:43.950
+Brian Nguyen: Do every
+
+375
+00:58:45.000 --> 00:58:45.240
+Brian Nguyen: Day.
+
+376
+00:58:46.770 --> 00:58:52.320
+Brian Nguyen: Yes. All right. This is all the chemistry up there and they're trying to look at. Right, so
+
+377
+00:58:54.240 --> 00:58:58.350
+Brian Nguyen: Okay, guess their next order of business is all right.
+
+378
+00:58:59.490 --> 00:59:02.370
+Brian Nguyen: Would you would you have for me today. Let's hear
+
+379
+00:59:04.020 --> 00:59:11.040
+Brian Nguyen: Your assignee energy constellations, you get that problems. I haven't gotten emails from you guys and I am assuming you guys
+
+380
+00:59:12.150 --> 00:59:13.230
+Brian Nguyen: Didn't. All right.
+
+381
+00:59:16.200 --> 00:59:19.080
+Brian Nguyen: Good sentence to be not some job.
+
+382
+00:59:20.460 --> 00:59:20.970
+Brian Nguyen: Okay.
+
+383
+00:59:22.530 --> 00:59:36.840
+Brian Nguyen: Jason good guys are getting the hang of it. All right, so if if we are you guys you guys all got the hang of it, the orca um I've ever got the hang of it. And now we'll just going to show the results that we have right
+
+384
+00:59:39.270 --> 00:59:44.190
+Brian Nguyen: Okay, so we'll review. I think it's important to kind of talk about Britain enough
+
+385
+00:59:53.940 --> 00:59:58.620
+Brian Nguyen: Remember how we compute by the energies are once you compete by the energy
+
+386
+01:00:19.980 --> 01:00:20.640
+Theresa Carlos: He said,
+
+387
+01:00:22.320 --> 01:00:26.010
+Theresa Carlos: He said p minus T something
+
+388
+01:00:28.050 --> 01:00:30.810
+Brian Nguyen: Yeah, that's correct. What
+
+389
+01:00:31.200 --> 01:00:34.080
+Brian Nguyen: Well, what did all the variable me what he got a
+
+390
+01:00:35.850 --> 01:00:36.360
+Theresa Carlos: Energy
+
+391
+01:00:38.220 --> 01:00:41.220
+Theresa Carlos: And then he sent me his energy
+
+392
+01:00:43.560 --> 01:00:44.010
+Theresa Carlos: He
+
+393
+01:00:47.940 --> 01:00:48.510
+Brian Nguyen: Accomplished
+
+394
+01:00:55.560 --> 01:01:01.380
+Brian Nguyen: Writing providing energy and it is a. We call it the super more likely
+
+395
+01:01:03.120 --> 01:01:03.480
+Brian Nguyen: Approach.
+
+396
+01:01:05.010 --> 01:01:05.460
+Brian Nguyen: Alright.
+
+397
+01:01:06.510 --> 01:01:08.280
+Brian Nguyen: Remind you guys what they are.
+
+398
+01:01:09.660 --> 01:01:15.330
+Brian Nguyen: Thank you. So this is the delta triangle. He
+
+399
+01:01:18.150 --> 01:01:25.830
+Brian Nguyen: Alright, so you can kind of remember go over here, the protein is psycho lock the key and lock right
+
+400
+01:01:27.330 --> 01:01:32.220
+Brian Nguyen: Okay, and then you have another call this a
+
+401
+01:01:33.750 --> 01:01:34.560
+Brian Nguyen: And then we'll call this
+
+402
+01:01:39.810 --> 01:01:42.450
+Brian Nguyen: Okay. All right, and so
+
+403
+01:01:44.100 --> 01:01:46.500
+Brian Nguyen: It's at the total energy of your
+
+404
+01:01:48.030 --> 01:01:58.590
+Brian Nguyen: Your mom or a or you're pregnant. A plus the total energy your second be excited self minus the
+
+405
+01:01:59.670 --> 01:02:14.130
+Brian Nguyen: Total energy of this complete conflict. Okay. And you might miss it, you have this what you know these interactions in between that stuff over. And so that's kind of what is the leftover piece that we're trying to that is completed. Okay.
+
+406
+01:02:16.680 --> 01:02:17.190
+Brian Nguyen: All right.
+
+407
+01:02:19.590 --> 01:02:20.310
+Brian Nguyen: Sharing
+
+408
+01:02:21.600 --> 01:02:23.190
+Brian Nguyen: Okay, so there's going to be tricky.
+
+409
+01:02:24.630 --> 01:02:34.050
+Brian Nguyen: Arrow fund log into VPN right we might lose connection by the you lose connection to just come back leave and come back to do good.
+
+410
+01:02:41.460 --> 01:02:42.690
+Brian Nguyen: And I'm logging into
+
+411
+01:02:43.950 --> 01:02:44.430
+Brian Nguyen: Right now.
+
+412
+01:02:53.580 --> 01:02:55.080
+Brian Nguyen: Because fine art kit.
+
+413
+01:02:56.850 --> 01:02:58.470
+Brian Nguyen: Okay, so
+
+414
+01:02:59.670 --> 01:03:01.020
+Brian Nguyen: Go to
+
+415
+01:03:03.300 --> 01:03:08.940
+Brian Nguyen: I'm assuming everyone was able to compete. These right every single molecule then during
+
+416
+01:03:10.200 --> 01:03:10.830
+Brian Nguyen: The
+
+417
+01:03:12.990 --> 01:03:28.710
+Brian Nguyen: All these other complexes. I have our show. I'm gonna try to show you kind of like how I organize my my data so that you guys can use it as a reference English teachers to kind of organize your own calculation.
+
+418
+01:03:29.460 --> 01:03:43.200
+Brian Nguyen: Does it, you know, to the mind that you will always be running a bunch of calculation and sometimes may not work on that project for some for a while, but you will return come back to it. It's always good to keep a very organized notebook. Okay.
+
+419
+01:03:45.720 --> 01:03:49.500
+Brian Nguyen: All right, so I'm just going to log into my computer.
+
+420
+01:03:53.820 --> 01:03:55.860
+Brian Nguyen: Right, and then
+
+421
+01:03:57.270 --> 01:04:00.990
+Brian Nguyen: Just go to your computer, you have the calculation.
+
+422
+01:04:03.600 --> 01:04:03.930
+Brian Nguyen: Okay.
+
+423
+01:04:07.110 --> 01:04:09.900
+Brian Nguyen: All right, I'm going a little fast that
+
+424
+01:04:11.280 --> 01:04:14.760
+Brian Nguyen: Feel free to stop me. Alright, so here's my calculation.
+
+425
+01:04:16.320 --> 01:04:28.770
+Brian Nguyen: Non Covina interactions, use my table. Here's all my folders. I wrote a script to kind of organize all days at Ronaldo script to kind of like run defined for me. All right.
+
+426
+01:04:30.570 --> 01:04:36.090
+Brian Nguyen: But if you do Ellis star show you each when I ran here.
+
+427
+01:04:37.620 --> 01:04:40.530
+Brian Nguyen: At all the structure I optimize. All right.
+
+428
+01:04:46.710 --> 01:04:58.230
+Brian Nguyen: For you guys. You guys are running RDF key okay for these. So these are single point energy calculations. And so what we're going to do is
+
+429
+01:04:59.340 --> 01:05:02.820
+Brian Nguyen: Change that you share the desktop.
+
+430
+01:05:06.660 --> 01:05:07.350
+To the Chrome
+
+431
+01:05:08.760 --> 01:05:10.050
+Brian Nguyen: Alright, so
+
+432
+01:05:11.370 --> 01:05:14.970
+Brian Nguyen: These once you get your results and put Google Drive.
+
+433
+01:05:16.800 --> 01:05:20.130
+Brian Nguyen: It was nice to have to create your own excel sheet.
+
+434
+01:05:23.070 --> 01:05:34.440
+Brian Nguyen: Gg just typically way to get your results. Right. So think of it, the calculation ensure raw data, and then you're going to process that data. Okay.
+
+435
+01:05:37.170 --> 01:05:37.920
+All right. Thank you.
+
+436
+01:05:43.740 --> 01:05:45.120
+Brian Nguyen: All right. Alright, so
+
+437
+01:05:49.290 --> 01:06:03.360
+Brian Nguyen: Can you guys still would check your numbers mine. So one of the things that you like to do is reproduce the ability you guys get to reproduce your results right and if we said that game.
+
+438
+01:06:04.530 --> 01:06:09.210
+Brian Nguyen: Alright set with the units are what we call our tree.
+
+439
+01:06:10.500 --> 01:06:10.770
+Brian Nguyen: Yes.
+
+440
+01:06:12.090 --> 01:06:15.810
+Aakrsh: How close, should they be about, like, I use bendy.
+
+441
+01:06:16.980 --> 01:06:17.940
+Aakrsh: And for
+
+442
+01:06:18.270 --> 01:06:21.180
+Aakrsh: Them on where I got like nine to 31
+
+443
+01:06:22.860 --> 01:06:23.550
+To 35
+
+444
+01:06:25.800 --> 01:06:27.690
+Brian Nguyen: Okay, well,
+
+445
+01:06:28.770 --> 01:06:31.200
+Brian Nguyen: How about everyone out with this see
+
+446
+01:06:32.250 --> 01:06:33.150
+Brian Nguyen: Close to them.
+
+447
+01:06:37.260 --> 01:06:38.100
+Brian Nguyen: I see a crib sheet.
+
+448
+01:06:38.550 --> 01:06:39.480
+Aakrsh: Number my
+
+449
+01:06:39.720 --> 01:06:40.860
+Aakrsh: Number was like maybe
+
+450
+01:06:40.890 --> 01:06:44.550
+230 1.6844
+
+451
+01:06:45.630 --> 01:06:48.810
+Brian Nguyen: Hi, Chris, how about everyone else.
+
+452
+01:07:05.790 --> 01:07:06.510
+Brian Nguyen: Victoria.
+
+453
+01:07:13.980 --> 01:07:14.340
+Victoria Choi: Teresa.
+
+454
+01:07:15.990 --> 01:07:17.310
+Brian Nguyen: Okay, okay.
+
+455
+01:07:18.870 --> 01:07:23.130
+Brian Nguyen: Ah. Alright, well, we'll take a step back.
+
+456
+01:07:24.180 --> 01:07:28.650
+Brian Nguyen: Then I assume you guys already really compete these energies right so
+
+457
+01:07:30.060 --> 01:07:31.230
+Brian Nguyen: It's still back
+
+458
+01:07:33.630 --> 01:07:34.890
+Brian Nguyen: Go back to the terminal.
+
+459
+01:07:36.420 --> 01:07:38.190
+Brian Nguyen: I'll go over one last time.
+
+460
+01:07:42.540 --> 01:07:45.660
+Brian Nguyen: Really to get. Okay. I have a folder I ran with you guys.
+
+461
+01:07:46.770 --> 01:07:50.910
+Brian Nguyen: Know of Kobe. Alright, so I had to leave. I ran
+
+462
+01:07:54.510 --> 01:07:55.560
+Brian Nguyen: I ran Benji.
+
+463
+01:07:57.990 --> 01:07:58.470
+Okay.
+
+464
+01:08:00.720 --> 01:08:01.140
+Brian Nguyen: All right.
+
+465
+01:08:04.440 --> 01:08:05.700
+Brian Nguyen: I'll go over
+
+466
+01:08:07.290 --> 01:08:10.620
+Brian Nguyen: One calculation day is he
+
+467
+01:08:13.770 --> 01:08:25.830
+Brian Nguyen: Basically new okay so having fresh, fresh start, basically. Okay, just follow along, go over a little bit faster this time around an overview for everyone.
+
+468
+01:08:27.030 --> 01:08:31.740
+Brian Nguyen: So just prepping your calculation you have your XYZ coordinates here.
+
+469
+01:08:32.880 --> 01:08:42.930
+Brian Nguyen: Knowledge. Look at that file. I can see I order XYZ file, file that is a practice is some tips that little bit
+
+470
+01:08:43.950 --> 01:09:00.030
+Brian Nguyen: A control see that line, right. So you'll see that coordinates for that. So you need to put this in the format turbo mall, the water XYZ file is that file is I'll put a gradient output to a file.
+
+471
+01:09:01.230 --> 01:09:04.890
+Brian Nguyen: I will concede called Court or any name you want to call it. Okay.
+
+472
+01:09:06.360 --> 01:09:09.540
+Brian Nguyen: All right, so just if you can
+
+473
+01:09:10.590 --> 01:09:17.430
+Brian Nguyen: Have to say before I continue on to this help cool over a fresh start to get the energy
+
+474
+01:09:19.200 --> 01:09:21.900
+Brian Nguyen: Up. Okay, it's not
+
+475
+01:09:23.490 --> 01:09:26.160
+Brian Nguyen: Okay, so I'll go over it and all right.
+
+476
+01:09:27.330 --> 01:09:32.340
+Brian Nguyen: Okay, so now you generate the coordinate files interval, we're going to run define
+
+477
+01:09:33.780 --> 01:09:43.050
+Brian Nguyen: Define generates molecular or those are essentially our starting point. Okay, so that we run our calculations run define
+
+478
+01:09:45.510 --> 01:09:48.600
+Brian Nguyen: Enter Saturday title if that
+
+479
+01:09:49.620 --> 01:09:58.500
+Brian Nguyen: We input the file in a court where the file name is ok that option is right here. Remember that
+
+480
+01:09:59.910 --> 01:10:02.730
+Brian Nguyen: And to see that you input your atoms.
+
+481
+01:10:04.170 --> 01:10:12.900
+Brian Nguyen: If you like you can use desi a taker dangers of the cemetery of the molecule. Okay. And they will do either.
+
+482
+01:10:14.790 --> 01:10:15.150
+Brian Nguyen: Alright.
+
+483
+01:10:16.620 --> 01:10:25.920
+Brian Nguyen: Changes the coordinate system right since we've done that to start to terminate always look at the bottom option. Typically when you terminate.
+
+484
+01:10:27.480 --> 01:10:29.580
+Brian Nguyen: This is the basis that BL
+
+485
+01:10:30.600 --> 01:10:40.440
+Brian Nguyen: Right, so we checked up, he said. I said, used to TCP initiative basis it def se prints up. That's not the basis that you want.
+
+486
+01:10:41.610 --> 01:10:52.230
+Brian Nguyen: I know that there's an error, where you guys all kind of assigned a business in this window here I can see all deaf to GDP. Do not do it in that one day. All right.
+
+487
+01:10:54.990 --> 01:11:00.600
+Brian Nguyen: This is the window that you want to add your basis. That will be all SSP TV.
+
+488
+01:11:02.430 --> 01:11:07.620
+Brian Nguyen: Alright finds the basis that BL will see that right. Okay.
+
+489
+01:11:12.120 --> 01:11:12.750
+Brian Nguyen: Terminate
+
+490
+01:11:14.430 --> 01:11:24.420
+Brian Nguyen: I know you can generate your molecular orbital. Generally, we're going to use this most cases. And there were, there may be some special cases. But for now uses case PhD.
+
+491
+01:11:27.630 --> 01:11:30.930
+Brian Nguyen: Yet default medically charging zero
+
+492
+01:11:32.820 --> 01:11:33.090
+Brian Nguyen: Yes.
+
+493
+01:11:35.340 --> 01:11:41.880
+Brian Nguyen: Alright so that turns your molecular orbital. Right. So, never. Good to see you. Say you want to turn this on.
+
+494
+01:11:43.680 --> 01:11:46.830
+Brian Nguyen: And when to change the functional TPS ah
+
+495
+01:11:48.000 --> 01:11:49.860
+Brian Nguyen: Alright, the star.
+
+496
+01:11:51.720 --> 01:11:54.240
+Brian Nguyen: And then we're going to do.
+
+497
+01:11:55.410 --> 01:11:58.650
+Brian Nguyen: We're going to turn RI up to speed up the calculations.
+
+498
+01:12:00.150 --> 01:12:03.810
+Brian Nguyen: When you can you always should use it turned on right
+
+499
+01:12:07.020 --> 01:12:20.820
+Brian Nguyen: And we want to use this black thing here DSP dispersion correction, because the empty by itself doesn't accurately predict dispersion interaction. Very well. We're going to add this is keyword
+
+500
+01:12:21.870 --> 01:12:24.450
+Brian Nguyen: DSP. We're going to use this
+
+501
+01:12:25.560 --> 01:12:28.230
+Brian Nguyen: This correction BJ. Alright.
+
+502
+01:12:31.290 --> 01:12:35.250
+Brian Nguyen: Car contaminate this window starts to make this window.
+
+503
+01:12:36.990 --> 01:12:46.530
+Brian Nguyen: You're looking to file and have the file docs daily basis is when you kind of are I your basis is when you use the basis that okay this is like your
+
+504
+01:12:47.790 --> 01:12:56.070
+Brian Nguyen: Control Center where you can nullify all the parameters in your corner file is your microwavable okay
+
+505
+01:12:57.150 --> 01:12:57.540
+Brian Nguyen: Now,
+
+506
+01:12:58.710 --> 01:13:01.860
+Brian Nguyen: In your path when we very first started we use job.
+
+507
+01:13:02.940 --> 01:13:06.660
+Brian Nguyen: All right before you enter in Java. Java stash RI
+
+508
+01:13:07.890 --> 01:13:13.080
+Brian Nguyen: What this job. Excuse me, do the math, and what's the, what did looking for
+
+509
+01:13:15.540 --> 01:13:16.080
+Brian Nguyen: Remember,
+
+510
+01:13:22.830 --> 01:13:32.220
+Brian Nguyen: Okay okay to be wrong. You don't worry that you know it's okay to make mistakes, right. So what do you, what do you think the job is, do let me run that
+
+511
+01:13:34.020 --> 01:13:36.660
+Brian Nguyen: Command. What's it looking for
+
+512
+01:13:42.030 --> 01:13:45.780
+Brian Nguyen: Okay, so if you for some structure right
+
+513
+01:13:47.130 --> 01:13:48.540
+Brian Nguyen: What, what type of structure.
+
+514
+01:13:59.580 --> 01:14:00.030
+Brian Nguyen: Remember,
+
+515
+01:14:06.750 --> 01:14:24.600
+Brian Nguyen: Ground state structures is that does that ring a bell. It's not a community that really yeah the downstate structured it optimizes structure to find the ground state strip the lowest energy. Okay, well, we don't want to do that right now. You just wanted us is given a
+
+516
+01:14:25.740 --> 01:14:26.880
+Brian Nguyen: We show you what I mean.
+
+517
+01:14:28.710 --> 01:14:29.670
+Brian Nguyen: To your whiteboard.
+
+518
+01:14:32.160 --> 01:14:32.910
+Brian Nguyen: cleared this
+
+519
+01:14:34.110 --> 01:14:34.560
+Brian Nguyen: Drawing
+
+520
+01:14:37.380 --> 01:14:40.170
+Brian Nguyen: One good example is we have a water molecule.
+
+521
+01:14:41.670 --> 01:14:42.480
+Brian Nguyen: Sorry for that.
+
+522
+01:14:51.540 --> 01:14:53.130
+Brian Nguyen: Structures right
+
+523
+01:14:55.860 --> 01:14:57.480
+Brian Nguyen: You're gonna make a prediction.
+
+524
+01:15:00.390 --> 01:15:05.940
+Brian Nguyen: Structure has a higher energy or more positive with the one
+
+525
+01:15:14.100 --> 01:15:18.990
+Brian Nguyen: Wish structure, do you think will be hiring energy one on the left or on the right.
+
+526
+01:15:23.340 --> 01:15:23.730
+Brian Nguyen: Shot.
+
+527
+01:15:26.850 --> 01:15:32.280
+Brian Nguyen: 20 think has higher is going to be higher in energy or less stable.
+
+528
+01:15:48.540 --> 01:15:49.440
+Brian Nguyen: For my hypothesis.
+
+529
+01:16:05.460 --> 01:16:06.480
+Brian Nguyen: One on the
+
+530
+01:16:08.400 --> 01:16:10.140
+Brian Nguyen: Table one on the
+
+531
+01:16:11.550 --> 01:16:13.560
+Brian Nguyen: Other hand, the rate is less stable.
+
+532
+01:16:14.940 --> 01:16:15.210
+Brian Nguyen: Yeah.
+
+533
+01:16:16.680 --> 01:16:19.530
+Brian Nguyen: True. And that's because it's on the
+
+534
+01:16:20.640 --> 01:16:22.260
+Brian Nguyen: Right, energy, though, is
+
+535
+01:16:23.790 --> 01:16:30.840
+Brian Nguyen: Is a much higher. And this is configuration, the wet job. Next, does that job at
+
+536
+01:16:33.660 --> 01:16:40.170
+Brian Nguyen: These have the initial setup here this initial structure are you studying point job X does
+
+537
+01:16:42.210 --> 01:16:51.780
+Brian Nguyen: Is it tries WELL THAT DOES HIS DESK. I would try to define the ground state or lower energy structure. Okay.
+
+538
+01:16:52.770 --> 01:17:10.860
+Brian Nguyen: And so it was changed to kind of modify this bond ID run through some several iterations eat at the structure. All right, now for, for our purposes, but I want you guys to do is not your own job that so I want you guys to one single point energy calculation.
+
+539
+01:17:12.840 --> 01:17:15.870
+Brian Nguyen: This is what we call our I
+
+540
+01:17:17.940 --> 01:17:18.630
+Brian Nguyen: E
+
+541
+01:17:20.310 --> 01:17:20.580
+G.
+
+542
+01:17:22.500 --> 01:17:22.800
+Brian Nguyen: Okay.
+
+543
+01:17:24.120 --> 01:17:30.510
+Brian Nguyen: Giving a structure or configuration won't repeat the energy for this given configuration. Right.
+
+544
+01:17:32.220 --> 01:17:32.940
+Brian Nguyen: Same thing here.
+
+545
+01:17:34.080 --> 01:17:34.320
+Brian Nguyen: Okay.
+
+546
+01:17:35.940 --> 01:17:47.760
+Brian Nguyen: Does that answer your question here that clarify something often comes up is the reaction to all right. Okay. Well, I'm sure that everyone from the team. All right.
+
+547
+01:17:48.780 --> 01:17:51.240
+Brian Nguyen: Okay, let's go back to our terminal.
+
+548
+01:17:52.800 --> 01:17:58.620
+Brian Nguyen: Right, so we do not learn to one job. So now we're going to do is you're gonna run R. I.
+
+549
+01:17:59.670 --> 01:18:00.270
+Brian Nguyen: P of t.
+
+550
+01:18:01.530 --> 01:18:04.890
+Brian Nguyen: And when I'll put it out to file call rip it out.
+
+551
+01:18:06.240 --> 01:18:23.010
+Brian Nguyen: Right when I go into beginning and we can add no hell no, hang up to run our calculation in the background. So if you log out with petered calculation was still still run. Okay, you put in person running in the background. Enter.
+
+552
+01:18:24.210 --> 01:18:30.570
+Brian Nguyen: Again, this is Mark was a small the calculations Andre quickly. Okay, the output file.
+
+553
+01:18:31.830 --> 01:18:35.220
+Brian Nguyen: Or ideas key to look at that file.
+
+554
+01:18:37.320 --> 01:18:37.590
+Brian Nguyen: Okay.
+
+555
+01:18:39.720 --> 01:18:40.110
+Brian Nguyen: Can
+
+556
+01:18:45.000 --> 01:18:52.440
+Brian Nguyen: Everyone following along, learning their own define kind of idea to themselves. Okay.
+
+557
+01:18:53.490 --> 01:18:54.660
+Brian Nguyen: No problem so far.
+
+558
+01:18:56.550 --> 01:18:59.430
+Brian Nguyen: Okay. Okay, so just know the difference between those two.
+
+559
+01:19:00.780 --> 01:19:11.220
+Brian Nguyen: So we go structure is the information a corner just kind of go over it again is the basis sets that we we try and remember
+
+560
+01:19:13.410 --> 01:19:21.330
+Brian Nguyen: And very big basis that are we turned on. You found your take advantage of cemetery post a calculation.
+
+561
+01:19:22.410 --> 01:19:40.800
+Brian Nguyen: I said it's going down to just the energy. So each iteration some energy, right, so first cycle it ran just energy wasted energy and it's going to adjust the older adult a little bit to find the most optimal orbitals, you kind of get you the lowest energy. All right.
+
+562
+01:19:42.780 --> 01:19:45.870
+Brian Nguyen: So it goes through some iteration you see that entity goes down.
+
+563
+01:19:47.040 --> 01:19:53.850
+Brian Nguyen: There iterations goes down again for continually now this one going going
+
+564
+01:19:54.870 --> 01:19:58.590
+Brian Nguyen: Going now is convert right so it's conversion in the sense that
+
+565
+01:19:59.700 --> 01:20:07.710
+Brian Nguyen: After a certain number of decimal places the energy doesn't change very much. And that's the threshold, we call okay like 10 to the minus six.
+
+566
+01:20:08.250 --> 01:20:23.700
+Brian Nguyen: And then does it last iteration is your total energy just like you're looking for. And you can use this energy to compete your binding energy. Alright, so this is the cobra energy for your water molecule. Alright.
+
+567
+01:20:24.870 --> 01:20:29.820
+Brian Nguyen: Hopefully everyone you get about the same, same, same number. All right.
+
+568
+01:20:32.070 --> 01:20:32.520
+Brian Nguyen: Okay.
+
+569
+01:20:34.080 --> 01:20:37.590
+Brian Nguyen: Just kind of get a feel. Everyone's funny waters. Right. Correct.
+
+570
+01:20:38.850 --> 01:20:42.030
+Brian Nguyen: Okay, so everyone gets this number.
+
+571
+01:20:44.820 --> 01:20:49.230
+Brian Nguyen: And 6.4 or 562 ALL RIGHT TO THE ANSWER A Christians question.
+
+572
+01:20:50.310 --> 01:20:57.000
+Brian Nguyen: Is should be within like if if all the parameters to everyone uses are the same.
+
+573
+01:20:58.140 --> 01:21:07.920
+Brian Nguyen: It should be within almost like six digits after the decimal place. Okay, think so, I believe. Do you guys sell with to he everyone double check me
+
+574
+01:21:10.110 --> 01:21:10.440
+Brian Nguyen: Yeah.
+
+575
+01:21:11.580 --> 01:21:20.490
+Brian Nguyen: About the same. Yep. See, so so reproducibility is good in that case. Good. Alright, so
+
+576
+01:21:22.380 --> 01:21:23.490
+Brian Nguyen: I think I ran
+
+577
+01:21:26.310 --> 01:21:27.660
+Brian Nguyen: This check, then
+
+578
+01:21:31.800 --> 01:21:33.930
+Brian Nguyen: Okay, I'm gonna check fencing.
+
+579
+01:21:38.040 --> 01:21:51.000
+Brian Nguyen: We're okay. So in this case I got negative 232 I think a Christian negative 231. So what I can view is I can
+
+580
+01:21:52.350 --> 01:22:13.740
+Brian Nguyen: Share my control file feel crush you can take a look at that and see if our parameters are the same. Okay, so let me stop share and I'll add this to the chat and you guys can everyone can take that file and compare your control files. Okay.
+
+581
+01:22:15.480 --> 01:22:15.840
+Brian Nguyen: All right.
+
+582
+01:22:33.510 --> 01:22:33.960
+Brian Nguyen: Good.
+
+583
+01:22:35.100 --> 01:22:45.720
+Brian Nguyen: Survey. We everyone able to run these calculations or would they are you confused or I didn't get a email so
+
+584
+01:22:47.940 --> 01:22:49.740
+Brian Nguyen: Yeah, totally. And what
+
+585
+01:22:54.060 --> 01:22:58.680
+Theresa Carlos: I was just confused about where to like find the energy and I can
+
+586
+01:23:00.270 --> 01:23:02.700
+Brian Nguyen: Okay, now you know where you get your energy. Okay.
+
+587
+01:23:02.820 --> 01:23:04.860
+Brian Nguyen: Good luck to everyone can run it right
+
+588
+01:23:05.040 --> 01:23:13.950
+Brian Nguyen: I just, you're just not sure where it is right. Okay, this is everybody had to go through everything began my bed.
+
+589
+01:23:15.960 --> 01:23:18.480
+Brian Nguyen: Right at probably bored all your mind.
+
+590
+01:23:20.160 --> 01:23:22.290
+Brian Nguyen: Maybe, yeah. And this control file.
+
+591
+01:23:23.340 --> 01:23:24.420
+Brian Nguyen: Alright, so
+
+592
+01:23:25.500 --> 01:23:26.580
+Brian Nguyen: The first a crash.
+
+593
+01:23:27.690 --> 01:23:30.180
+Brian Nguyen: I sent that to everyone. I can check it out.
+
+594
+01:23:31.320 --> 01:23:34.770
+Brian Nguyen: Alright, so let's go back and share the
+
+595
+01:23:35.850 --> 01:23:44.520
+Brian Nguyen: Google Chrome. Alright, so can you guys all is everyone advanta calculation. Maybe we can check some of the calculation we get
+
+596
+01:23:45.600 --> 01:23:48.300
+Brian Nguyen: Right. Can you, can everyone check this energy
+
+597
+01:23:49.440 --> 01:23:53.370
+Brian Nguyen: Supposedly, that should be in your RFP out
+
+598
+01:23:54.780 --> 01:23:55.170
+Brian Nguyen: File.
+
+599
+01:23:58.530 --> 01:23:59.940
+Brian Nguyen: This is the energy. I got
+
+600
+01:24:08.910 --> 01:24:18.630
+Brian Nguyen: If this energy is off by more than my in like the one that's good. Generally, it should be up to six digits.
+
+601
+01:24:20.490 --> 01:24:23.310
+Brian Nguyen: These calculations are very, very precise.
+
+602
+01:24:25.110 --> 01:24:27.090
+Brian Nguyen: Accurate precise. Okay.
+
+603
+01:24:32.100 --> 01:24:33.510
+Brian Nguyen: me double check with everyone.
+
+604
+01:24:38.850 --> 01:24:40.020
+Brian Nguyen: Can we get the same number.
+
+605
+01:24:41.280 --> 01:24:41.820
+Brian Nguyen: Okay.
+
+606
+01:24:47.100 --> 01:24:48.540
+Theresa Carlos: I can't see that energy
+
+607
+01:24:55.980 --> 01:24:58.140
+Brian Nguyen: Possibility. Are you under a computer.
+
+608
+01:25:00.030 --> 01:25:02.790
+Brian Nguyen: Okay, second want a
+
+609
+01:25:04.920 --> 01:25:07.230
+Brian Nguyen: You don't see it rip it out file.
+
+610
+01:25:08.850 --> 01:25:10.560
+Theresa Carlos: I do. Okay.
+
+611
+01:25:11.310 --> 01:25:18.600
+Brian Nguyen: Let's look at it. Okay, how about this share with share your screen, you might have it might be a good moment to kind of show everyone
+
+612
+01:25:22.110 --> 01:25:28.800
+Brian Nguyen: Has their areas are bound to happen. And I think, be able to see it will help a lot. All right.
+
+613
+01:25:31.050 --> 01:25:31.680
+Brian Nguyen: Okay.
+
+614
+01:25:33.990 --> 01:25:36.450
+Brian Nguyen: Look at our ideas here.
+
+615
+01:25:41.190 --> 01:25:42.930
+Brian Nguyen: Okay, we can
+
+616
+01:25:45.270 --> 01:25:46.260
+Brian Nguyen: Do here we
+
+617
+01:25:47.490 --> 01:25:49.080
+Brian Nguyen: Go everyone taking a look great.
+
+618
+01:25:50.490 --> 01:25:50.850
+Theresa Carlos: Oh,
+
+619
+01:25:52.200 --> 01:25:52.710
+Brian Nguyen: Okay.
+
+620
+01:25:53.790 --> 01:26:06.810
+Brian Nguyen: All right, here's a step. All right, it gives you an air right it's an option dollar sign on Friday, not found RSVP ended know normally RDP and abnormally programs.
+
+621
+01:26:08.070 --> 01:26:21.390
+Brian Nguyen: That mean your calculations crashed. Right, so I will open it up to everyone else. I know exactly with areas. So what do you think is there. What you see what is Teresa and Mrs.
+
+622
+01:26:49.530 --> 01:26:51.120
+Brian Nguyen: Yes, because
+
+623
+01:26:52.650 --> 01:26:55.350
+Victoria Choi: She forget to turn on our
+
+624
+01:26:57.360 --> 01:27:01.290
+Brian Nguyen: Okay, that's a possibility. Right on. We are you think
+
+625
+01:27:05.370 --> 01:27:07.350
+thanh: Yeah, same thing is Victoria said
+
+626
+01:27:08.370 --> 01:27:09.270
+Brian Nguyen: Alright, that's fine.
+
+627
+01:27:10.560 --> 01:27:15.480
+Brian Nguyen: Right, right, right. Lisa and accretion analogy there.
+
+628
+01:27:18.600 --> 01:27:20.340
+Brian Nguyen: Alright, so let's get out
+
+629
+01:27:22.350 --> 01:27:22.650
+Brian Nguyen: All right.
+
+630
+01:27:23.850 --> 01:27:25.050
+Brian Nguyen: Okay, so
+
+631
+01:27:26.160 --> 01:27:34.380
+Brian Nguyen: Here's another okay so here's another group right so the one waking tech is go through define it's one define
+
+632
+01:27:38.490 --> 01:27:42.060
+Brian Nguyen: Enter, Enter. Thank you going
+
+633
+01:27:44.760 --> 01:27:52.860
+Brian Nguyen: Are we don't want to edit it just gets this not adding that we're not editing the imagery or adding more coordinate. We're not editing that basis fit.
+
+634
+01:27:54.720 --> 01:27:55.800
+Brian Nguyen: Into know. Yep.
+
+635
+01:27:57.420 --> 01:28:03.810
+Brian Nguyen: We're not editing them like the orbital all same folder contains all right let's go to our
+
+636
+01:28:10.140 --> 01:28:10.590
+Brian Nguyen: PC.
+
+637
+01:28:14.640 --> 01:28:20.250
+Brian Nguyen: There we go. Okay. Good job to go ahead and count. Yeah, there you go.
+
+638
+01:28:27.180 --> 01:28:27.720
+Brian Nguyen: Very good.
+
+639
+01:28:32.190 --> 01:28:39.120
+Brian Nguyen: Now you also notice that it January a file called oxidative right that's another clue that you know
+
+640
+01:28:40.230 --> 01:28:51.060
+Brian Nguyen: You turn on RI right you don't have that file available to you didn't turn in turn. All right. Okay, so these are you just think that we kind of go over. I'm going to try to keep
+
+641
+01:28:52.350 --> 01:29:03.330
+Brian Nguyen: Having you guys find these areas for yourself. Right, right, kind of practice. Right. Okay, so you can we run that calculation again and come back to later.
+
+642
+01:29:04.740 --> 01:29:05.100
+Brian Nguyen: Okay.
+
+643
+01:29:05.910 --> 01:29:12.330
+Theresa Carlos: Another question I had. I'm sorry. No. Say someone my energy like this one doesn't. So
+
+644
+01:29:13.920 --> 01:29:25.050
+Brian Nguyen: That because you have to run the RDP option. And when our up all the energy file abrogated prints out the cycles, the energy, the total energy cycle.
+
+645
+01:29:26.010 --> 01:29:26.400
+Okay.
+
+646
+01:29:30.420 --> 01:29:31.590
+Brian Nguyen: All right, cool.
+
+647
+01:29:34.440 --> 01:29:38.250
+Brian Nguyen: Other questions about running your calculation. All right.
+
+648
+01:29:39.810 --> 01:29:40.410
+Brian Nguyen: Good.
+
+649
+01:29:42.300 --> 01:29:43.980
+Brian Nguyen: Go back to Google Chrome
+
+650
+01:29:45.240 --> 01:29:45.660
+Brian Nguyen: Okay.
+
+651
+01:29:46.800 --> 01:29:51.000
+Brian Nguyen: So we'd all been done correctly on this check the bending.
+
+652
+01:29:52.590 --> 01:29:56.850
+Brian Nguyen: The one that is a game engine and your score died.
+
+653
+01:30:03.330 --> 01:30:06.300
+Aakrsh: Mr Brian also figured out why my number loom off.
+
+654
+01:30:07.020 --> 01:30:11.280
+Brian Nguyen: Okay, you like to share to the group, maybe what why is it off or
+
+655
+01:30:11.400 --> 01:30:23.670
+Aakrsh: I think I i think i clicked something wrong, because maybe I read it wrong or wrote it down wrong the first time you can I just went back into it and looked at it and it was negative 230 2.2
+
+656
+01:30:27.540 --> 01:30:28.830
+Brian Nguyen: Okay to 30
+
+657
+01:30:29.040 --> 01:30:37.080
+Aakrsh: Because I had, I had negative 231 point 64 written down, but when I went back to the program because my computer just died and went back up.
+
+658
+01:30:39.660 --> 01:30:40.710
+Brian Nguyen: Okay, welcome back.
+
+659
+01:30:41.790 --> 01:30:42.240
+Brian Nguyen: Okay.
+
+660
+01:30:42.780 --> 01:30:43.860
+Brian Nguyen: Yeah, it could happen.
+
+661
+01:30:46.230 --> 01:30:48.660
+Brian Nguyen: To me 368 26
+
+662
+01:30:50.640 --> 01:30:51.090
+Aakrsh: Did I think
+
+663
+01:30:52.200 --> 01:30:52.500
+Brian Nguyen: Yeah.
+
+664
+01:30:53.160 --> 01:30:53.700
+Aakrsh: I'm sorry. Yeah.
+
+665
+01:30:54.690 --> 01:30:55.140
+Okay.
+
+666
+01:30:56.310 --> 01:30:56.610
+Brian Nguyen: Yeah.
+
+667
+01:30:56.670 --> 01:31:02.610
+Brian Nguyen: Give me a heart attack. Prove it, right. That's good. All right. Good. Good. Okay, so
+
+668
+01:31:04.500 --> 01:31:11.880
+Brian Nguyen: We should all get pretty much the same energy. Right. So double checking everyone give me a nod to the yacht, the
+
+669
+01:31:13.620 --> 01:31:16.470
+Brian Nguyen: Correct total energy, the same for every day I competed
+
+670
+01:31:19.470 --> 01:31:19.770
+Brian Nguyen: In
+
+671
+01:31:22.500 --> 01:31:23.280
+Brian Nguyen: Their career again.
+
+672
+01:31:24.810 --> 01:31:25.680
+Theresa Carlos: I say also
+
+673
+01:31:27.030 --> 01:31:30.540
+Theresa Carlos: It's like we won something
+
+674
+01:31:34.920 --> 01:31:35.310
+Brian Nguyen: All right.
+
+675
+01:31:38.010 --> 01:31:39.750
+Brian Nguyen: Ready to go back and put their picture they
+
+676
+01:31:42.090 --> 01:31:43.290
+Theresa Carlos: Should I share my screen.
+
+677
+01:31:43.620 --> 01:31:44.040
+Yeah.
+
+678
+01:32:09.030 --> 01:32:10.380
+Brian Nguyen: Oh, okay.
+
+679
+01:32:12.210 --> 01:32:13.860
+Brian Nguyen: What could happen is
+
+680
+01:32:15.600 --> 01:32:22.260
+Brian Nguyen: I'm sorry, but I think I gave you an updated structure. It wasn't copied over
+
+681
+01:32:24.090 --> 01:32:30.990
+Brian Nguyen: So it could be what happened every I attended an updated for interns folders.
+
+682
+01:32:32.970 --> 01:32:46.500
+Brian Nguyen: That Friday or so lesson and 30 I think we had you're running a different structure. Okay, well, what will get back to it. All right. Okay.
+
+683
+01:32:49.770 --> 01:32:52.560
+Brian Nguyen: Amy, it is the most important thing I wanted to show
+
+684
+01:32:53.670 --> 01:33:00.000
+Brian Nguyen: Is this. Remember the three different configuration are venting
+
+685
+01:33:01.320 --> 01:33:02.610
+Brian Nguyen: venting where you have it.
+
+686
+01:33:02.970 --> 01:33:11.340
+Brian Nguyen: Basically over right on top of each other. The venting where you're kind of stacked it me, let me show you a picture. You don't mess you better
+
+687
+01:33:12.750 --> 01:33:17.580
+Brian Nguyen: We open up the other guy, Joe. Alright, so let me open
+
+688
+01:33:18.810 --> 01:33:21.000
+Brian Nguyen: Just so you guys everyone to see.
+
+689
+01:33:22.200 --> 01:33:24.540
+Brian Nguyen: Structures when I'm talking to them.
+
+690
+01:33:28.230 --> 01:33:29.610
+Brian Nguyen: All right, so I'm open to it.
+
+691
+01:33:30.900 --> 01:33:31.320
+Brian Nguyen: Gotcha.
+
+692
+01:33:32.370 --> 01:33:32.790
+Brian Nguyen: Actually
+
+693
+01:33:35.340 --> 01:33:36.420
+Brian Nguyen: This one was either
+
+694
+01:33:38.100 --> 01:33:39.120
+Brian Nguyen: Writing copy cutter.
+
+695
+01:33:40.860 --> 01:33:49.890
+Brian Nguyen: And it's the t shirt. Okay. So remember that question. You were talking about was which bending dimer is the
+
+696
+01:33:52.110 --> 01:33:56.820
+Brian Nguyen: Lowest or ground state energy or more stable. Right. So this one is are staggered
+
+697
+01:33:58.020 --> 01:34:01.620
+Brian Nguyen: All right, so give you a visual everyone is digital
+
+698
+01:34:03.120 --> 01:34:06.000
+Brian Nguyen: Right okay then.
+
+699
+01:34:07.050 --> 01:34:07.560
+Brian Nguyen: Structure.
+
+700
+01:34:08.760 --> 01:34:09.030
+Brian Nguyen: And
+
+701
+01:34:10.260 --> 01:34:11.880
+Brian Nguyen: Get you to a structure for you.
+
+702
+01:34:13.470 --> 01:34:13.920
+Brian Nguyen: Do
+
+703
+01:34:15.180 --> 01:34:23.100
+Brian Nguyen: Alright, this is the one that we, the death where it's completely right on top of each other. Okay.
+
+704
+01:34:25.500 --> 01:34:25.770
+Brian Nguyen: All right.
+
+705
+01:34:26.790 --> 01:34:27.720
+Brian Nguyen: Now, last one.
+
+706
+01:34:29.250 --> 01:34:29.850
+Brian Nguyen: This one.
+
+707
+01:34:33.240 --> 01:34:38.790
+Brian Nguyen: This funky thing where, like, it forms it a T shaped with the engineering
+
+708
+01:34:40.620 --> 01:34:49.410
+Brian Nguyen: Right and our hypothesis was that this thing the stack one was the most stable right
+
+709
+01:34:51.480 --> 01:34:53.670
+Brian Nguyen: Unfortunately, that's not not the case.
+
+710
+01:34:54.840 --> 01:35:03.510
+Brian Nguyen: People are published papers on this that the the sex ring here. He did a sacrament. A T shaped
+
+711
+01:35:05.100 --> 01:35:10.710
+Brian Nguyen: Dimer Venturi is the lowest and energy or more stable.
+
+712
+01:35:12.120 --> 01:35:17.820
+Brian Nguyen: And we're going to try to verify that and confirm that with our calculations. And if you look at it.
+
+713
+01:35:20.070 --> 01:35:24.900
+Brian Nguyen: Here's our binary energy is the calculation I competed I just wrote a little excel sheet.
+
+714
+01:35:26.280 --> 01:35:27.660
+Brian Nguyen: The 15
+
+715
+01:35:29.160 --> 01:35:31.290
+Brian Nguyen: Oh, sorry. I should have done the other way around.
+
+716
+01:35:32.490 --> 01:35:35.040
+Brian Nguyen: You're supposed to be my dad.
+
+717
+01:35:38.040 --> 01:35:39.690
+Brian Nguyen: Some of those guys mind species.
+
+718
+01:35:42.600 --> 01:35:43.290
+Brian Nguyen: Should be taught.
+
+719
+01:35:46.830 --> 01:35:48.300
+Brian Nguyen: My bed. Okay.
+
+720
+01:35:53.430 --> 01:36:03.420
+Brian Nguyen: Okay, the more positive and more stronger than binding between to accomplish the team de Monaco daily more stable. Right. So you can see here
+
+721
+01:36:05.310 --> 01:36:10.590
+Brian Nguyen: The benzene dimer ran off each other. It's almost like kilocalories per mole.
+
+722
+01:36:11.760 --> 01:36:14.340
+Brian Nguyen: Weaker be nice to shape.
+
+723
+01:36:16.140 --> 01:36:24.330
+Brian Nguyen: This thing is unit conversion here 67.509, you can always look up the unit conversion. So always
+
+724
+01:36:25.830 --> 01:36:26.280
+Brian Nguyen: Been hard
+
+725
+01:36:27.990 --> 01:36:29.850
+Brian Nguyen: To kilocalories per ml.
+
+726
+01:36:32.850 --> 01:36:44.520
+Brian Nguyen: Okay and here's this the unit conversion. Alright, so for everyone who are tree. There's 627.59 calories per mole. Okay, so just remember it.
+
+727
+01:36:46.050 --> 01:36:46.860
+Brian Nguyen: Chemistry stuff.
+
+728
+01:36:48.390 --> 01:36:48.750
+Brian Nguyen: Alright.
+
+729
+01:36:51.150 --> 01:36:55.650
+Brian Nguyen: So pretty cool, right, we were able to confirm the calculation that we did that.
+
+730
+01:36:57.240 --> 01:37:17.730
+Brian Nguyen: At the structure that we have is a staggered form or T shaped slower and energy than the dimer itself, the one that's right on top of each other. Right. This is where we observe, are these energies we compete it but then it you know you can compete with energy, but no.
+
+731
+01:37:18.840 --> 01:37:35.520
+Brian Nguyen: CDs trends, what does it really mean, and why are the numbers are. So this is an active area of research, right, we're still working on everyone's working on. Alright. Alright, so what we thought about
+
+732
+01:37:36.750 --> 01:37:38.700
+Brian Nguyen: Time to disappear. No.
+
+733
+01:37:39.990 --> 01:37:45.840
+Brian Nguyen: That's it. That's all I want to show you guys. I'm gonna share this Excel sheet with us, everyone.
+
+734
+01:37:47.010 --> 01:37:52.740
+Brian Nguyen: So you can check your numbers right and to see how I actually complete these numbers. Okay.
+
+735
+01:37:54.210 --> 01:37:54.570
+Brian Nguyen: All right.
+
+736
+01:37:55.920 --> 01:37:57.240
+Brian Nguyen: The few other things to note
+
+737
+01:37:58.410 --> 01:38:01.680
+Brian Nguyen: Back in chemistry. We didn't know that.
+
+738
+01:38:03.540 --> 01:38:06.150
+Brian Nguyen: That Bindi energy that you know Vander Waal
+
+739
+01:38:07.230 --> 01:38:24.630
+Brian Nguyen: Is typically weaker than hydrogen bonding. Right. Correct. But if you're if you're molecule is big enough very big, it can reach up to the same Viney energy as your water diner. Okay, so remember ethane.
+
+740
+01:38:26.790 --> 01:38:38.220
+Brian Nguyen: And decades. Right. I just adding more carbon to it. You can see that it can, it's approaching the binding energy of water. Okay.
+
+741
+01:38:39.720 --> 01:38:39.960
+Brian Nguyen: Okay.
+
+742
+01:38:41.010 --> 01:38:44.550
+Brian Nguyen: So that's another thing. Nice to nice thing to see where you can
+
+743
+01:38:46.560 --> 01:38:50.190
+Brian Nguyen: Verify what you learned in your chemistry class. Okay.
+
+744
+01:38:52.230 --> 01:38:53.100
+Brian Nguyen: Ask questions. Yes.
+
+745
+01:38:55.710 --> 01:38:57.720
+Brian Nguyen: All right, it's okay.
+
+746
+01:38:58.860 --> 01:39:00.090
+Brian Nguyen: If you dad.
+
+747
+01:39:01.290 --> 01:39:02.460
+Brian Nguyen: Yes, one minute.
+
+748
+01:39:05.040 --> 01:39:08.820
+Brian Nguyen: One last thing is be able to visualize somebody molecular orbital.
+
+749
+01:39:10.530 --> 01:39:12.060
+Brian Nguyen: What we're gonna do is
+
+750
+01:39:15.090 --> 01:39:18.540
+Brian Nguyen: I'm assuming airborne has ran a water calculations. Correct.
+
+751
+01:39:20.280 --> 01:39:28.290
+Brian Nguyen: Okay, so what we're going to do is when I generate and molecular orbital for water calculation. So you can visualize it.
+
+752
+01:39:29.400 --> 01:39:34.890
+Brian Nguyen: And then it's not time if you guys give everyone a little assignments.
+
+753
+01:39:36.450 --> 01:39:45.120
+Brian Nguyen: Get started on it. And if you guys if you really wanted to continue working on it. I had talked to me about it, feel free to email me. Okay.
+
+754
+01:39:46.290 --> 01:39:50.820
+Brian Nguyen: All right, so you go to terminal to terminal.
+
+755
+01:39:55.560 --> 01:39:55.770
+Brian Nguyen: One.
+
+756
+01:39:58.530 --> 01:39:59.910
+Brian Nguyen: Hello. Okay.
+
+757
+01:40:02.220 --> 01:40:03.600
+Brian Nguyen: You're back on to our computer
+
+758
+01:40:05.040 --> 01:40:14.160
+Brian Nguyen: This new water. Okay, water, it's easy to work with. We have a converged energy or destruction of our optimum.
+
+759
+01:40:15.360 --> 01:40:17.640
+Brian Nguyen: You can then type in Tiger.
+
+760
+01:40:19.230 --> 01:40:19.650
+Brian Nguyen: Tiger.
+
+761
+01:40:21.270 --> 01:40:26.520
+Brian Nguyen: Your dance print out all the occupation of here likely or okay
+
+762
+01:40:30.120 --> 01:40:31.950
+Brian Nguyen: All right, face to kind of
+
+763
+01:40:32.970 --> 01:40:36.780
+Brian Nguyen: Go to very end. Right. Okay. So, this
+
+764
+01:40:38.400 --> 01:40:40.380
+Brian Nguyen: Shows you the total energy
+
+765
+01:40:41.970 --> 01:40:43.830
+Brian Nguyen: You know, our trees and electron volts.
+
+766
+01:40:44.850 --> 01:40:51.180
+Brian Nguyen: It gives you the energy of the molecular interesting highs often little and the lowest or not, combined with
+
+767
+01:40:53.790 --> 01:40:55.020
+Brian Nguyen: Your seat that
+
+768
+01:40:56.730 --> 01:40:58.260
+Brian Nguyen: Either occupational nurse.
+
+769
+01:41:00.090 --> 01:41:08.280
+Brian Nguyen: I believe if everyone remembers how many electrons can occupy on multiple orbital molecular
+
+770
+01:41:09.870 --> 01:41:11.040
+Brian Nguyen: Or any over it.
+
+771
+01:41:15.900 --> 01:41:20.310
+Brian Nguyen: Was a member there, and I hope you guys learned that in AP chemistry.
+
+772
+01:41:21.630 --> 01:41:23.280
+Brian Nguyen: Here filling up their electronic
+
+773
+01:41:43.980 --> 01:41:54.750
+Brian Nguyen: Nodding. Okay. Yeah, that's right. It's that for each leg or Adobe enough to electron occupying it right they occupying spin up and spin down. Right. Okay.
+
+774
+01:41:57.420 --> 01:42:01.050
+Brian Nguyen: And since they're all kind of saying oh really yeah they have generally the same energy.
+
+775
+01:42:04.110 --> 01:42:06.090
+Brian Nguyen: So what we're gonna do is we're gonna try to visualize
+
+776
+01:42:07.770 --> 01:42:13.920
+Brian Nguyen: The hall and the limo. All right. To do that, we are
+
+777
+01:42:15.000 --> 01:42:16.920
+Brian Nguyen: Asked to do is
+
+778
+01:42:18.090 --> 01:42:23.580
+Brian Nguyen: We have to modify. We were at by hand in our
+
+779
+01:42:26.250 --> 01:42:29.670
+Brian Nguyen: In our control file. Okay, so the control
+
+780
+01:42:35.250 --> 01:42:39.540
+Brian Nguyen: Point, you take this command in. So this wine is called point style.
+
+781
+01:42:42.450 --> 01:42:42.990
+Brian Nguyen: Mo.
+
+782
+01:42:44.610 --> 01:42:50.550
+Brian Nguyen: And then I believe you're testing the molecular orbital that you're interested in.
+
+783
+01:42:51.600 --> 01:42:57.450
+Brian Nguyen: You put a grieving you plan before you put that format it to keep
+
+784
+01:42:58.710 --> 01:42:59.730
+Really, okay.
+
+785
+01:43:02.100 --> 01:43:04.170
+Brian Nguyen: Equal mo state.
+
+786
+01:43:05.850 --> 01:43:08.670
+Brian Nguyen: Mo. Number five, and
+
+787
+01:43:13.980 --> 01:43:15.930
+Brian Nguyen: OK, now let's save this.
+
+788
+01:43:17.310 --> 01:43:23.640
+Brian Nguyen: Calling cute W you type in Poland W Q will say in quick edit, same time
+
+789
+01:43:26.220 --> 01:43:31.680
+Brian Nguyen: All right, and it corresponds to these numbers. Okay, five, and six.
+
+790
+01:43:32.730 --> 01:43:37.950
+Brian Nguyen: Alright, so to get these orbitals. Move on our idea to
+
+791
+01:43:39.180 --> 01:43:40.440
+Brian Nguyen: Cash proper
+
+792
+01:43:43.260 --> 01:43:53.160
+Brian Nguyen: Put this out to a call proper output that you guys can everyone can see what if there's an error. Right.
+
+793
+01:43:54.210 --> 01:43:54.750
+Brian Nguyen: Center.
+
+794
+01:43:56.130 --> 01:43:59.790
+Brian Nguyen: Okay. And if she shows up haha there. You did.
+
+795
+01:44:01.140 --> 01:44:02.370
+Brian Nguyen: Use the orbital.
+
+796
+01:44:03.810 --> 01:44:07.320
+Brian Nguyen: Alright, this is correspond to disrupt orbital here for a one.
+
+797
+01:44:08.850 --> 01:44:10.050
+Brian Nguyen: And one, the two
+
+798
+01:44:11.370 --> 01:44:11.850
+Brian Nguyen: Right here.
+
+799
+01:44:13.290 --> 01:44:13.710
+Brian Nguyen: All right.
+
+800
+01:44:15.150 --> 01:44:19.680
+Brian Nguyen: When I say, Okay, what's this proper de VI proper
+
+801
+01:44:20.940 --> 01:44:25.080
+Brian Nguyen: Out. Now, feel free to stop me at any moment.
+
+802
+01:44:26.340 --> 01:44:28.410
+Brian Nguyen: I can go back and look at it again.
+
+803
+01:44:30.420 --> 01:44:38.340
+Brian Nguyen: Okay, so is this the same thing. What this does, that doesn't run the energy calculation is just print out the molecular old rules for you. Okay.
+
+804
+01:44:39.540 --> 01:44:41.310
+Brian Nguyen: You can see them right here and maybe show you
+
+805
+01:44:44.400 --> 01:44:48.270
+Brian Nguyen: doesn't run any energy calculation. So there's no energy calculation is it
+
+806
+01:44:49.320 --> 01:44:52.380
+Brian Nguyen: Quiet dealing. Is it right is running this file here.
+
+807
+01:44:53.790 --> 01:45:01.410
+Brian Nguyen: contain them like the overall for you. This is this information. All right, doesn't take too long. Danny's calculations. A quick. Okay.
+
+808
+01:45:03.660 --> 01:45:12.300
+Brian Nguyen: So what we're gonna do is what we always been doing is we're going to have to copy this file back to our, our computer. Okay.
+
+809
+01:45:14.550 --> 01:45:17.490
+Brian Nguyen: Alright so let me share my desktop, you can see
+
+810
+01:45:20.490 --> 01:45:21.300
+Brian Nguyen: Alright, so
+
+811
+01:45:23.280 --> 01:45:27.570
+Brian Nguyen: What was the command to copy files from one computer to another.
+
+812
+01:45:37.980 --> 01:45:38.130
+Victoria Choi: SAP
+
+813
+01:45:38.790 --> 01:45:39.750
+Brian Nguyen: Great. Right.
+
+814
+01:45:40.020 --> 01:45:42.660
+Brian Nguyen: I will constantly review and yeah everyone
+
+815
+01:45:43.110 --> 01:45:45.330
+Brian Nguyen: You know what, what commands are there. OK.
+
+816
+01:45:47.040 --> 01:45:57.450
+Brian Nguyen: OK, so the STP. So we were going to work on our computer right now is our my computer name and I cannot go Peter, go to the directory that you want.
+
+817
+01:45:58.740 --> 01:45:59.340
+Brian Nguyen: To
+
+818
+01:46:01.800 --> 01:46:18.360
+Brian Nguyen: save that file. Okay, so I'm going to the record, I want to save my file. So you got everyone's go to directory that you want to save your calculations in. Okay. Alright, so I'm going to make a new folder will call it non Covina
+
+819
+01:46:20.790 --> 01:46:23.850
+Brian Nguyen: All right this way. I kind of organizing I think about
+
+820
+01:46:24.870 --> 01:46:37.080
+Brian Nguyen: Right, so like, you know, I'm in the first high school I read I put this in 2020 and break it up into different folders so everyone has their own way of organizing things that define what what works best for you because
+
+821
+01:46:38.250 --> 01:46:39.000
+Brian Nguyen: The noncombatant
+
+822
+01:46:40.350 --> 01:46:47.610
+Brian Nguyen: Right now it's empty. I want to make a folder water right water in there, put the water
+
+823
+01:46:48.780 --> 01:46:49.170
+Brian Nguyen: Okay.
+
+824
+01:46:53.910 --> 01:46:56.460
+Brian Nguyen: Now here's the real question. We know that STP.
+
+825
+01:46:57.660 --> 01:46:58.590
+Brian Nguyen: How do we use it.
+
+826
+01:47:00.180 --> 01:47:00.630
+Brian Nguyen: Okay.
+
+827
+01:47:01.920 --> 01:47:03.180
+Brian Nguyen: And what is the
+
+828
+01:47:04.290 --> 01:47:21.510
+Brian Nguyen: I'll show you one one, last one, last time, or yesterday. Everyone is triggered his outfit in the future. And when I asked you get everyone in how you run this command. Right. So from now on remembered a year. We are call is going to be copying files from
+
+829
+01:47:22.920 --> 01:47:28.380
+Brian Nguyen: Where we are so from our local machine. Okay wait for our computer is ok so we SCP
+
+830
+01:47:29.610 --> 01:47:34.170
+Brian Nguyen: Or Pepsi. I'm going to put this in my, you know, computer science language username.
+
+831
+01:47:36.150 --> 01:47:38.670
+Brian Nguyen: Not your every wherever you're at UCI net ideas.
+
+832
+01:47:40.020 --> 01:47:48.630
+Brian Nguyen: So we're going to start with this one because we're in a copy of file from the computer itself, your computer is use that to call IP address.
+
+833
+01:47:50.550 --> 01:47:57.240
+Brian Nguyen: Right, or we will use the computer name or in our case. Alright, so the IP address for our cases, the computer name.
+
+834
+01:47:59.430 --> 01:48:02.190
+Brian Nguyen: dot p s e said E edu.
+
+835
+01:48:03.690 --> 01:48:11.610
+Brian Nguyen: We're not done there that just points to the computer with your username. Okay. When you put a colon.
+
+836
+01:48:13.140 --> 01:48:25.080
+Brian Nguyen: Go back to your directory here when we need to do is we need to specify 70 WD G, we need to specify where this file is
+
+837
+01:48:26.190 --> 01:48:28.290
+Brian Nguyen: My commute appointed and it's copied us
+
+838
+01:48:30.360 --> 01:48:34.590
+Brian Nguyen: So each everyone else has a different meaning out of 20 different more or less to be distinct
+
+839
+01:48:35.670 --> 01:48:52.710
+Brian Nguyen: Ideas name. So I have it in here have been to water, but I want to copy GIS keep files. Alright, so there's several options. You can use this
+
+840
+01:48:55.140 --> 01:48:58.740
+Brian Nguyen: One of the easy option is scar cube.
+
+841
+01:49:00.570 --> 01:49:08.790
+Brian Nguyen: Alright, so let's start does is that star will list out call files that has these last three characters. Okay.
+
+842
+01:49:10.770 --> 01:49:12.270
+Brian Nguyen: Then space.
+
+843
+01:49:14.220 --> 01:49:22.170
+Brian Nguyen: This is the destination where you want to save it. So since I'm already in this folder here right here.
+
+844
+01:49:23.580 --> 01:49:25.320
+Brian Nguyen: I can just press to period.
+
+845
+01:49:26.640 --> 01:49:27.090
+Brian Nguyen: Okay.
+
+846
+01:49:28.620 --> 01:49:38.550
+Brian Nguyen: Cuz remind everyone, the period copies to file into this folder here. Wherever you are right now. Okay. You can also
+
+847
+01:49:39.930 --> 01:49:41.730
+Brian Nguyen: Write it out like this.
+
+848
+01:49:43.350 --> 01:49:44.940
+Brian Nguyen: And that will give you the same answer.
+
+849
+01:49:47.040 --> 01:49:49.470
+Brian Nguyen: Okay, it was alright.
+
+850
+01:49:52.080 --> 01:49:55.320
+Brian Nguyen: Alright, so everyone copy that key file back to your computer.
+
+851
+01:50:08.430 --> 01:50:09.630
+Brian Nguyen: Feel free to ask questions.
+
+852
+01:50:26.100 --> 01:50:26.550
+Brian Nguyen: Alright.
+
+853
+01:50:28.410 --> 01:50:35.850
+Brian Nguyen: We're going to look at the homo, homo is the one that is the highest energy and occupied for this one. So one of the two
+
+854
+01:50:36.900 --> 01:50:37.260
+Okay.
+
+855
+01:50:39.210 --> 01:50:47.610
+Brian Nguyen: I have a setup where I can just type in GMT. So for you guys. Yes, for everyone. We're going to open up
+
+856
+01:50:49.470 --> 01:50:49.920
+Brian Nguyen: The end.
+
+857
+01:50:50.970 --> 01:50:54.840
+Brian Nguyen: I want to have a different version. Little bit believe to max.
+
+858
+01:50:56.160 --> 01:50:59.400
+Brian Nguyen: Won't be will be a little different than mine.
+
+859
+01:51:02.790 --> 01:51:06.270
+Brian Nguyen: Believe that because the mecca with kind of Ina
+
+860
+01:51:07.620 --> 01:51:13.890
+Brian Nguyen: That isn't compatible with this version of D amp D. So your end smells a little bit more fancy. Okay.
+
+861
+01:51:15.180 --> 01:51:18.030
+Brian Nguyen: So what we're going to do is go to file.
+
+862
+01:51:19.080 --> 01:51:24.930
+Brian Nguyen: We're going to load up all it alright so we're going to do new molecule.
+
+863
+01:51:26.580 --> 01:51:27.570
+Brian Nguyen: Go to brown
+
+864
+01:51:30.000 --> 01:51:36.990
+Brian Nguyen: Right. So this time, the information where you are to us. You might see. I haven't looked through this kind of gets messy.
+
+865
+01:51:39.480 --> 01:51:41.070
+Brian Nguyen: For me, I'm in depth up
+
+866
+01:51:44.310 --> 01:51:47.130
+Brian Nguyen: Me in high school outreach.
+
+867
+01:51:49.470 --> 01:51:51.480
+Brian Nguyen: Non carbonated water.
+
+868
+01:51:52.980 --> 01:51:53.760
+Brian Nguyen: Wants to be
+
+869
+01:51:55.410 --> 01:51:56.580
+Brian Nguyen: Expressed load.
+
+870
+01:51:57.960 --> 01:52:00.090
+Brian Nguyen: Alright, so here's my water Marco
+
+871
+01:52:02.040 --> 01:52:07.530
+Brian Nguyen: And I stop here. Is everyone able to load their water molecule.
+
+872
+01:52:08.970 --> 01:52:15.690
+Brian Nguyen: Not on here able to Korea. You're welcome. You say something
+
+873
+01:52:19.650 --> 01:52:20.700
+Brian Nguyen: Are you able to load.
+
+874
+01:52:24.660 --> 01:52:26.310
+Brian Nguyen: No, no worries.
+
+875
+01:52:30.480 --> 01:52:35.370
+Theresa Carlos: Because my financing not responding to anything something
+
+876
+01:52:38.100 --> 01:52:38.430
+Brian Nguyen: That I can
+
+877
+01:52:39.540 --> 01:52:43.020
+Theresa Carlos: And I think just open because it wasn't responding
+
+878
+01:52:44.100 --> 01:52:44.370
+Theresa Carlos: Again,
+
+879
+01:52:46.560 --> 01:52:47.010
+Theresa Carlos: Okay.
+
+880
+01:52:48.210 --> 01:52:51.600
+Brian Nguyen: Victoria. You like to share me your screen I can show
+
+881
+01:52:52.860 --> 01:52:53.070
+Victoria Choi: Oh,
+
+882
+01:52:54.390 --> 01:52:57.660
+Victoria Choi: I actually got it was hidden behind everything
+
+883
+01:53:00.810 --> 01:53:02.460
+Brian Nguyen: Okay, so
+
+884
+01:53:03.150 --> 01:53:05.340
+Brian Nguyen: We're going to change this display to
+
+885
+01:53:05.580 --> 01:53:11.130
+Brian Nguyen: ortho ortho graphic. So it makes this little perpendicular and makes it easier to visualize
+
+886
+01:53:12.900 --> 01:53:15.960
+Brian Nguyen: So we're gonna go to graphic representation
+
+887
+01:53:17.220 --> 01:53:17.610
+Brian Nguyen: Okay.
+
+888
+01:53:19.740 --> 01:53:31.740
+Brian Nguyen: Can everyone can kind of play around on the future. We've managed to see us. There's all different forms, different ways of characterizing this visualizing this thing.
+
+889
+01:53:33.000 --> 01:53:42.750
+Brian Nguyen: Come on, nicer than others, right, it's one these foods. Maybe you just pro we all will see you can zoom out and okay
+
+890
+01:53:44.430 --> 01:53:47.430
+Brian Nguyen: We're going to use licorice or you
+
+891
+01:53:48.660 --> 01:53:50.730
+Brian Nguyen: typically use licorice first UK
+
+892
+01:53:52.500 --> 01:53:56.670
+Brian Nguyen: UK might be a little bit more similar for you so that
+
+893
+01:53:57.720 --> 01:54:00.360
+Brian Nguyen: Once that's done, let's create representation
+
+894
+01:54:01.740 --> 01:54:08.370
+Brian Nguyen: Now you have to representation here right and it would I change this representation to
+
+895
+01:54:09.570 --> 01:54:10.830
+Brian Nguyen: ISO surface.
+
+896
+01:54:11.910 --> 01:54:12.360
+Brian Nguyen: Right.
+
+897
+01:54:13.890 --> 01:54:27.180
+Brian Nguyen: We get this little box here, I'm gonna do is understand the only the ISO surface here. Here is a show. Go to I specific draw go to solid
+
+898
+01:54:30.660 --> 01:54:43.590
+Brian Nguyen: Alright so interesting. So this is some some math involved. So what we're gonna do. We're gonna change is a value. So that is related to, like, some kind of integration.
+
+899
+01:54:45.030 --> 01:54:51.510
+Brian Nguyen: Learn that eventually taking calculus. So we're going to do is point press point 03
+
+900
+01:54:52.530 --> 01:54:52.980
+Brian Nguyen: Okay.
+
+901
+01:54:54.000 --> 01:54:55.410
+Brian Nguyen: Let me get this
+
+902
+01:54:56.490 --> 01:55:00.810
+Brian Nguyen: lobular thing, right. So we're going to change the color.
+
+903
+01:55:02.040 --> 01:55:03.150
+Brian Nguyen: gold color method.
+
+904
+01:55:05.250 --> 01:55:14.640
+Brian Nguyen: Because caller ID and a bunch of different colors, blue, red, green, orange book The clock want to keep it with blue and red. All right, make it simple.
+
+905
+01:55:17.520 --> 01:55:18.330
+Brian Nguyen: Stop here.
+
+906
+01:55:21.330 --> 01:55:27.120
+Brian Nguyen: Everyone nod or give me a thumbs up if you got
+
+907
+01:55:28.710 --> 01:55:32.340
+Brian Nguyen: It. Alright, so now we're going to do the same thing.
+
+908
+01:55:34.290 --> 01:55:40.170
+Brian Nguyen: Alright copy itself really make the native I still value. Don't do this to
+
+909
+01:55:41.280 --> 01:55:43.350
+Brian Nguyen: The other side of the integration.
+
+910
+01:55:45.390 --> 01:55:54.660
+Brian Nguyen: And then we're going to change the color system to read what up. Here's your first picture of your molecular orbital.
+
+911
+01:55:55.860 --> 01:56:01.050
+Brian Nguyen: We can change. This is a value to make it smaller. Let's make it five.
+
+912
+01:56:02.580 --> 01:56:06.060
+Brian Nguyen: Okay, so you see to Adams herself up here.
+
+913
+01:56:08.880 --> 01:56:09.360
+Brian Nguyen: Alright.
+
+914
+01:56:11.370 --> 01:56:11.820
+Brian Nguyen: Question.
+
+915
+01:56:13.440 --> 01:56:14.100
+Brian Nguyen: All right, good.
+
+916
+01:56:15.150 --> 01:56:18.090
+Brian Nguyen: Other things really do like a year.
+
+917
+01:56:19.590 --> 01:56:21.960
+Brian Nguyen: Good graphics colors.
+
+918
+01:56:23.250 --> 01:56:27.900
+Brian Nguyen: Change the background play back background. I've read. Number eight.
+
+919
+01:56:29.490 --> 01:56:31.350
+Brian Nguyen: White. Then the second time.
+
+920
+01:56:32.670 --> 01:56:32.880
+Brian Nguyen: He
+
+921
+01:56:34.140 --> 01:56:37.530
+Brian Nguyen: Makes it a little bit easier to see the white background.
+
+922
+01:56:38.850 --> 01:56:39.300
+Brian Nguyen: Okay.
+
+923
+01:56:40.620 --> 01:56:45.480
+Brian Nguyen: We could make this look at all those little bit smaller 2.08
+
+924
+01:56:51.240 --> 01:56:51.690
+Brian Nguyen: All right.
+
+925
+01:56:55.500 --> 01:57:02.760
+Brian Nguyen: All right. Okay, here's your orbital originated in a situated. You want to look at it this way is the class.
+
+926
+01:57:04.620 --> 01:57:15.810
+Brian Nguyen: If you just scroll. We have to zoom in on a little bit. Okay. And then, or know what this is great, but okay. Seriously. There we go.
+
+927
+01:57:17.820 --> 01:57:18.090
+Brian Nguyen: Hey,
+
+928
+01:57:19.470 --> 01:57:24.120
+Brian Nguyen: Here's I'm likely or will go to file is no lender this file.
+
+929
+01:57:28.320 --> 01:57:28.740
+Brian Nguyen: Rendered
+
+930
+01:57:30.900 --> 01:57:31.170
+Brian Nguyen: Right.
+
+931
+01:57:32.910 --> 01:57:38.160
+Brian Nguyen: In most cases, we're going to use this thing here asking on
+
+932
+01:57:40.260 --> 01:57:47.130
+Brian Nguyen: Okay, and that will render high quality pictures for you that can be used for publication.
+
+933
+01:57:48.600 --> 01:57:48.990
+Brian Nguyen: Vendors
+
+934
+01:57:52.620 --> 01:57:54.210
+Brian Nguyen: Yeah, high quality pictures.
+
+935
+01:57:55.980 --> 01:57:57.540
+Brian Nguyen: Click on this or
+
+936
+01:58:05.880 --> 01:58:09.180
+Brian Nguyen: I believe on a max maybe live different save this.
+
+937
+01:58:12.270 --> 01:58:13.050
+Brian Nguyen: Safe as
+
+938
+01:58:20.760 --> 01:58:27.180
+Brian Nguyen: I said this is this is a picture you're trying to say the one you have, we can now.
+
+939
+01:58:34.170 --> 01:58:34.530
+Okay.
+
+940
+01:58:37.620 --> 01:58:38.940
+Brian Nguyen: Max slightly different
+
+941
+01:58:40.500 --> 01:58:48.480
+Brian Nguyen: Okay, that's fine. Right. So this is how you make high quality pictures. You can see for leave on a Windows. If you click on this.
+
+942
+01:58:49.590 --> 01:58:57.870
+Brian Nguyen: Can be slightly different. You have a way to save it as a file. Make sure that your files in a PSD format. Okay.
+
+943
+01:58:59.250 --> 01:59:05.970
+Brian Nguyen: Check out the format and and make sure that it's in PNG for a Mac. I believe it's going to have to do something.
+
+944
+01:59:06.990 --> 01:59:07.440
+Brian Nguyen: Different
+
+945
+01:59:10.440 --> 01:59:11.220
+Brian Nguyen: Don't know why.
+
+946
+01:59:13.080 --> 01:59:19.560
+Brian Nguyen: But yeah, different methods can be a little different. I can figure that out for you guys, everyone like yeah
+
+947
+01:59:20.580 --> 01:59:26.160
+Brian Nguyen: Okay, how you make your little right really quick that. Oh, wow.
+
+948
+01:59:28.440 --> 01:59:30.240
+Brian Nguyen: Okay, well, there we go.
+
+949
+01:59:31.410 --> 01:59:35.910
+Brian Nguyen: Okay, you make your me open this up one last time I screwed up.
+
+950
+01:59:39.330 --> 01:59:39.930
+Brian Nguyen: With me
+
+951
+01:59:44.940 --> 01:59:49.320
+Brian Nguyen: That's how you make your overdose. Right. That's how you can do it for
+
+952
+01:59:50.610 --> 01:59:52.980
+Brian Nguyen: Each of your home own demo of water molecule.
+
+953
+01:59:55.410 --> 02:00:05.370
+Brian Nguyen: The last thing I want to show wanted to ask you to run a calculation. I'm gonna stop sharing
+
+954
+02:00:06.780 --> 02:00:07.890
+Brian Nguyen: Before we go
+
+955
+02:00:08.910 --> 02:00:12.660
+Brian Nguyen: Any further questions about generating these molecular or no.
+
+956
+02:00:15.420 --> 02:00:20.760
+Brian Nguyen: No. Okay, so if you have one last thing.
+
+957
+02:00:21.990 --> 02:00:35.550
+Brian Nguyen: Via everyone can do this on your own. I'll send it in an email, but I'll say here and chat to you. But here's an interesting molecule. I like everyone to run is called the 286 molecule.
+
+958
+02:00:36.570 --> 02:00:41.430
+Brian Nguyen: I want everyone to perform a geometry optimization
+
+959
+02:00:42.510 --> 02:00:53.250
+Brian Nguyen: So this is kind of this will combine everything that you pretty much learned in the past weekend and apply to this. And then, you know, if you like this come back to me and we can talk about it.
+
+960
+02:00:54.420 --> 02:01:01.860
+Brian Nguyen: With an email. So I everyone is some very interesting chemistry and you can interpret the bonding.
+
+961
+02:01:02.880 --> 02:01:09.390
+Brian Nguyen: Based on visual and select the orbitals. I only showed you a water molecule and it's not much I can do to show
+
+962
+02:01:09.990 --> 02:01:31.890
+Brian Nguyen: To show you how to do it. But now she wants you to apply it to see some interesting chemistry. Okay, so we're gonna do a performance, the optimization with to be functional will not figured out how to change that functional PB and depth to as the dataset.
+
+963
+02:01:34.200 --> 02:01:35.580
+Brian Nguyen: Okay, I picked that in just
+
+964
+02:01:36.870 --> 02:01:41.640
+Brian Nguyen: For general conversation with me functional confirm
+
+965
+02:01:42.780 --> 02:01:45.300
+Brian Nguyen: That you're that the
+
+966
+02:01:47.730 --> 02:01:48.870
+Brian Nguyen: Geometry.
+
+967
+02:01:50.130 --> 02:01:52.140
+Brian Nguyen: He's at eight grand scale.
+
+968
+02:01:54.540 --> 02:01:59.790
+Brian Nguyen: How do you confirm that what was, what was the command or the next whatever we're looking at
+
+969
+02:02:03.630 --> 02:02:04.260
+Brian Nguyen: You remember
+
+970
+02:02:06.600 --> 02:02:09.330
+Brian Nguyen: It starts with a, oh boy.
+
+971
+02:02:11.280 --> 02:02:11.970
+Theresa Carlos: Calculation.
+
+972
+02:02:23.880 --> 02:02:38.340
+Brian Nguyen: Ok al for to calculate confirms that you whether you're at a grammar mistakes they make sure that your frequencies are non imaginary. So, meaning that there's no negative frequency. OK, and then print out
+
+973
+02:02:40.260 --> 02:02:43.650
+Brian Nguyen: The hormones in numeral. Okay.
+
+974
+02:02:47.700 --> 02:02:48.780
+Brian Nguyen: Molecular orbital.
+
+975
+02:02:52.950 --> 02:03:04.290
+Brian Nguyen: Little things you will have to pretty much built them all to yourself, verify them all inclusive Google that. So this is very interesting structure your to do list.
+
+976
+02:03:06.270 --> 02:03:11.910
+Brian Nguyen: All the rules are basically toss out of our earlier the window. Okay.
+
+977
+02:03:13.260 --> 02:03:33.510
+Brian Nguyen: It's very interesting performance geography optimization with PB def to Sep basis that confirm that john Cusack ground state run a calculation to confirm that exam state and then print out me some molecular orbital is the whole mall in limbo. And then once you get to that scale.
+
+978
+02:03:34.890 --> 02:03:38.400
+Brian Nguyen: And if you have questions, except, feel free to email me
+
+979
+02:03:40.080 --> 02:03:57.420
+Brian Nguyen: Right. And, you know, feel free to to maybe ask more about what what what what you're visualizing what you see in a very interesting chemistry. You can see it's a very interesting bonding that you will see okay that you never really imagined about. Okay.
+
+980
+02:03:59.100 --> 02:03:59.370
+Aakrsh: And
+
+981
+02:03:59.880 --> 02:04:03.000
+Aakrsh: Bring when are we going to get the email for like where we are choices.
+
+982
+02:04:05.040 --> 02:04:13.740
+Brian Nguyen: Okay, yeah, we'll get to that fact. You may have over logistics. Right. So what questions about this last
+
+983
+02:04:14.280 --> 02:04:15.360
+Brian Nguyen: Little small assignments.
+
+984
+02:04:16.950 --> 02:04:17.370
+Brian Nguyen: Right.
+
+985
+02:04:17.430 --> 02:04:19.050
+Brian Nguyen: It gave me a shot, you know,
+
+986
+02:04:19.290 --> 02:04:29.550
+Brian Nguyen: Give it a try. That's another way of practicing and re applying a lot of the chemistry that we see from these calculations. All right. No other questions, then
+
+987
+02:04:30.900 --> 02:04:38.190
+Brian Nguyen: Over logistics. So you got it for everyone. Everyone has sorry, listen to this presentation, I'm going to send out an email.
+
+988
+02:04:39.420 --> 02:04:52.920
+Brian Nguyen: a Google form. So give me your kind of time availability. I have some questions and then also kind of ranking the which projects, my interests me the most to work with. Okay, so I'll give you
+
+989
+02:04:54.210 --> 02:05:12.150
+Brian Nguyen: Five presentations. Please drink them all. Don't use the same don't that don't pick your first, second, third, fourth, fifth all team choices. All right, thank you. I'll send that out and it will Google, you know, five by end up Thursday or Friday every Friday. Okay.
+
+990
+02:05:15.090 --> 02:05:20.970
+Brian Nguyen: What else. Yeah. So as you know, where we expect everyone to meet with their
+
+991
+02:05:22.020 --> 02:05:25.350
+Brian Nguyen: Their mentor at least four hours a week. Tell us more.
+
+992
+02:05:26.610 --> 02:05:35.100
+Brian Nguyen: Or, you know, maybe four hours. It's kind of like four hours is prevalent to putting four hours of work into this. So it's a, you know, bare minimum.
+
+993
+02:05:36.450 --> 02:05:38.550
+Brian Nguyen: Just, just remember that you get
+
+994
+02:05:39.780 --> 02:05:49.410
+Brian Nguyen: Whatever you put in. It's whatever you get out of it. Okay, so you put minimal effort. Okay, minimal results out of it. Right. Okay. That seems to know
+
+995
+02:05:51.300 --> 02:05:58.230
+Brian Nguyen: So that's that. And then also tried to reach out to everyone. I want to share you guys my
+
+996
+02:05:59.580 --> 02:06:03.990
+Brian Nguyen: Phone number so that you guys can contact me. Right. So I think it's like the easiest
+
+997
+02:06:05.340 --> 02:06:07.950
+Brian Nguyen: Is just to me a text to say hi to your our
+
+998
+02:06:09.000 --> 02:06:15.840
+Brian Nguyen: Destiny that number to that number and just kind of like all sometimes there might be something I might be easier to reach out to you.
+
+999
+02:06:17.640 --> 02:06:19.290
+Brian Nguyen: via text email.
+
+1000
+02:06:22.740 --> 02:06:39.810
+Brian Nguyen: It to that stat, and I really will have. So after a few weeks you work with your mentor. I do want to check in with you or with everyone. So I'll send an email, sometimes your end of July or mid July.
+
+1001
+02:06:41.010 --> 02:06:49.680
+Brian Nguyen: On senior. Can I get an idea is to for your progress. Okay. And we'll have a paid meeting.
+
+1002
+02:06:50.760 --> 02:07:01.080
+Brian Nguyen: One meeting, maybe once a month. Starting next July after a few weeks of working with your mentor, where all the high school students and all the mentors will meet up
+
+1003
+02:07:01.770 --> 02:07:16.560
+Brian Nguyen: And zoom calls and, you know, you know, everyone. It's going to present their research. They've done with their mentors or it was the mentors and mentees. Okay. That would be a good idea to kind of gauge everyone's progress. Okay.
+
+1004
+02:07:18.720 --> 02:07:19.290
+Brian Nguyen: Sounds good.
+
+1005
+02:07:20.370 --> 02:07:22.260
+Brian Nguyen: Other questions, artistic
+
+1006
+02:07:26.940 --> 02:07:33.900
+Brian Nguyen: All right, great. All right, I want to say thank you guys. Thank you, everyone. Have a great opportunity teaching you guys
+
+1007
+02:07:35.250 --> 02:07:35.580
+Brian Nguyen: It was
+
+1008
+02:07:37.440 --> 02:07:51.420
+Brian Nguyen: Quite a journey help you help everyone ready to take something out of this. All right, so hopefully like might be worked with you would you would want to you on the Wonder products right so looking forward to it. Alright, so
+
+1009
+02:07:52.470 --> 02:07:53.940
+Brian Nguyen: If you have any a
+
+1010
+02:07:56.040 --> 02:08:06.150
+Brian Nguyen: One final remark is that I'm going to ask everyone to send an evaluation, please send me your feedback. It will be anonymous
+
+1011
+02:08:07.980 --> 02:08:20.190
+Brian Nguyen: P. Like, it will be it will be helpful for Jeffrey, and I was been teaching you lecturing in the past week what was done well, have you done poorly know
+
+1012
+02:08:21.240 --> 02:08:25.770
+Brian Nguyen: Give us that feedback. So we're always looking for improvement. Okay.
+
+1013
+02:08:26.790 --> 02:08:31.470
+Brian Nguyen: Sounds good. All right. Well, then, thank you. Well, it's
+
+1014
+02:08:32.880 --> 02:08:39.270
+Brian Nguyen: kind of sad to say goodbye to you, but I do have office hours tomorrow. Do you have questions during office hours that
+
+1015
+02:08:40.350 --> 02:08:42.840
+Brian Nguyen: We don't check. Yeah, the same time.
+
+1016
+02:08:44.130 --> 02:08:48.990
+Brian Nguyen: Wednesday. Yes. Wednesday at 11 to 12 you have questions.
+
+1017
+02:08:51.120 --> 02:08:57.360
+Brian Nguyen: Things like that. Okay, I'll send an invite for that one. Okay. All right. Thank you. Enjoy the
+
+1018
+02:08:58.470 --> 02:09:04.950
+Brian Nguyen: Rest of the week. Relax. Have a good night. Good night before, right. Yep.
+
+1019
+02:09:06.540 --> 02:09:07.980
+thanh: Thank you buy
+
+1020
+02:09:08.460 --> 02:09:08.880
+Me.
+
+1021
+02:09:11.040 --> 02:09:12.300
+Brian Nguyen: A STICK AROUND THAT QUESTION.
+
+1022
+02:09:14.460 --> 02:09:15.930
+Brian Nguyen: Right, Chris. Here to here.
+

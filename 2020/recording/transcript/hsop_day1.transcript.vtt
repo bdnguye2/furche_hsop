@@ -1,0 +1,6058 @@
+WEBVTT
+
+1
+00:07:39.420 --> 00:07:40.650
+Brian Nguyen: Good morning.
+
+2
+00:07:44.490 --> 00:07:44.940
+Brian Nguyen: Hey,
+
+3
+00:07:46.020 --> 00:07:48.780
+Brian Nguyen: So yes, so there is to have me
+
+4
+00:07:50.280 --> 00:07:52.800
+Brian Nguyen: In case if something happens.
+
+5
+00:07:53.940 --> 00:07:58.530
+Brian Nguyen: To one of my computers just a backup, just in case. Okay.
+
+6
+00:08:00.450 --> 00:08:01.560
+Brian Nguyen: Yeah, so
+
+7
+00:08:01.920 --> 00:08:05.610
+Brian Nguyen: Hey, welcome everyone. Good morning. How did you get this weekend.
+
+8
+00:08:10.230 --> 00:08:10.560
+Brian Nguyen: Good.
+
+9
+00:08:11.790 --> 00:08:14.100
+Brian Nguyen: Alright guys excited
+
+10
+00:08:17.580 --> 00:08:32.580
+Brian Nguyen: All right, I see not judge. Good. Alright so today we can teach you. So today, I'm Brian and this is Jeffrey right there. We're going to be the two people, you're going to be interacting with
+
+11
+00:08:34.050 --> 00:08:38.640
+Brian Nguyen: For the introduction to completion of chemistry and theory.
+
+12
+00:08:40.050 --> 00:08:40.770
+Brian Nguyen: So,
+
+13
+00:08:41.790 --> 00:08:51.180
+Brian Nguyen: Before we get started, I think we will be good to introduce each other, one by one. So one thing I I think I like to do is
+
+14
+00:08:53.520 --> 00:08:59.880
+Brian Nguyen: Introduce yourself where you're from and what is one thing you're looking forward to this summer.
+
+15
+00:09:00.900 --> 00:09:11.790
+Brian Nguyen: Because, you know, I heard that there was a saying that if the happiest people in the world are those who actually the fork is something that has something to look forward to.
+
+16
+00:09:12.390 --> 00:09:21.900
+Brian Nguyen: All right, so I'll get started and then Jeffrey, you'll have introduced himself, and then we'll just go, whoever feel like introducing themselves after that. Okay.
+
+17
+00:09:22.620 --> 00:09:36.600
+Brian Nguyen: All right. My name is Brian. I'm a fourth year fourth year oh one through my I just finished my fourth year of graduate school now and into my sis, we're getting my PhD in theoretical and computational chemistry.
+
+18
+00:09:37.860 --> 00:09:47.070
+Brian Nguyen: One thing that I'm looking forward to this summer is I want to pick up learning the violin, so we'll see. Supposedly, there is a
+
+19
+00:09:48.600 --> 00:09:57.480
+Brian Nguyen: We had to learn it from a young age, or else you can't marry, I know I don't know I heard that. So, oh, I'll try to break that trend will see. Okay.
+
+20
+00:10:01.140 --> 00:10:01.410
+All right.
+
+21
+00:10:02.580 --> 00:10:07.590
+Jeffrey Tsai: I'm Jeffrey, I'm from Massachusetts came over.
+
+22
+00:10:11.160 --> 00:10:14.400
+Jeffrey Tsai: Like a day or two after today last year.
+
+23
+00:10:17.580 --> 00:10:18.000
+Jeffrey Tsai: So,
+
+24
+00:10:19.080 --> 00:10:22.650
+Jeffrey Tsai: What was the stuff we say name or from
+
+25
+00:10:23.070 --> 00:10:28.230
+Brian Nguyen: One thing I just yeah and one to one pointing you're looking forward to this summer.
+
+26
+00:10:29.760 --> 00:10:42.690
+Jeffrey Tsai: I was really busy through the school year, because I have classes and teaching, but over the summer. I don't have any of those. So my biggest time since they're gone, so I'm looking forward to actually getting some stuff done with research.
+
+27
+00:10:46.080 --> 00:10:47.220
+Aakrsh: Right, we want you
+
+28
+00:10:48.870 --> 00:10:58.380
+Aakrsh: Know minute or two. I'm 15 years old. I'm going to be a junior and a little high school and something I'm looking forward to this summer is just going to the beach.
+
+29
+00:11:02.550 --> 00:11:08.730
+thanh: So I'm talking and I and from palm Valley High School in California and
+
+30
+00:11:10.590 --> 00:11:19.740
+thanh: I'm an incoming senior this year. Something I'm looking forward to doing is just sleeping more because I wasn't able to really sleep over the school year.
+
+31
+00:11:20.820 --> 00:11:21.210
+thanh: Yeah.
+
+32
+00:11:25.710 --> 00:11:41.160
+Theresa Carlos: So I'm curious, so I'm from New Jersey. I'm an incoming senior and I guess one thing I'm looking forward to, I guess, also being able to sleep more. I'm also I'm trying to learn more Korean and try learning guitar as well.
+
+33
+00:11:42.300 --> 00:11:42.660
+Theresa Carlos: Yeah.
+
+34
+00:11:49.980 --> 00:11:50.340
+Brian Nguyen: Mike
+
+35
+00:11:54.180 --> 00:12:02.580
+Victoria Choi: From California Troy high school and I'm looking forward to golfing more often because I haven't been able to do that.
+
+36
+00:12:08.640 --> 00:12:11.820
+Brian Nguyen: Is have a comment for curious that I also want to like carry into
+
+37
+00:12:13.980 --> 00:12:27.300
+Brian Nguyen: A coincidence. Oh, good, good, great. You guys all have something for it to, you know, just the size. Good to have something to look forward to. It keeps you keeps you positive. Keep it moving and all that. Okay, so, um,
+
+38
+00:12:28.470 --> 00:12:31.170
+Brian Nguyen: Today, just a few logistics stuff.
+
+39
+00:12:32.910 --> 00:12:43.320
+Brian Nguyen: I think we are having a social. I think it's at this Friday afternoon Pacific Coast time and we'll be sending out a Google poll
+
+40
+00:12:44.280 --> 00:12:54.270
+Brian Nguyen: Asking you guys what questions to you has have for former interns and also even for the for us, you know, graduate students during the professor to
+
+41
+00:12:54.870 --> 00:13:01.980
+Brian Nguyen: I just need some a few questions. You know, they just kind of like it's a very informal, but I just like to get some questions to help with like
+
+42
+00:13:02.490 --> 00:13:10.590
+Brian Nguyen: The activation barrier, you know, to get get this thing started. You know, gets to being from rolling. Alright so today we're just going to be the
+
+43
+00:13:11.550 --> 00:13:21.480
+Brian Nguyen: World will just learn bash commands and if we finished it will continue on and just with turbo mode, too. So it depends on how much you guys get through. All right.
+
+44
+00:13:23.340 --> 00:13:23.730
+Brian Nguyen: So,
+
+45
+00:13:24.750 --> 00:13:27.660
+Brian Nguyen: This is take this as the baseline.
+
+46
+00:13:32.040 --> 00:13:32.910
+Brian Nguyen: You guys hear that
+
+47
+00:13:34.140 --> 00:13:41.400
+Brian Nguyen: Yeah, let's check out there now. So this week is just a baseline knowledge of things that we think that is
+
+48
+00:13:42.180 --> 00:13:50.040
+Brian Nguyen: Will be needed for you guys. Common skills they need to work with your mentors, the mentors will will all have
+
+49
+00:13:51.030 --> 00:14:03.750
+Brian Nguyen: Specialized things that you need to be done. So this is kind of just the baseline. All right, you can still offer kind of foundation. Think of that way. Alright. So without further ado let's let the
+
+50
+00:14:05.220 --> 00:14:08.940
+Brian Nguyen: Let Jeffrey take over. Now, Jeff region we teaching you guys today.
+
+51
+00:14:10.410 --> 00:14:12.030
+Brian Nguyen: Introduction bash command.
+
+52
+00:14:13.080 --> 00:14:14.790
+Brian Nguyen: And so, yeah.
+
+53
+00:14:17.550 --> 00:14:19.770
+Brian Nguyen: Has had questions before we start.
+
+54
+00:14:25.980 --> 00:14:26.850
+Brian Nguyen: All right, definitely got it.
+
+55
+00:14:27.900 --> 00:14:29.340
+Jeffrey Tsai: Right. All right.
+
+56
+00:14:31.020 --> 00:14:31.590
+Jeffrey Tsai: So,
+
+57
+00:14:32.760 --> 00:14:34.350
+Jeffrey Tsai: Does everyone have their terminal open
+
+58
+00:14:35.610 --> 00:14:37.320
+Jeffrey Tsai: I can. You can actually see everyone
+
+59
+00:14:39.600 --> 00:14:41.370
+Jeffrey Tsai: So I'll start sharing screen.
+
+60
+00:15:06.630 --> 00:15:08.640
+Just racing my tracks. Okay.
+
+61
+00:15:15.450 --> 00:15:16.590
+Jeffrey Tsai: All right, so
+
+62
+00:15:19.740 --> 00:15:31.050
+Jeffrey Tsai: So our best tutorial is going to cover a few of the things that you're going to need for doing the work in the lab. It's all like rudimentary stuff. So once you
+
+63
+00:15:32.160 --> 00:15:33.540
+Jeffrey Tsai: Have it committed to memory.
+
+64
+00:15:35.490 --> 00:15:40.650
+Jeffrey Tsai: Everything should just come pretty naturally
+
+65
+00:15:41.940 --> 00:15:43.770
+Jeffrey Tsai: So once you've opened up your terminal.
+
+66
+00:15:45.150 --> 00:15:46.500
+Jeffrey Tsai: So you should see
+
+67
+00:15:48.240 --> 00:15:49.140
+Jeffrey Tsai: This tilda here.
+
+68
+00:15:50.910 --> 00:15:54.690
+Jeffrey Tsai: To tell you that you are currently in your home directory
+
+69
+00:15:56.850 --> 00:16:01.980
+Jeffrey Tsai: So in usual file systems like Windows and Max.
+
+70
+00:16:03.570 --> 00:16:15.150
+Jeffrey Tsai: This tilda directory would just be the first directory you see when you open up like either my documents know my computer or
+
+71
+00:16:17.640 --> 00:16:21.990
+Jeffrey Tsai: Or as a finder for Mac don't use Mac. So, yeah.
+
+72
+00:16:23.460 --> 00:16:25.380
+Jeffrey Tsai: Right. So once you've opened it up.
+
+73
+00:16:27.150 --> 00:16:31.560
+Jeffrey Tsai: So this directory, the to the home directory is not
+
+74
+00:16:32.790 --> 00:16:38.520
+Jeffrey Tsai: The highest level of the directories. So the directory. Start at the root.
+
+75
+00:16:39.540 --> 00:16:52.170
+Jeffrey Tsai: And then it branches off into separate directories. So the first thing we can do is we can just type ls so Alice I think stands for list.
+
+76
+00:16:53.220 --> 00:17:00.330
+Jeffrey Tsai: And if you press Enter, it shows all the directories that are currently or files that are currently in the folder that you're in.
+
+77
+00:17:01.980 --> 00:17:06.840
+Jeffrey Tsai: And you'll see the usual suspects like desktop documents downloads and so on.
+
+78
+00:17:08.370 --> 00:17:10.290
+Jeffrey Tsai: Now if you want to see.
+
+79
+00:17:11.820 --> 00:17:16.650
+Jeffrey Tsai: Where we're currently at starting from the group and down we can
+
+80
+00:17:17.820 --> 00:17:19.080
+Jeffrey Tsai: Type in PWD
+
+81
+00:17:22.260 --> 00:17:30.690
+Jeffrey Tsai: And from here we can see that from the route which is starting from the left where in the folder home and then within that we're in the folder.
+
+82
+00:17:32.880 --> 00:17:34.560
+Jeffrey Tsai: Should be your username at this point.
+
+83
+00:17:37.020 --> 00:17:37.230
+Right.
+
+84
+00:17:38.460 --> 00:17:45.240
+Jeffrey Tsai: And so now we can just go to the root. So just CD slash
+
+85
+00:17:46.500 --> 00:17:49.290
+Jeffrey Tsai: And now you'll see that if you LS
+
+86
+00:17:51.090 --> 00:17:56.730
+Jeffrey Tsai: You know, see separate list of all the most important
+
+87
+00:17:58.500 --> 00:18:00.810
+Jeffrey Tsai: Directories within the Unix file system.
+
+88
+00:18:02.040 --> 00:18:04.260
+Jeffrey Tsai: So there's things like the boot.
+
+89
+00:18:06.270 --> 00:18:07.050
+Jeffrey Tsai: Boot files.
+
+90
+00:18:08.310 --> 00:18:11.400
+Jeffrey Tsai: If you delete these boot files, then your computer becomes useless.
+
+91
+00:18:12.480 --> 00:18:15.060
+Jeffrey Tsai: These are the actual files for you to
+
+92
+00:18:17.070 --> 00:18:18.570
+Jeffrey Tsai: Be able to have your computer, turn on.
+
+93
+00:18:20.370 --> 00:18:25.320
+Jeffrey Tsai: From the PWD that we did, we see that we were in the home. So we have this home directory here.
+
+94
+00:18:26.430 --> 00:18:28.230
+Jeffrey Tsai: And there's some other ones.
+
+95
+00:18:30.270 --> 00:18:42.300
+Jeffrey Tsai: That probably won't be using much the Ben is for binaries. So that's where your typical like executive roles. So the axes would be
+
+96
+00:18:44.160 --> 00:18:44.520
+Okay.
+
+97
+00:18:47.550 --> 00:18:49.800
+Jeffrey Tsai: Brian. Are there any other directories that you think
+
+98
+00:18:51.630 --> 00:18:52.470
+Jeffrey Tsai: Are really important
+
+99
+00:18:55.980 --> 00:18:59.460
+Brian Nguyen: Go for now guys having you have questions, he goes
+
+100
+00:19:00.570 --> 00:19:04.260
+Brian Nguyen: I know that in Windows and Mac. So let me get great well
+
+101
+00:19:08.100 --> 00:19:09.720
+Jeffrey Tsai: You might not see as many of these
+
+102
+00:19:11.070 --> 00:19:15.030
+Jeffrey Tsai: directories that are based on the Windows Ubuntu system.
+
+103
+00:19:16.710 --> 00:19:26.700
+Brian Nguyen: Just follow along and just kind of, you know, practice. Right. Right. Okay. So, there's no question. Let's move on. Right. You feel free to stop this.
+
+104
+00:19:30.840 --> 00:19:31.140
+Good.
+
+105
+00:19:32.730 --> 00:19:33.000
+Alright.
+
+106
+00:19:34.470 --> 00:19:44.190
+Jeffrey Tsai: So we'll get back to this home directory. There's two ways that we can do this. We can either CD change directory to just the tilda again.
+
+107
+00:19:45.810 --> 00:19:54.600
+Jeffrey Tsai: For we can also just directly write out the path that we had for so just slash home slash and then your username.
+
+108
+00:19:56.160 --> 00:20:00.420
+Jeffrey Tsai: Now pls, we can see that we're back in the same place that we were before.
+
+109
+00:20:03.540 --> 00:20:04.470
+Jeffrey Tsai: OK, so now
+
+110
+00:20:06.390 --> 00:20:06.840
+See
+
+111
+00:20:13.200 --> 00:20:18.900
+Jeffrey Tsai: So that will try and making our own directories. So I've already done it here, but we can
+
+112
+00:20:20.070 --> 00:20:21.420
+Jeffrey Tsai: All remove the directory to
+
+113
+00:20:23.070 --> 00:20:32.010
+Jeffrey Tsai: Okay, so in order to make a directory. So you'll type in MK dir from make direct directory
+
+114
+00:20:33.510 --> 00:20:34.260
+Jeffrey Tsai: And then
+
+115
+00:20:36.420 --> 00:20:44.730
+Jeffrey Tsai: We'll just make two directories. So the first one I made was directory one. So, first make directory one and then I felt make directory to
+
+116
+00:20:47.250 --> 00:20:50.640
+Jeffrey Tsai: And once we've made this directory. If we Alice again.
+
+117
+00:20:51.810 --> 00:20:55.950
+Jeffrey Tsai: Will see that the directory that we just made is now listed in blue.
+
+118
+00:21:00.780 --> 00:21:01.320
+Jeffrey Tsai: And
+
+119
+00:21:03.210 --> 00:21:07.800
+Jeffrey Tsai: If we want to make a file instead. So instead of make their
+
+120
+00:21:09.090 --> 00:21:15.600
+Jeffrey Tsai: Will use the command touch so on nameless file three because I already have files.
+
+121
+00:21:17.070 --> 00:21:18.180
+Zero into on here.
+
+122
+00:21:20.010 --> 00:21:23.700
+Jeffrey Tsai: So once we touch, we can see that the files also popped up in white.
+
+123
+00:21:26.400 --> 00:21:38.190
+Jeffrey Tsai: And if we want to input some text into one of the files. There's also two ways of doing this. There's if you're familiar with the, I think it's Java that uses print off.
+
+124
+00:21:39.210 --> 00:21:40.980
+As well as C plus plus.
+
+125
+00:21:42.120 --> 00:21:45.600
+Jeffrey Tsai: So we have print off. And then we also have ECHO.
+
+126
+00:21:47.850 --> 00:21:49.230
+Jeffrey Tsai: So if we type in ago
+
+127
+00:21:50.430 --> 00:21:59.850
+Jeffrey Tsai: We can input a string into the file. So to have it be a string will use the apostrophe.
+
+128
+00:22:01.350 --> 00:22:04.710
+Jeffrey Tsai: And because this comes I will use hello world.
+
+129
+00:22:08.970 --> 00:22:13.020
+Jeffrey Tsai: And then in order to input into the specific file will have this
+
+130
+00:22:14.910 --> 00:22:17.700
+Jeffrey Tsai: Less than sign going into file three
+
+131
+00:22:20.520 --> 00:22:26.700
+Jeffrey Tsai: So now echo should have put the words hello world into file three. So in order to check that.
+
+132
+00:22:27.720 --> 00:22:41.250
+Jeffrey Tsai: Instead of CD, which we use to go into a directory. We can use cat stands for concatenate there's another use for which is concatenate files but also works for just seeing what the file looks like.
+
+133
+00:22:42.300 --> 00:22:43.770
+Jeffrey Tsai: So if we kept file three
+
+134
+00:22:44.940 --> 00:22:47.310
+Jeffrey Tsai: Will see the text that's inside
+
+135
+00:22:50.370 --> 00:22:50.640
+Alright.
+
+136
+00:22:53.220 --> 00:22:57.180
+Brian Nguyen: Jeffrey. Can you explain what the string of. Not a lot of people don't know.
+
+137
+00:22:58.530 --> 00:23:03.180
+Jeffrey Tsai: Okay, so in computer science. There are
+
+138
+00:23:04.590 --> 00:23:11.550
+Jeffrey Tsai: Different data types that you can have. So everything is a string of zeros and ones, but
+
+139
+00:23:13.050 --> 00:23:16.170
+Jeffrey Tsai: Some smart people in the past, decided to
+
+140
+00:23:18.330 --> 00:23:21.060
+Jeffrey Tsai: Specifically to find certain
+
+141
+00:23:22.230 --> 00:23:30.750
+Jeffrey Tsai: ways of storing data. So one of them would be integers. So just our regular integer numbers.
+
+142
+00:23:32.280 --> 00:23:37.830
+Jeffrey Tsai: Strings, which is a list of characters so
+
+143
+00:23:39.240 --> 00:23:40.110
+Jeffrey Tsai: This would be a string.
+
+144
+00:23:43.560 --> 00:23:47.100
+Jeffrey Tsai: There's also characters, which is just a single character.
+
+145
+00:23:48.750 --> 00:23:51.600
+Jeffrey Tsai: Whereas the string as a string of characters and then
+
+146
+00:23:54.420 --> 00:23:55.800
+Jeffrey Tsai: It depends on the
+
+147
+00:23:57.090 --> 00:23:58.770
+Jeffrey Tsai: Coding that you use, but
+
+148
+00:23:59.970 --> 00:24:06.960
+Jeffrey Tsai: Other than integers. You also have doubles, which is a double position number several decimals.
+
+149
+00:24:08.640 --> 00:24:09.330
+Jeffrey Tsai: Floats
+
+150
+00:24:12.120 --> 00:24:14.010
+Jeffrey Tsai: And C.
+
+151
+00:24:15.420 --> 00:24:20.790
+Jeffrey Tsai: And then another common one would be billions. So bullying is just true and false
+
+152
+00:24:22.350 --> 00:24:25.710
+Jeffrey Tsai: That's usually started as heroes zero or one.
+
+153
+00:24:31.260 --> 00:24:32.490
+Jeffrey Tsai: So whenever you do any
+
+154
+00:24:35.760 --> 00:24:40.560
+Jeffrey Tsai: Any coding in our the store and the data you always wanted. You'll always end up using
+
+155
+00:24:41.820 --> 00:24:44.580
+Jeffrey Tsai: At least one of the data type scenario to store the data.
+
+156
+00:24:52.710 --> 00:24:53.310
+Brian Nguyen: That question.
+
+157
+00:25:07.740 --> 00:25:08.760
+Jeffrey Tsai: Alright, so
+
+158
+00:25:14.610 --> 00:25:22.020
+Jeffrey Tsai: CD. So another command that is helpful for us would be copy. So CP
+
+159
+00:25:23.040 --> 00:25:26.370
+Jeffrey Tsai: So if we can be. And then we can copy file three
+
+160
+00:25:29.100 --> 00:25:38.820
+Jeffrey Tsai: So the way that copy works as you put in copy the file that you want to copy and then the destination that you want to copy that file to
+
+161
+00:25:40.380 --> 00:25:40.980
+Jeffrey Tsai: So,
+
+162
+00:25:42.360 --> 00:25:45.660
+Jeffrey Tsai: Instead of other than just directly
+
+163
+00:25:49.290 --> 00:25:59.160
+Jeffrey Tsai: Stating which directory that he wants to copy it to if you're in the current directory that you want to copy it to the current directory is also represented by a period.
+
+164
+00:26:00.660 --> 00:26:04.920
+Jeffrey Tsai: So if I wanted to copy file three to the current directory
+
+165
+00:26:05.940 --> 00:26:07.800
+Jeffrey Tsai: As a file called file for
+
+166
+00:26:11.310 --> 00:26:12.300
+Jeffrey Tsai: If we all this again.
+
+167
+00:26:13.410 --> 00:26:24.510
+Jeffrey Tsai: Will see that the file for is on here. Now, actually, can everyone see the full terminal because migraine blog boxes like only in the corner.
+
+168
+00:26:26.520 --> 00:26:31.320
+Brian Nguyen: Yeah, I think I could see it. I can you make the text bigger, Control Shift plus
+
+169
+00:26:38.610 --> 00:26:38.970
+Jeffrey Tsai: Maybe
+
+170
+00:26:39.030 --> 00:26:43.320
+Jeffrey Tsai: You want to make the text bigger in the terminal, Control Shift plus. And then if you want to
+
+171
+00:26:44.430 --> 00:26:46.020
+Jeffrey Tsai: Control minus
+
+172
+00:26:48.780 --> 00:26:50.760
+Brian Nguyen: On a Mac, but he's command.
+
+173
+00:26:52.020 --> 00:26:53.100
+Okay, yeah.
+
+174
+00:26:58.440 --> 00:27:06.150
+Jeffrey Tsai: Alright, so we made the two directories. So made directory one directory to so
+
+175
+00:27:08.760 --> 00:27:10.470
+Jeffrey Tsai: We can say bye to directory tail.
+
+176
+00:27:11.760 --> 00:27:18.330
+Jeffrey Tsai: So in order to take away the directory will just use room are under for removed directory
+
+177
+00:27:22.140 --> 00:27:23.490
+Jeffrey Tsai: And we'll see that's the spirit down
+
+178
+00:27:27.240 --> 00:27:42.960
+Jeffrey Tsai: So now let's try copying file over files onto our directory one. So I've already put one file in there, but we'll just put in the new files so we can again do CP
+
+179
+00:27:44.400 --> 00:27:45.330
+Jeffrey Tsai: The name of the file.
+
+180
+00:27:46.650 --> 00:27:49.770
+Jeffrey Tsai: And now we can just say,
+
+181
+00:27:51.900 --> 00:27:53.940
+Jeffrey Tsai: Copy this into directory one
+
+182
+00:27:55.290 --> 00:28:00.810
+Jeffrey Tsai: And if we want to name it something else we can always name it something else. So I'll just call it file five
+
+183
+00:28:05.400 --> 00:28:09.030
+Jeffrey Tsai: And then if we go into directory one
+
+184
+00:28:10.380 --> 00:28:12.450
+Jeffrey Tsai: So will change directory into directory one
+
+185
+00:28:13.860 --> 00:28:17.310
+Jeffrey Tsai: Will see that file five has now been added into this directory
+
+186
+00:28:22.740 --> 00:28:24.540
+Jeffrey Tsai: Okay, so
+
+187
+00:28:26.250 --> 00:28:38.880
+Jeffrey Tsai: Well, now go back to the home directory. So whereas period just a period is the current directory. If you want to change to the directory above this one. It's just two periods.
+
+188
+00:28:41.100 --> 00:28:45.210
+Jeffrey Tsai: So now we'll see that instead of directory one. We're back in the Tilda.
+
+189
+00:28:46.260 --> 00:28:46.890
+Home directory
+
+190
+00:28:50.040 --> 00:28:56.940
+Jeffrey Tsai: Alright, so for a directory to we were able to just remove it with removed her
+
+191
+00:28:58.500 --> 00:29:00.780
+Jeffrey Tsai: But if we now try it with directory one
+
+192
+00:29:03.240 --> 00:29:07.710
+Jeffrey Tsai: Will see that because the directory is not empty, we have file five in there.
+
+193
+00:29:08.940 --> 00:29:24.090
+Jeffrey Tsai: We can't remove it. So if you want to remove the files within the directory like all the files within the directory. So instead of removed or in order to just remove a file will just use RM, for Remove
+
+194
+00:29:25.980 --> 00:29:32.880
+Jeffrey Tsai: And if we want to remove every single file from directory one will say directory one slash star.
+
+195
+00:29:34.350 --> 00:29:49.320
+Jeffrey Tsai: So with star, you have to be careful because it deletes everything within the directory. So there's our stories of like research groups where someone goes into the root directory and then besides the looking delete everything with a certain command.
+
+196
+00:29:50.520 --> 00:29:52.470
+Jeffrey Tsai: And that is
+
+197
+00:29:54.120 --> 00:29:57.510
+Jeffrey Tsai: Think why my professor said he knows haunted did that before.
+
+198
+00:29:58.710 --> 00:30:03.120
+Jeffrey Tsai: So just be careful of that. So if we remove everything within director one
+
+199
+00:30:04.140 --> 00:30:08.850
+Jeffrey Tsai: And I'll just go in to confirm that everything's empty so director glances empty.
+
+200
+00:30:10.680 --> 00:30:11.850
+Jeffrey Tsai: We cannot remove vector
+
+201
+00:30:32.940 --> 00:30:33.780
+Brian Nguyen: File swap
+
+202
+00:30:36.720 --> 00:30:38.610
+Jeffrey Tsai: Well, I was just testing it out earlier.
+
+203
+00:30:40.380 --> 00:30:46.020
+Jeffrey Tsai: testing out the plan earlier and I think I created a hidden file.
+
+204
+00:30:50.460 --> 00:30:58.320
+Brian Nguyen: Alright, so I'll add a little bit today. So if you guys make a file in it for several some reason your gym.
+
+205
+00:31:00.870 --> 00:31:11.040
+Brian Nguyen: Crashes you'll have some backup file called file swap so you can kind of copy that file as your backup. Okay.
+
+206
+00:31:12.240 --> 00:31:13.440
+Brian Nguyen: guys have questions here.
+
+207
+00:31:14.790 --> 00:31:22.440
+Brian Nguyen: All right, good. Any three guys able to create the directories copy is NOT GO AHEAD, SAY YES OR thumbs up
+
+208
+00:31:23.790 --> 00:31:28.350
+Brian Nguyen: Though this kind of basic so we'll start getting a little bit harder and you're exactly
+
+209
+00:31:30.030 --> 00:31:30.240
+Brian Nguyen: Right.
+
+210
+00:31:32.190 --> 00:31:33.900
+doesn't get too hard.
+
+211
+00:31:35.100 --> 00:31:35.580
+Jeffrey Tsai: Because like
+
+212
+00:31:36.720 --> 00:31:38.250
+Jeffrey Tsai: The thing about UNIX is
+
+213
+00:31:39.510 --> 00:31:44.310
+Jeffrey Tsai: Everything is really, really well documented. So if you ever have to reference something
+
+214
+00:31:45.810 --> 00:31:50.100
+Jeffrey Tsai: There's plenty of websites with like cheat sheets on all the commands that you could possibly want.
+
+215
+00:31:52.290 --> 00:31:53.700
+Jeffrey Tsai: If you ever want to check like
+
+216
+00:31:54.930 --> 00:31:56.910
+Jeffrey Tsai: The options that you can use for
+
+217
+00:31:58.320 --> 00:32:01.650
+Jeffrey Tsai: A for a command, you can just do man for manual
+
+218
+00:32:02.940 --> 00:32:08.130
+Jeffrey Tsai: And you'll just see all the different options listed here for what you can do.
+
+219
+00:32:09.360 --> 00:32:13.110
+Jeffrey Tsai: So you'll notice that there's a dash before letter.
+
+220
+00:32:15.540 --> 00:32:20.070
+Jeffrey Tsai: So it's the same thing I did here. This LS dash a
+
+221
+00:32:21.210 --> 00:32:24.690
+Jeffrey Tsai: Will show me the hidden files or directories within a folder.
+
+222
+00:32:28.950 --> 00:32:29.250
+Okay.
+
+223
+00:32:31.020 --> 00:32:34.890
+Jeffrey Tsai: So just to clear the screen, you can just type in clear and then
+
+224
+00:32:35.940 --> 00:32:38.580
+Jeffrey Tsai: It doesn't. So I think on a
+
+225
+00:32:40.620 --> 00:32:55.680
+Jeffrey Tsai: At least on the Windows Subsystem I think that when you do clear the text everything that you did before should probably still be there and then you would be able to scroll up and see it again so clear, which is like, move your screen down
+
+226
+00:32:57.810 --> 00:32:58.530
+Jeffrey Tsai: Right, so
+
+227
+00:32:59.610 --> 00:33:06.570
+Jeffrey Tsai: There are two main file editors that you'll run into at least in this loud so there's Vim.
+
+228
+00:33:07.680 --> 00:33:08.460
+Jeffrey Tsai: Or VI.
+
+229
+00:33:10.170 --> 00:33:14.910
+Jeffrey Tsai: Thing for them is the near version of VI. But both of them open the same
+
+230
+00:33:16.470 --> 00:33:25.470
+Jeffrey Tsai: Open the same software or you can use Emacs, which is Brian's in Professor forces preferred file editor.
+
+231
+00:33:27.450 --> 00:33:33.030
+Jeffrey Tsai: But in this case Vim is just within this terminal. It doesn't open up a new
+
+232
+00:33:34.470 --> 00:33:39.210
+Jeffrey Tsai: A new window. So a lot of people enough preferring them.
+
+233
+00:33:41.280 --> 00:33:47.370
+Jeffrey Tsai: Right, so I'm just going to remove all these files and I will create a new file to
+
+234
+00:33:50.100 --> 00:33:50.880
+Jeffrey Tsai: Use film on
+
+235
+00:33:54.750 --> 00:33:56.820
+Jeffrey Tsai: So if you need to remove files, you can always just
+
+236
+00:33:58.680 --> 00:34:04.020
+Jeffrey Tsai: You can always just list them out right after the remove command and all of them will be removed.
+
+237
+00:34:05.910 --> 00:34:07.530
+Jeffrey Tsai: Okay, so if we
+
+238
+00:34:09.180 --> 00:34:11.820
+Jeffrey Tsai: It's good practice to just make the file first before
+
+239
+00:34:13.560 --> 00:34:16.110
+Jeffrey Tsai: Using them on it. So I'll create a new file.
+
+240
+00:34:17.250 --> 00:34:17.790
+Jeffrey Tsai: And then
+
+241
+00:34:19.830 --> 00:34:24.300
+Jeffrey Tsai: I'll do VI file. So now we're inside them.
+
+242
+00:34:26.370 --> 00:34:29.400
+Jeffrey Tsai: So because we just created the file, it's going to be empty.
+
+243
+00:34:30.990 --> 00:34:32.460
+Jeffrey Tsai: So if we want to insert
+
+244
+00:34:33.990 --> 00:34:34.710
+Jeffrey Tsai: Something
+
+245
+00:34:36.090 --> 00:34:39.720
+Jeffrey Tsai: Into here will press. So right now we're at the
+
+246
+00:34:41.430 --> 00:34:42.300
+Jeffrey Tsai: stage where
+
+247
+00:34:44.940 --> 00:34:55.650
+Jeffrey Tsai: Where we're in like a command stage. So we can't actually just directly type whatever we want in here because will activate commands based on whatever letters, the typing.
+
+248
+00:34:56.670 --> 00:35:00.120
+Jeffrey Tsai: So in order to insert new text we had to press I
+
+249
+00:35:01.230 --> 00:35:01.860
+Jeffrey Tsai: For insert
+
+250
+00:35:02.970 --> 00:35:05.100
+Jeffrey Tsai: And then we'll be able to
+
+251
+00:35:06.480 --> 00:35:06.810
+Type
+
+252
+00:35:08.460 --> 00:35:08.880
+In here.
+
+253
+00:35:12.630 --> 00:35:14.490
+Jeffrey Tsai: So if you want to do anything else.
+
+254
+00:35:16.800 --> 00:35:21.540
+Jeffrey Tsai: Well, actually, well, we'll do more than one line. So hello world.
+
+255
+00:35:22.830 --> 00:35:23.970
+Jeffrey Tsai: And then let's say
+
+256
+00:35:25.440 --> 00:35:26.880
+Jeffrey Tsai: High School outreach program.
+
+257
+00:35:27.930 --> 00:35:29.220
+You can type whatever you want here.
+
+258
+00:35:30.420 --> 00:35:32.160
+Jeffrey Tsai: Now to get out of this insert mode.
+
+259
+00:35:35.190 --> 00:35:38.820
+Jeffrey Tsai: You can just press escape so escape through
+
+260
+00:35:42.780 --> 00:35:44.280
+Jeffrey Tsai: escape through the insert mode.
+
+261
+00:35:46.530 --> 00:35:51.300
+Jeffrey Tsai: For some reason, when I type on this computer. If I use the up, down, left, right, arrows.
+
+262
+00:35:53.850 --> 00:35:57.540
+Jeffrey Tsai: In insert that makes a letter.
+
+263
+00:36:00.060 --> 00:36:03.060
+Jeffrey Tsai: But besides the arrow keys to navigate
+
+264
+00:36:04.110 --> 00:36:10.170
+Jeffrey Tsai: You can also use H, I, J, K, and L. So he would be left
+
+265
+00:36:11.670 --> 00:36:12.390
+Jeffrey Tsai: J won't be
+
+266
+00:36:13.500 --> 00:36:16.140
+Jeffrey Tsai: Jay, would be down okay is up.
+
+267
+00:36:17.160 --> 00:36:17.970
+Jeffrey Tsai: And an L.
+
+268
+00:36:21.270 --> 00:36:21.420
+Oh,
+
+269
+00:36:22.680 --> 00:36:23.370
+Jeffrey Tsai: And Alice right
+
+270
+00:36:30.300 --> 00:36:30.660
+Right.
+
+271
+00:36:34.590 --> 00:36:35.760
+So I'm just going to click this
+
+272
+00:36:38.190 --> 00:36:40.560
+Jeffrey Tsai: So if we wanted to lead lines.
+
+273
+00:36:43.260 --> 00:36:47.040
+Jeffrey Tsai: It's the command DD, so if we just type in DD
+
+274
+00:36:48.870 --> 00:36:50.430
+Jeffrey Tsai: Then will delete that line that we're on
+
+275
+00:36:51.660 --> 00:36:56.670
+Jeffrey Tsai: And if we want to paste that line somewhere else. We can just press P
+
+276
+00:36:58.080 --> 00:37:01.980
+Jeffrey Tsai: So P is going to paste it below the line that you're currently on
+
+277
+00:37:04.530 --> 00:37:11.280
+Jeffrey Tsai: And if instead of deleting the line. We want to just copy it, we can just press why why
+
+278
+00:37:12.780 --> 00:37:19.440
+Jeffrey Tsai: So instead of DVD. It's why, why, and then we'll press play again and I'll just paste the line again.
+
+279
+00:37:24.420 --> 00:37:24.900
+See
+
+280
+00:37:26.190 --> 00:37:27.810
+Jeffrey Tsai: So the main other
+
+281
+00:37:31.980 --> 00:37:33.960
+Jeffrey Tsai: Commands would be
+
+282
+00:37:35.010 --> 00:37:40.050
+Jeffrey Tsai: Something like slash so you'll see at the bottom of the screen a slash turned up.
+
+283
+00:37:41.190 --> 00:37:42.990
+Jeffrey Tsai: So if we want to look for
+
+284
+00:37:44.370 --> 00:37:45.090
+Jeffrey Tsai: A certain word
+
+285
+00:37:47.070 --> 00:37:51.750
+Jeffrey Tsai: We can just type it in. Press Enter. And they'll bring us to the first instance of the word.
+
+286
+00:37:53.340 --> 00:38:00.240
+Jeffrey Tsai: After wherever we were before. So if we're on the first line and we do the school.
+
+287
+00:38:01.410 --> 00:38:02.640
+Jeffrey Tsai: Will bring us to the first school
+
+288
+00:38:04.470 --> 00:38:13.980
+Jeffrey Tsai: Now for down here and we want to search upwards. So instead of going down research upwards, we can use question mark.
+
+289
+00:38:15.450 --> 00:38:17.190
+Jeffrey Tsai: And I'll bring us up to whatever word
+
+290
+00:38:21.690 --> 00:38:24.810
+Jeffrey Tsai: And if a file happens to be longer.
+
+291
+00:38:25.830 --> 00:38:30.420
+Jeffrey Tsai: There's two ways that you can navigate to the top and bottom. So
+
+292
+00:38:32.640 --> 00:38:34.590
+Jeffrey Tsai: If we want to navigate to the bottom of the file.
+
+293
+00:38:35.670 --> 00:38:47.220
+Jeffrey Tsai: Will do capital G. So, shift g will bring us to the last line of file. And if we want to return to the top of the file, it's just lowercase G. G.
+
+294
+00:38:53.610 --> 00:38:55.260
+Jeffrey Tsai: And other than that.
+
+295
+00:38:56.520 --> 00:38:59.100
+Jeffrey Tsai: I don't think you'll end up using
+
+296
+00:39:00.300 --> 00:39:01.800
+Jeffrey Tsai: Other options.
+
+297
+00:39:02.850 --> 00:39:06.450
+Jeffrey Tsai: So there's several different ways of quitting activists program.
+
+298
+00:39:07.470 --> 00:39:11.760
+Jeffrey Tsai: So if you want to save and quit. You'll type in colon.
+
+299
+00:39:12.810 --> 00:39:13.530
+Jeffrey Tsai: W. Q.
+
+300
+00:39:14.610 --> 00:39:15.510
+Jeffrey Tsai: And they'll save and quit.
+
+301
+00:39:16.950 --> 00:39:33.390
+Jeffrey Tsai: My preferred method is just capital ZZ so just Shift Z and the difference between Tim is calling who will save the file and then quit out of it while shifts easy will
+
+302
+00:39:34.980 --> 00:39:39.060
+Jeffrey Tsai: Quit other file and I'll save it. If you ended up actually making changes.
+
+303
+00:39:40.650 --> 00:39:44.940
+Jeffrey Tsai: So if you just don't make any changes just keeps the finalizes
+
+304
+00:39:56.880 --> 00:39:59.340
+Jeffrey Tsai: Alright, so we'll just move on to
+
+305
+00:40:00.390 --> 00:40:00.990
+Jeffrey Tsai: Scripting
+
+306
+00:40:02.400 --> 00:40:03.870
+Jeffrey Tsai: So let's see.
+
+307
+00:40:05.610 --> 00:40:11.880
+Jeffrey Tsai: I'm just going to do this in the documents folder instead. So I'll just see it into documents.
+
+308
+00:40:20.340 --> 00:40:25.710
+Jeffrey Tsai: Oh, don't go over this command yet. So if you want to move a file and still copy it. It's just empty.
+
+309
+00:40:27.330 --> 00:40:28.740
+Let's move on to research.
+
+310
+00:40:34.020 --> 00:40:39.600
+Jeffrey Tsai: So bass scripting is a way of just making a
+
+311
+00:40:40.620 --> 00:40:44.760
+Jeffrey Tsai: An executive all file. So if we want to create
+
+312
+00:40:46.740 --> 00:40:50.130
+Jeffrey Tsai: A basket. We can do something like touch.
+
+313
+00:40:52.290 --> 00:40:53.220
+Let's just caught script.
+
+314
+00:40:56.490 --> 00:41:00.150
+Jeffrey Tsai: And all them into it to start the script.
+
+315
+00:41:13.530 --> 00:41:14.940
+Brian Nguyen: Hey guys. Just a question.
+
+316
+00:41:16.350 --> 00:41:17.850
+Brian Nguyen: Is everyone following all this
+
+317
+00:41:35.910 --> 00:41:43.290
+Jeffrey Tsai: Brian, do you need to have the shell extension on the file name for you make the scripts or is it
+
+318
+00:41:45.720 --> 00:41:49.650
+Brian Nguyen: No, I think it should be fine. But if you want it depends.
+
+319
+00:41:50.970 --> 00:41:51.570
+Brian Nguyen: If you just
+
+320
+00:41:52.980 --> 00:41:54.510
+Do it, just in case. And usually
+
+321
+00:42:03.900 --> 00:42:09.660
+Jeffrey Tsai: So I'll remove rename the file that I made. So if you want to rename it's just move again.
+
+322
+00:42:12.420 --> 00:42:15.540
+Jeffrey Tsai: So that sh is for shell.
+
+323
+00:42:16.770 --> 00:42:32.730
+Jeffrey Tsai: So when it comes to Unix there's several different flavors of Unix. So there's different ways there's there's different sets of ways that you can invoke Unix code. So one of them is the
+
+324
+00:42:33.750 --> 00:42:35.010
+Bash scripting.
+
+325
+00:42:37.350 --> 00:42:41.250
+Jeffrey Tsai: Right, so we'll film on to the script SH again.
+
+326
+00:42:44.520 --> 00:42:51.090
+Jeffrey Tsai: And if you want to write a basket. It always starts with the shipping. So it's just
+
+327
+00:42:52.320 --> 00:42:53.910
+Jeffrey Tsai: Pound exclamation mark.
+
+328
+00:42:56.490 --> 00:42:57.840
+Jeffrey Tsai: And then we'll have slash
+
+329
+00:42:58.890 --> 00:43:02.610
+Jeffrey Tsai: Then for binary and then slash bash
+
+330
+00:43:04.050 --> 00:43:04.680
+Jeffrey Tsai: Bash scripting.
+
+331
+00:43:09.810 --> 00:43:13.020
+Jeffrey Tsai: So instead of echoing a line into the file.
+
+332
+00:43:14.610 --> 00:43:15.570
+Jeffrey Tsai: We can just have
+
+333
+00:43:16.650 --> 00:43:22.380
+Jeffrey Tsai: A line of code into the command line. So if we do go, Hello World.
+
+334
+00:43:25.140 --> 00:43:27.840
+Jeffrey Tsai: Then if we can turn the
+
+335
+00:43:29.160 --> 00:43:31.260
+Jeffrey Tsai: This file into an executable, and then run it.
+
+336
+00:43:32.790 --> 00:43:34.470
+Jeffrey Tsai: It will execute any command.
+
+337
+00:43:39.630 --> 00:43:42.180
+Jeffrey Tsai: will execute any command that is within here.
+
+338
+00:43:43.410 --> 00:43:48.480
+Jeffrey Tsai: So the main use that you'll probably end up having with us is if you have to rerun
+
+339
+00:43:49.980 --> 00:43:51.690
+Jeffrey Tsai: Certain calculations.
+
+340
+00:43:53.190 --> 00:43:59.970
+Jeffrey Tsai: There are different programs that you'll have to use within our software terrible and
+
+341
+00:44:02.310 --> 00:44:10.230
+Jeffrey Tsai: If you want to make the process quicker you can always write a script in order to just do the repeated thing for you.
+
+342
+00:44:12.630 --> 00:44:16.140
+Jeffrey Tsai: So there's a program called define. So if we wanted to just
+
+343
+00:44:17.850 --> 00:44:27.930
+Jeffrey Tsai: Use the fine in the same way for different calculations, if we just write the basket to go through the defined by itself, then if we run it will work for
+
+344
+00:44:29.280 --> 00:44:32.340
+Jeffrey Tsai: All those different calculate all those calculations.
+
+345
+00:44:40.710 --> 00:44:45.180
+Jeffrey Tsai: Right. So we've made the file. So we can exit out of it.
+
+346
+00:44:46.650 --> 00:44:49.650
+Jeffrey Tsai: With either colon W Q or capitals easy
+
+347
+00:44:52.500 --> 00:44:59.940
+Jeffrey Tsai: Now, if we allow us will see that the script is still in white. So it's still just the regular text file.
+
+348
+00:45:01.080 --> 00:45:08.700
+Jeffrey Tsai: So now we want to turn it into a an executive file. So if we want to do that.
+
+349
+00:45:09.960 --> 00:45:21.450
+Jeffrey Tsai: You can always look this up later. Again, there's more than one way of doing this, but if you do CH mod you plus x, and I wish every file that you want to turn into a script.
+
+350
+00:45:24.690 --> 00:45:28.500
+Jeffrey Tsai: Will see that now the white has turned into green
+
+351
+00:45:31.290 --> 00:45:33.180
+Jeffrey Tsai: And if we want to run this file.
+
+352
+00:45:34.740 --> 00:45:35.280
+Jeffrey Tsai: Should be
+
+353
+00:45:36.900 --> 00:45:40.140
+Jeffrey Tsai: So dot for the period for the current directory
+
+354
+00:45:42.030 --> 00:45:43.560
+Jeffrey Tsai: And then the name of the executive will
+
+355
+00:45:44.970 --> 00:45:48.180
+Jeffrey Tsai: And it will run the executive role for you.
+
+356
+00:45:53.520 --> 00:45:55.560
+Actually can't see everyone for some reason.
+
+357
+00:46:13.830 --> 00:46:17.730
+Jeffrey Tsai: If you want to have a process repeated there's
+
+358
+00:46:18.840 --> 00:46:22.020
+Jeffrey Tsai: Something called a for loop. So if you've taken
+
+359
+00:46:23.130 --> 00:46:29.820
+Jeffrey Tsai: A class, then you've definitely work with for loops. So there's different loops that you can use for while
+
+360
+00:46:32.100 --> 00:46:34.770
+As well as if there's one more.
+
+361
+00:46:35.880 --> 00:46:38.010
+Jeffrey Tsai: So what a for loop will do
+
+362
+00:46:39.060 --> 00:46:41.670
+Jeffrey Tsai: Is you tell the for loop.
+
+363
+00:46:44.700 --> 00:46:51.840
+Jeffrey Tsai: How many times to run something and it'll run it. However, many times that you need. So let's make a
+
+364
+00:46:55.680 --> 00:46:56.520
+Jeffrey Tsai: Just call it for loop.
+
+365
+00:46:57.930 --> 00:47:02.820
+Jeffrey Tsai: So we'll make a new file to make a for loop in and then run that so
+
+366
+00:47:05.550 --> 00:47:06.510
+Jeffrey Tsai: Well, if I enter
+
+367
+00:47:09.810 --> 00:47:14.820
+Jeffrey Tsai: So again, for the executive or start with the surveying and been slashed batch.
+
+368
+00:47:18.060 --> 00:47:21.720
+Jeffrey Tsai: So I have to run for an artist, writer for loop.
+
+369
+00:47:22.740 --> 00:47:23.640
+Jeffrey Tsai: You start with for
+
+370
+00:47:25.320 --> 00:47:26.940
+Jeffrey Tsai: And now.
+
+371
+00:47:28.800 --> 00:47:47.460
+Jeffrey Tsai: You'll have to define a variable. So this variable is going to cycle through different values. So if you give it values one through six, then every time you run the for loop, they'll start at one and then once you run it will turn into two until you get to six.
+
+372
+00:47:49.050 --> 00:47:52.260
+Jeffrey Tsai: So typically for this kind of counting
+
+373
+00:47:54.360 --> 00:47:56.070
+Jeffrey Tsai: The variable name will just be I
+
+374
+00:48:00.300 --> 00:48:04.980
+Jeffrey Tsai: And if we want to define a range of values over which you can
+
+375
+00:48:06.060 --> 00:48:06.870
+Jeffrey Tsai: Run this
+
+376
+00:48:08.160 --> 00:48:10.110
+Jeffrey Tsai: You'll want to use the curly bracket.
+
+377
+00:48:11.550 --> 00:48:12.960
+Jeffrey Tsai: The number that you want to start on
+
+378
+00:48:15.600 --> 00:48:18.570
+Jeffrey Tsai: And then in ellipses dot dot
+
+379
+00:48:19.590 --> 00:48:21.300
+Jeffrey Tsai: And then whichever know where you want to stop on
+
+380
+00:48:22.680 --> 00:48:24.420
+Jeffrey Tsai: And then close curly bracket.
+
+381
+00:48:26.550 --> 00:48:29.160
+Okay, I'm hoping the town for okay
+
+382
+00:48:33.630 --> 00:48:38.550
+Jeffrey Tsai: So whenever you make a for loop, whatever you want to run is going to be inside it and
+
+383
+00:48:39.600 --> 00:48:49.260
+Jeffrey Tsai: Instead of staying on the same line you'll want to have an indent. So the way that I'm used to is just having it. But the way that
+
+384
+00:48:51.360 --> 00:48:57.420
+Jeffrey Tsai: People writing code for terrible like to use is the intention of just three spaces.
+
+385
+00:49:01.470 --> 00:49:05.310
+Jeffrey Tsai: OK, so now will vary. What we want to run with them as far
+
+386
+00:49:06.900 --> 00:49:09.930
+Jeffrey Tsai: So we'll just do the same thing for just echo hello world.
+
+387
+00:49:13.980 --> 00:49:15.360
+Jeffrey Tsai: Sorry, sorry.
+
+388
+00:49:25.290 --> 00:49:28.680
+Jeffrey Tsai: Sorry, I'm not used to the navigating with H I J K L.
+
+389
+00:49:36.240 --> 00:49:39.540
+Jeffrey Tsai: So before you write what you want to run. You'll have to do
+
+390
+00:49:41.070 --> 00:49:41.430
+Jeffrey Tsai: Do
+
+391
+00:49:48.240 --> 00:49:50.550
+Jeffrey Tsai: And then you write whatever you want to run
+
+392
+00:49:54.060 --> 00:49:57.450
+Jeffrey Tsai: And then whenever you know once you're done with whatever it needs to be run
+
+393
+00:49:58.950 --> 00:50:01.830
+Jeffrey Tsai: He'll just type in done and I'll and for loop.
+
+394
+00:50:04.590 --> 00:50:07.890
+Jeffrey Tsai: Okay, so now press Escape to get off the insert mode.
+
+395
+00:50:09.210 --> 00:50:11.820
+Jeffrey Tsai: And then press capitals, easy to get out the
+
+396
+00:50:13.950 --> 00:50:14.700
+Film program.
+
+397
+00:50:17.250 --> 00:50:23.400
+Jeffrey Tsai: So I'll do the same thing to turn the for loop file into the executive so CH, but people sex.
+
+398
+00:50:25.350 --> 00:50:25.920
+Jeffrey Tsai: For loop.
+
+399
+00:50:32.340 --> 00:50:33.300
+Jeffrey Tsai: And running it.
+
+400
+00:50:35.280 --> 00:50:36.900
+Jeffrey Tsai: Will just do period such for loop.
+
+401
+00:50:56.430 --> 00:50:57.510
+Brian Nguyen: Wow, so
+
+402
+00:50:59.730 --> 00:51:02.970
+Brian Nguyen: This is a very teachable moment for everyone so
+
+403
+00:51:04.320 --> 00:51:16.770
+Brian Nguyen: So when you have a problem. He has some issues very first thing you process through try to understand what just happened. So the first step is to look at your script.
+
+404
+00:51:18.900 --> 00:51:19.980
+So looking at the
+
+405
+00:51:26.070 --> 00:51:26.550
+Same way,
+
+406
+00:51:28.110 --> 00:51:29.370
+Brian Nguyen: Say you say echo world.
+
+407
+00:51:31.500 --> 00:51:32.700
+Brian Nguyen: Agenda five times.
+
+408
+00:51:54.480 --> 00:51:56.970
+Brian Nguyen: Think spaces manner, but in that
+
+409
+00:52:03.570 --> 00:52:03.930
+Jeffrey Tsai: Way.
+
+410
+00:52:11.280 --> 00:52:15.360
+Jeffrey Tsai: If I run into trouble. And I need you know the answers and feel free to speak up.
+
+411
+00:52:22.020 --> 00:52:23.970
+Brian Nguyen: I stopped the air guy. I'm here.
+
+412
+00:52:29.400 --> 00:52:40.080
+Brian Nguyen: Okay, the air is so on your third line for i in curly brace one created five is supposed to be two periods, not
+
+413
+00:52:42.240 --> 00:52:42.510
+Jeffrey Tsai: Okay.
+
+414
+00:52:44.070 --> 00:52:44.610
+My dad.
+
+415
+00:52:46.140 --> 00:52:46.890
+Brian Nguyen: Had a take home.
+
+416
+00:52:49.470 --> 00:52:50.850
+Jeffrey Tsai: I was the one who wrote that so
+
+417
+00:52:52.050 --> 00:52:52.320
+Yeah.
+
+418
+00:52:54.900 --> 00:52:57.750
+Jeffrey Tsai: Teachable Moment, make sure that you type things, and probably
+
+419
+00:53:03.600 --> 00:53:04.290
+Jeffrey Tsai: Other thing that
+
+420
+00:53:05.760 --> 00:53:06.360
+Jeffrey Tsai: Try it again.
+
+421
+00:53:20.280 --> 00:53:20.820
+Brian Nguyen: Alright guys,
+
+422
+00:53:22.650 --> 00:53:27.630
+Brian Nguyen: Whenever first learning. This was a little confusing for me. Are you guys are following this
+
+423
+00:53:31.380 --> 00:53:32.010
+Brian Nguyen: Give me a nice
+
+424
+00:53:33.900 --> 00:53:34.230
+Brian Nguyen: Okay.
+
+425
+00:53:36.750 --> 00:53:39.600
+Jeffrey Tsai: So let me know. I'm going to slow
+
+426
+00:53:48.300 --> 00:53:50.100
+Brian Nguyen: Ah syntax error. Okay.
+
+427
+00:53:51.660 --> 00:53:59.280
+Brian Nguyen: We can do is, can you share your screen and then I think everyone here can take a look at your script and see what happens.
+
+428
+00:54:01.500 --> 00:54:06.600
+Brian Nguyen: Okay, can I contribute to the discussion I want this to be as interactive as possible.
+
+429
+00:54:18.690 --> 00:54:21.690
+Brian Nguyen: All right, you have a syntax error.
+
+430
+00:54:23.490 --> 00:54:32.100
+Brian Nguyen: Okay, let's look at the for loop structure and I'm going to open this up to the floor for the high school students. Yes, you can.
+
+431
+00:54:33.810 --> 00:54:34.770
+Brian Nguyen: Do you have a swap
+
+432
+00:54:36.390 --> 00:54:37.380
+Brian Nguyen: A report.
+
+433
+00:54:40.020 --> 00:54:41.040
+Brian Nguyen: I do LS
+
+434
+00:54:45.630 --> 00:54:49.740
+Brian Nguyen: Do LS space dash l
+
+435
+00:54:52.230 --> 00:54:54.270
+Brian Nguyen: Did I give you a little bit more information.
+
+436
+00:54:55.380 --> 00:55:00.390
+Brian Nguyen: About yours. Oh, OK. Sorry LS dash a
+
+437
+00:55:02.700 --> 00:55:03.300
+Brian Nguyen: Safe Space
+
+438
+00:55:09.990 --> 00:55:10.170
+Brian Nguyen: In
+
+439
+00:55:11.610 --> 00:55:17.880
+Brian Nguyen: There we go. Okay, you have that. So, something happened. I guess it created a backup file.
+
+440
+00:55:19.530 --> 00:55:28.410
+Brian Nguyen: So what we can do is just look at that backup file so VI saves for you swap
+
+441
+00:55:32.700 --> 00:55:33.090
+Brian Nguyen: Period.
+
+442
+00:55:35.100 --> 00:55:36.300
+Brian Nguyen: For swap
+
+443
+00:55:38.940 --> 00:55:39.720
+See what's in there.
+
+444
+00:55:41.700 --> 00:55:45.750
+Brian Nguyen: So it's just a bunch of binary. Okay, let's get out quick
+
+445
+00:55:54.240 --> 00:55:56.370
+Brian Nguyen: Alright, so we can just remove that file.
+
+446
+00:55:58.320 --> 00:55:58.950
+Brian Nguyen: You remove it.
+
+447
+00:56:06.750 --> 00:56:13.170
+Brian Nguyen: Okay, so now let's look at your for the script now and then, I think I know the air. I see the air already
+
+448
+00:56:14.940 --> 00:56:16.440
+Brian Nguyen: See if anyone else can spot it.
+
+449
+00:56:18.780 --> 00:56:23.880
+Brian Nguyen: Without Nokia Nokia so reducing the form the file for you.
+
+450
+00:56:26.220 --> 00:56:26.550
+Brian Nguyen: Alright.
+
+451
+00:56:29.670 --> 00:56:30.630
+Brian Nguyen: Alright guys,
+
+452
+00:56:32.640 --> 00:56:34.590
+Brian Nguyen: Creation time Victoria.
+
+453
+00:56:41.430 --> 00:56:42.690
+Been up
+
+454
+00:56:44.040 --> 00:56:44.610
+Jeffrey Tsai: No problem.
+
+455
+00:56:48.930 --> 00:56:52.380
+Brian Nguyen: No. Are you having problems for that on your Mac or no.
+
+456
+00:56:53.250 --> 00:56:54.960
+Brian Nguyen: Me. Yeah, no.
+
+457
+00:56:55.080 --> 00:56:58.920
+Brian Nguyen: No. Okay. All right. Well, see, I see anyone else.
+
+458
+00:57:03.660 --> 00:57:06.660
+Victoria Choi: So there's no space between the end and
+
+459
+00:57:09.150 --> 00:57:11.040
+Brian Nguyen: That's great. That's great.
+
+460
+00:57:15.120 --> 00:57:19.260
+Brian Nguyen: I think you have up here keys. I don't think the math, the math works that way.
+
+461
+00:57:20.820 --> 00:57:27.900
+Brian Nguyen: Yep. So it's pretty much like you know you'll, you'll find it's very is a very common error, all we have some space, this issue.
+
+462
+00:57:31.620 --> 00:57:32.910
+Brian Nguyen: Oh, will happen.
+
+463
+00:57:35.340 --> 00:57:37.710
+Brian Nguyen: Right, do you escape, escape.
+
+464
+00:57:39.570 --> 00:57:40.380
+Brian Nguyen: Press colon.
+
+465
+00:57:43.050 --> 00:57:43.410
+Brian Nguyen: You
+
+466
+00:57:45.240 --> 00:57:46.950
+Brian Nguyen: And you said, press Enter.
+
+467
+00:57:49.380 --> 00:57:51.600
+Brian Nguyen: And press colon you again.
+
+468
+00:57:57.390 --> 00:58:01.980
+Brian Nguyen: Very good. Okay, so if you want to edit the file. Remember interpret
+
+469
+00:58:08.850 --> 00:58:11.070
+Brian Nguyen: The arrow key, can you do now.
+
+470
+00:58:18.180 --> 00:58:19.800
+Brian Nguyen: Okay. All right.
+
+471
+00:58:21.450 --> 00:58:23.580
+Brian Nguyen: Escape say that in the script.
+
+472
+00:58:39.150 --> 00:58:40.110
+Brian Nguyen: All right, here we go.
+
+473
+00:58:41.130 --> 00:58:45.480
+Brian Nguyen: How you troubleshoot to oftentimes kind of really silly errors.
+
+474
+00:58:53.580 --> 00:58:53.820
+Brian Nguyen: Yeah.
+
+475
+00:58:56.640 --> 00:58:59.460
+Jeffrey Tsai: So we'll work with a couple more.
+
+476
+00:59:04.500 --> 00:59:05.280
+Jeffrey Tsai: functionalities.
+
+477
+00:59:08.250 --> 00:59:14.400
+Jeffrey Tsai: So we'll be reading another For Loop. So we'll just create a new file was caught for loop to
+
+478
+00:59:15.990 --> 00:59:16.830
+Jeffrey Tsai: And I will go in
+
+479
+00:59:20.070 --> 00:59:22.380
+Jeffrey Tsai: So again, we'll start with the shoe bang.
+
+480
+00:59:25.200 --> 00:59:28.830
+Jeffrey Tsai: And we'll be making a for loop again so
+
+481
+00:59:32.250 --> 00:59:34.440
+Jeffrey Tsai: Brian this for live is a great idea.
+
+482
+00:59:38.160 --> 00:59:40.200
+Jeffrey Tsai: Right, so we'll just
+
+483
+00:59:41.400 --> 00:59:44.100
+Jeffrey Tsai: Run the for the over i equals one through five again.
+
+484
+00:59:44.790 --> 00:59:46.440
+Brian Nguyen: carefree maybe we want to
+
+485
+00:59:48.210 --> 00:59:53.010
+Brian Nguyen: Let the students create this for yourself that's given a task. Right.
+
+486
+00:59:56.880 --> 00:59:59.190
+Jeffrey Tsai: There's a couple functionalities that we didn't go over yet though.
+
+487
+01:00:06.570 --> 01:00:07.470
+Jeffrey Tsai: Reference to
+
+488
+01:00:09.180 --> 01:00:10.020
+Jeffrey Tsai: Teacher, I
+
+489
+01:00:12.360 --> 01:00:13.380
+Jeffrey Tsai: As well as echoing
+
+490
+01:00:15.030 --> 01:00:15.660
+Jeffrey Tsai: Echoing a
+
+491
+01:00:27.840 --> 01:00:28.170
+Alright.
+
+492
+01:00:29.760 --> 01:00:30.120
+Brian Nguyen: That's fine.
+
+493
+01:00:33.630 --> 01:00:35.490
+Jeffrey Tsai: I'll just like look it up on their own.
+
+494
+01:00:40.740 --> 01:00:42.540
+Jeffrey Tsai: If you ever need to refer to
+
+495
+01:00:44.820 --> 01:00:47.070
+Jeffrey Tsai: A variable for the for loop.
+
+496
+01:00:49.470 --> 01:01:00.450
+Jeffrey Tsai: It's going to be dollar sign I so whenever you write dollar, said I, it will use whichever number that is on. So if I said
+
+497
+01:01:05.130 --> 01:01:06.090
+Jeffrey Tsai: So if I wanted to, like,
+
+498
+01:01:07.980 --> 01:01:13.530
+Jeffrey Tsai: Write the number one within the file. We could just do a go.
+
+499
+01:01:16.770 --> 01:01:18.180
+Jeffrey Tsai: Into a file.
+
+500
+01:01:19.740 --> 01:01:22.140
+Jeffrey Tsai: Right, so the exercise here.
+
+501
+01:01:24.150 --> 01:01:26.670
+Jeffrey Tsai: Will be to write a for loop.
+
+502
+01:01:27.930 --> 01:01:35.760
+Jeffrey Tsai: Where you will create directories that are called 1234 and five.
+
+503
+01:01:38.850 --> 01:01:40.650
+Jeffrey Tsai: You'll go into the directory
+
+504
+01:01:44.850 --> 01:01:50.340
+Jeffrey Tsai: And then you will write the past to that directory into a file.
+
+505
+01:01:54.660 --> 01:01:56.370
+Jeffrey Tsai: Called destination text.
+
+506
+01:02:01.200 --> 01:02:02.700
+Jeffrey Tsai: So the way that you can
+
+507
+01:02:05.760 --> 01:02:08.760
+Jeffrey Tsai: I go a path would be ECHO.
+
+508
+01:02:10.260 --> 01:02:10.860
+Jeffrey Tsai: And then
+
+509
+01:02:13.110 --> 01:02:22.290
+Jeffrey Tsai: The dollar sign is again for referring to something. So what we're referring to would be the path to the directory so PWD
+
+510
+01:02:25.980 --> 01:02:26.130
+Okay.
+
+511
+01:02:33.240 --> 01:02:34.950
+Jeffrey Tsai: So Trinity is here. Okay.
+
+512
+01:02:36.540 --> 01:02:38.460
+Jeffrey Tsai: Okay, so let's see.
+
+513
+01:02:39.900 --> 01:02:41.790
+Jeffrey Tsai: So write that out on to
+
+514
+01:02:44.910 --> 01:02:45.150
+Good.
+
+515
+01:02:46.410 --> 01:02:48.600
+Jeffrey Tsai: Chat. If I can see the chat.
+
+516
+01:02:56.700 --> 01:03:00.090
+Brian Nguyen: I draw illustration. And we use that whiteboard, you can
+
+517
+01:03:01.980 --> 01:03:05.760
+Brian Nguyen: Ray techs in the box. Okay. All right, guys.
+
+518
+01:03:06.810 --> 01:03:14.460
+Brian Nguyen: All right, so I love me, I'm a visual learner. I like to see pictures. Maybe this will help you a little bit. Alright.
+
+519
+01:03:16.440 --> 01:03:17.340
+Brian Nguyen: Alright, so
+
+520
+01:03:30.570 --> 01:03:31.980
+Brian Nguyen: Alright, great.
+
+521
+01:03:33.120 --> 01:03:33.480
+Brian Nguyen: So,
+
+522
+01:03:35.160 --> 01:03:36.720
+Brian Nguyen: You guys just want to
+
+523
+01:03:38.280 --> 01:03:41.220
+Brian Nguyen: Make sure you guys understand what for loops are
+
+524
+01:03:42.660 --> 01:03:46.470
+Brian Nguyen: Okay, so what. So when you're trying to
+
+525
+01:03:47.550 --> 01:04:04.680
+Brian Nguyen: Stay code up something, you got it kind of plan out what we want. Okay, so what we go we like to do is make you understand what you can do with a for loop. Okay, so let's say how how it works kind of thing, right. So,
+
+526
+01:04:05.910 --> 01:04:12.090
+Brian Nguyen: My idea when I built this is that you have, say, five directories, which one
+
+527
+01:04:17.850 --> 01:04:20.370
+Brian Nguyen: He's a good kid.
+
+528
+01:04:24.210 --> 01:04:24.450
+Brian Nguyen: So,
+
+529
+01:04:27.450 --> 01:04:29.190
+Brian Nguyen: All right, and so
+
+530
+01:04:31.050 --> 01:04:31.380
+This
+
+531
+01:04:32.490 --> 01:04:32.880
+Brian Nguyen: Over
+
+532
+01:04:34.020 --> 01:04:41.190
+Brian Nguyen: Today is they say you're in this folder here this directory here. Here's the hierarchy, they
+
+533
+01:04:42.720 --> 01:04:43.230
+Brian Nguyen: Are here.
+
+534
+01:04:44.280 --> 01:04:44.700
+Brian Nguyen: Ah,
+
+535
+01:04:45.750 --> 01:04:50.760
+Brian Nguyen: Alright, so this is the most highest level in directory. In each case, director, you're
+
+536
+01:04:52.050 --> 01:04:52.710
+Brian Nguyen: There in this
+
+537
+01:04:53.730 --> 01:04:53.970
+Brian Nguyen: Okay.
+
+538
+01:04:57.630 --> 01:04:57.930
+All right.
+
+539
+01:04:59.340 --> 01:05:00.660
+Brian Nguyen: And so you want to run
+
+540
+01:05:03.900 --> 01:05:04.440
+Brian Nguyen: For loop.
+
+541
+01:05:07.530 --> 01:05:11.640
+Brian Nguyen: Here. Okay. And he correctly.
+
+542
+01:05:13.800 --> 01:05:30.090
+Brian Nguyen: Okay, so one thing that usually always can I competed at a llama students when I teach them a correlative I worked is that depending on where you run your for loop essentially just running your commands. Right. So sometimes when you're any calculation, you'll see later on in the future.
+
+543
+01:05:31.200 --> 01:05:39.030
+Brian Nguyen: Some of the calculation gets treated right into you want to find a way to kind of script. All right. The normally you would, you know,
+
+544
+01:05:40.770 --> 01:05:47.190
+Brian Nguyen: Make these directory. Okay. So quick question to you guys. What's the command for make directory
+
+545
+01:05:53.970 --> 01:05:54.270
+Brian Nguyen: People
+
+546
+01:05:54.360 --> 01:05:55.560
+Aakrsh: from n to
+
+547
+01:05:56.730 --> 01:06:03.660
+Brian Nguyen: N K. Dr. Good say so. That's Nick directory. So you would say, Okay, I'm going to directly wind or or
+
+548
+01:06:04.890 --> 01:06:15.930
+Brian Nguyen: I knew you would say, I'm gonna take them out to the to the front lines right and so on. So, for his kids. That's a lot of work great. Or you can probably type in
+
+549
+01:06:17.100 --> 01:06:26.370
+Brian Nguyen: Make one two to five. Okay, or maybe sometimes and you have 100 Derek 300
+
+550
+01:06:27.900 --> 01:06:38.790
+Brian Nguyen: You're going into each one each directly, one by one, and then you'll say touch this are great this file and a CD go periods back
+
+551
+01:06:39.960 --> 01:06:58.500
+Brian Nguyen: And then go back to CD to attach files you know companies, same file again and we go to the back and so on so forth. Right. Quick question for people. I think I showed this already to highlight this what is CD. Period. Period for slash
+
+552
+01:07:02.550 --> 01:07:03.900
+Brian Nguyen: Feel free to contribute, guys.
+
+553
+01:07:07.350 --> 01:07:09.480
+Brian Nguyen: I know to show you guys all this, please don't forget
+
+554
+01:07:12.480 --> 01:07:12.870
+To do that.
+
+555
+01:07:17.070 --> 01:07:18.570
+Brian Nguyen: Don't use that technique enough but
+
+556
+01:07:19.620 --> 01:07:23.310
+Brian Nguyen: I showed everyone just last week, I think, I hope.
+
+557
+01:07:26.070 --> 01:07:29.550
+Brian Nguyen: A crazy time at this time, Victoria.
+
+558
+01:07:32.670 --> 01:07:34.890
+Victoria Choi: Go back to home, the home.
+
+559
+01:07:37.560 --> 01:07:37.770
+Brian Nguyen: The
+
+560
+01:07:39.000 --> 01:07:39.240
+Brian Nguyen: Home.
+
+561
+01:07:42.240 --> 01:07:43.260
+thanh: It's simple back to
+
+562
+01:07:49.170 --> 01:07:51.240
+thanh: Go back to something like before.
+
+563
+01:07:51.780 --> 01:07:51.960
+Yeah.
+
+564
+01:07:53.580 --> 01:07:53.940
+thanh: Yeah.
+
+565
+01:07:54.030 --> 01:08:03.840
+Brian Nguyen: Okay, so let's say you're a directory was all right and say you want to go back to the directory. Ah. Alright do that you had to type cd
+
+566
+01:08:05.100 --> 01:08:08.490
+Brian Nguyen: To get and go back to, you know, can you go back to you there.
+
+567
+01:08:09.510 --> 01:08:09.870
+Brian Nguyen: Okay.
+
+568
+01:08:11.130 --> 01:08:11.400
+Brian Nguyen: Right.
+
+569
+01:08:12.930 --> 01:08:16.380
+Brian Nguyen: There. The other thing to note, guys. All these things.
+
+570
+01:08:19.620 --> 01:08:24.780
+Brian Nguyen: A lot of things we're talking about you guys. So keep in mind, take notes.
+
+571
+01:08:25.830 --> 01:08:27.630
+Brian Nguyen: Okay, alright. So,
+
+572
+01:08:28.650 --> 01:08:41.010
+Brian Nguyen: It helped me a lot when I was first learning this right and to question about Korea, we just typed in CD and you just type in CD and press Enter, that goes back to your home directory
+
+573
+01:08:50.580 --> 01:08:51.870
+Brian Nguyen: Alright, so
+
+574
+01:08:53.220 --> 01:08:57.090
+Brian Nguyen: So when you ever write a script. You gotta have in your mind.
+
+575
+01:08:58.140 --> 01:08:59.070
+Brian Nguyen: What's your end goal.
+
+576
+01:09:00.990 --> 01:09:02.970
+Brian Nguyen: The end goal of this we want
+
+577
+01:09:03.000 --> 01:09:06.720
+Brian Nguyen: To do is that we want to print out
+
+578
+01:09:08.310 --> 01:09:10.680
+Brian Nguyen: And say for now we want to print out the
+
+579
+01:09:12.210 --> 01:09:15.150
+Brian Nguyen: The destination of each of these fights. Okay.
+
+580
+01:09:17.070 --> 01:09:25.050
+Brian Nguyen: And then output it into A into a file. Okay, so what what we would probably do.
+
+581
+01:09:25.470 --> 01:09:31.260
+Brian Nguyen: If you were to write this out one by one, right, is like what I said here.
+
+582
+01:09:33.360 --> 01:09:34.170
+Brian Nguyen: Make directory
+
+583
+01:09:35.310 --> 01:09:49.620
+Brian Nguyen: One here it's five. Okay. And I say CD one. And I'd say de de de right. Oh, I can echo dollar sign PWD
+
+584
+01:09:51.150 --> 01:09:54.570
+Brian Nguyen: And then I say lesser than five.
+
+585
+01:09:55.680 --> 01:09:56.880
+Brian Nguyen: Minutes unless again symbol.
+
+586
+01:09:58.080 --> 01:10:14.910
+Brian Nguyen: So just remember that the lesser than symbol here signifies that kids are putting into the file. Okay. And I want to outplay it all into the same file. So I want to output it in the previous directory called destination.
+
+587
+01:10:16.770 --> 01:10:34.650
+Brian Nguyen: Okay, so here's the little tricky stuff here. So you gotta keep in mind what's happening here right now you're in CD one and I'm going to echo out PWD but you will check out this file into a file called destination text, which is
+
+588
+01:10:35.760 --> 01:10:36.900
+Brian Nguyen: In a
+
+589
+01:10:38.040 --> 01:10:40.860
+Brian Nguyen: Directory. Do you see my mouse, just in case.
+
+590
+01:10:42.450 --> 01:10:44.790
+Brian Nguyen: Over hovering over HP right
+
+591
+01:10:47.280 --> 01:10:49.710
+Brian Nguyen: So that does that. And you go back one folder.
+
+592
+01:10:51.540 --> 01:10:51.870
+Brian Nguyen: Right.
+
+593
+01:10:52.890 --> 01:10:59.010
+Brian Nguyen: To go back into ed to do the same thing to test out. He doesn t
+
+594
+01:11:02.760 --> 01:11:06.240
+Brian Nguyen: You see how this gets kind of repetitive thoughts. Right.
+
+595
+01:11:07.290 --> 01:11:19.170
+Brian Nguyen: Imagine right now you have five directory that's not too many. But if you're not, you get to work with 20 or 30 folders in a row, like it's really pretty repetitive right but it's teach you how what happens
+
+596
+01:11:20.460 --> 01:11:21.240
+Brian Nguyen: During the for that.
+
+597
+01:11:23.370 --> 01:11:33.720
+Brian Nguyen: Alright, so I want you guys to set a goal for you guys is to come up, write a little script will spend a couple minutes only 510 minutes
+
+598
+01:11:34.770 --> 01:11:37.830
+Brian Nguyen: In five minutes and how long you take write a for loop.
+
+599
+01:11:40.260 --> 01:11:45.000
+Brian Nguyen: Script based on what you just learned so far are based on the commands. I just gave you
+
+600
+01:11:50.190 --> 01:11:53.490
+Brian Nguyen: Are you output out the destination. Right.
+
+601
+01:11:55.020 --> 01:11:57.180
+Brian Nguyen: DWP to this mission right
+
+602
+01:12:02.340 --> 01:12:04.740
+Jeffrey Tsai: I was wrong. It's a greater than sign and then
+
+603
+01:12:05.880 --> 01:12:13.950
+Jeffrey Tsai: If you want to go something and like appended to the end of file, you need to have double greater than sign
+
+604
+01:12:15.120 --> 01:12:15.630
+Brian Nguyen: Ah,
+
+605
+01:12:16.470 --> 01:12:17.130
+Brian Nguyen: Yeah, I was.
+
+606
+01:12:17.610 --> 01:12:34.830
+Brian Nguyen: I was going to show them that let them explore for themselves. But all right, yes. Yes, technically, so what what happened right I wanted you guys to kind of see this. You see what happened can troubleshoot later on. Alright, so, like so. So
+
+607
+01:12:36.090 --> 01:12:37.200
+Brian Nguyen: Yes, so this is
+
+608
+01:12:38.790 --> 01:12:40.050
+Brian Nguyen: Double graders than science.
+
+609
+01:12:40.800 --> 01:12:42.870
+Brian Nguyen: Okay, what I have here.
+
+610
+01:12:43.980 --> 01:12:50.940
+Brian Nguyen: A single greater than it will essentially how put a new file every time. And so, erase your previous
+
+611
+01:12:52.830 --> 01:12:56.820
+Brian Nguyen: These outer okay I wanted to show you guys that
+
+612
+01:12:58.350 --> 01:13:12.900
+Brian Nguyen: So then you can guys can kind of trouble shoot yourself. Right. And so here we go. So you do you do double the work greater than it will still just essentially add more add more to your texts about overriding it. Okay.
+
+613
+01:13:14.040 --> 01:13:14.340
+Brian Nguyen: All right.
+
+614
+01:13:15.660 --> 01:13:17.340
+Brian Nguyen: You guys have questions here how to do it.
+
+615
+01:13:18.390 --> 01:13:24.450
+Brian Nguyen: Now I said she take this list of commands. How can you put it into a 40
+
+616
+01:13:26.370 --> 01:13:26.760
+Brian Nguyen: Alright.
+
+617
+01:13:29.850 --> 01:13:30.090
+So,
+
+618
+01:13:33.510 --> 01:13:34.500
+Brian Nguyen: How a crack at it. Yes.
+
+619
+01:13:37.950 --> 01:13:38.430
+Brian Nguyen: Sorry.
+
+620
+01:13:41.010 --> 01:13:45.240
+Brian Nguyen: Questions in a nod. Let's give a thumbs up. Yes.
+
+621
+01:14:01.770 --> 01:14:11.430
+Brian Nguyen: Okay. Alright, well, we'll break in there, take, you know, try to try script this up and then they see someone like to share dancer.
+
+622
+01:15:37.980 --> 01:15:38.850
+Brian Nguyen: Oh yeah, you'll
+
+623
+01:15:40.860 --> 01:15:42.870
+Brian Nguyen: Feel free to ask questions right
+
+624
+01:18:39.660 --> 01:18:39.960
+Brian Nguyen: Good.
+
+625
+01:18:41.730 --> 01:18:44.940
+Brian Nguyen: All right, now I think you got this or say something. Yeah.
+
+626
+01:18:51.420 --> 01:18:53.550
+Brian Nguyen: Chris can very soon.
+
+627
+01:19:00.600 --> 01:19:02.040
+Brian Nguyen: Okay, yeah, feel free.
+
+628
+01:19:08.190 --> 01:19:09.960
+Brian Nguyen: To share. I just stopped sharing my
+
+629
+01:19:28.380 --> 01:19:30.090
+Brian Nguyen: What's the question or issue.
+
+630
+01:19:32.670 --> 01:19:34.080
+Theresa Carlos: Can I see an example.
+
+631
+01:19:38.220 --> 01:19:38.550
+Brian Nguyen: Okay.
+
+632
+01:19:38.910 --> 01:19:39.180
+Here.
+
+633
+01:19:45.060 --> 01:19:47.610
+Brian Nguyen: Chris and Tom, do you have any questions.
+
+634
+01:19:49.470 --> 01:19:50.370
+Brian Nguyen: You guys got a script.
+
+635
+01:19:52.320 --> 01:19:52.860
+Brian Nguyen: Working
+
+636
+01:20:10.290 --> 01:20:10.530
+Brian Nguyen: And
+
+637
+01:20:12.180 --> 01:20:15.630
+thanh: I also think I got it. Could you just go over just
+
+638
+01:20:23.760 --> 01:20:24.210
+Brian Nguyen: Share
+
+639
+01:20:28.800 --> 01:20:29.460
+Brian Nguyen: You open my
+
+640
+01:20:38.490 --> 01:20:39.570
+Brian Nguyen: Gifts today. Good, good.
+
+641
+01:20:42.270 --> 01:20:43.650
+Brian Nguyen: Okay, so
+
+642
+01:20:51.750 --> 01:20:51.990
+Okay.
+
+643
+01:20:54.690 --> 01:20:55.470
+Brian Nguyen: Alright, so
+
+644
+01:20:57.390 --> 01:21:02.190
+Brian Nguyen: I wanted to show you guys how for this kind of work and so
+
+645
+01:21:04.260 --> 01:21:06.030
+Brian Nguyen: For the little confusing.
+
+646
+01:21:07.260 --> 01:21:09.450
+Brian Nguyen: People looking for me to
+
+647
+01:21:10.650 --> 01:21:18.330
+Brian Nguyen: First learn. So what I want to do you mean some time for them to be useful if you want to say.
+
+648
+01:21:19.980 --> 01:21:20.370
+Brian Nguyen: Great.
+
+649
+01:21:21.870 --> 01:21:26.370
+Brian Nguyen: Let's say run some calculations because calculation are kind of repetitive write
+
+650
+01:21:28.080 --> 01:21:36.480
+Brian Nguyen: Your copy this. Maybe once maybe eventually okay and you will essentially run the same command over and over again.
+
+651
+01:21:37.740 --> 01:21:50.820
+Brian Nguyen: And so one very simple example is very simple example is, let's say you want to create five folders. Right. Each folder you want to do something in example. Right. So there is a general case here.
+
+652
+01:21:52.530 --> 01:22:07.050
+Brian Nguyen: Is the general case, you'll create 100 folders, essentially, and then you just go into each folder runs a bunch of commands Snatcher selling this is not the only command, you're going to run it run a few more. Okay.
+
+653
+01:22:09.690 --> 01:22:22.500
+Brian Nguyen: pay periods, just going to show you that there are a lot more commands you might be running in that book. Okay. And it can get kind of repetitive, right, because to run those command, you have to eat in those folders. Right.
+
+654
+01:22:23.790 --> 01:22:38.220
+Brian Nguyen: And so you go back to zero to 42 so on so forth. And so that gets wasted, kind of, say, Wait, it can be inefficient use anytime you want to make it more efficient, the one way is to write a little script.
+
+655
+01:22:39.810 --> 01:22:43.800
+Brian Nguyen: So I can can get you guys started okay
+
+656
+01:22:47.400 --> 01:23:07.230
+Brian Nguyen: So one or a little script for the script that kind of repeats movies, man. All right there we know that if you do a for loop right away back an example before I there is some variable, you could find any variable you want, I can just put Brian Okay.
+
+657
+01:23:08.460 --> 01:23:08.820
+Brian Nguyen: In
+
+658
+01:23:09.960 --> 01:23:34.320
+Brian Nguyen: The end essentially just give you a list of stuff. You said you want to run or whatever this variable to represent okay we in our cases right now represent this variable as curly brace 125 okay this is equivalent has to writing 12345 okay
+
+659
+01:23:35.460 --> 01:23:59.040
+Brian Nguyen: All right, separated by stages. Right. So if so essentially what this does is that it will say that this variable Brian will be representing will be number, number one, okay. And within loop through this list a number one by one call that's a call right
+
+660
+01:24:00.450 --> 01:24:01.080
+Brian Nguyen: And so
+
+661
+01:24:02.940 --> 01:24:07.500
+Brian Nguyen: And so the next example like Jeffrey show as you can do
+
+662
+01:24:08.610 --> 01:24:09.420
+Brian Nguyen: That's very important.
+
+663
+01:24:10.440 --> 01:24:13.590
+Brian Nguyen: Dollar sign Brian right
+
+664
+01:24:14.730 --> 01:24:16.830
+Brian Nguyen: Say echo dollar sign, Brian.
+
+665
+01:24:18.480 --> 01:24:18.990
+Brian Nguyen: Men done
+
+666
+01:24:20.010 --> 01:24:28.800
+Brian Nguyen: Okay, so what the open this up to you guys. So what happens with it. This an echo dollar signs, Ryan.
+
+667
+01:24:29.940 --> 01:24:33.810
+Brian Nguyen: Howard. Before we do that, what this echo one dude.
+
+668
+01:24:36.480 --> 01:24:37.770
+Victoria Choi: It returns one
+
+669
+01:24:38.550 --> 01:24:52.140
+Brian Nguyen: Yes, correct. Victoria. So essentially echo out the number one inside the terminal. Okay. Now, going back to the for loop and ice cream kind of please answer this one. So what happens in this case.
+
+670
+01:24:54.060 --> 01:24:57.510
+Brian Nguyen: We're echo, echo out dollar sign, Brian, or where echo out
+
+671
+01:25:01.110 --> 01:25:01.590
+Brian Nguyen: And out
+
+672
+01:25:03.900 --> 01:25:05.280
+Aakrsh: You can you make a note.
+
+673
+01:25:06.540 --> 01:25:07.650
+Brian Nguyen: Out right so
+
+674
+01:25:09.450 --> 01:25:18.180
+Brian Nguyen: Victoria says that he just had an echo one will return the number one inside your terminal okay is correct. I keep that in mind.
+
+675
+01:25:19.350 --> 01:25:20.790
+Brian Nguyen: We're here I have a for loop.
+
+676
+01:25:22.260 --> 01:25:37.650
+Brian Nguyen: Brian variable and have this list of numbers 1234 and five okay to do and I say echo dollar sign Brian and then done by press enter and read my script will echo. The question is, will echo outdoor same Brian
+
+677
+01:25:39.390 --> 01:25:40.920
+Brian Nguyen: Or or something else.
+
+678
+01:25:42.510 --> 01:25:47.490
+Aakrsh: We want to take you back till I think you already did one won't take you back to number two.
+
+679
+01:25:48.690 --> 01:25:50.640
+Brian Nguyen: Yes. So what the output will be
+
+680
+01:25:53.460 --> 01:25:59.100
+Brian Nguyen: Will be so each mind, it will be actually out 1234 and five.
+
+681
+01:26:01.470 --> 01:26:03.150
+Brian Nguyen: All right you guys see that
+
+682
+01:26:04.680 --> 01:26:07.530
+Brian Nguyen: Does that make sense to a little bit more. What does
+
+683
+01:26:11.520 --> 01:26:11.850
+Alright.
+
+684
+01:26:13.950 --> 01:26:24.270
+Brian Nguyen: guys have questions there so that that makes a little sense, a little bit more sense. Right. So what we want to do. All right, is me create a script, where
+
+685
+01:26:24.960 --> 01:26:37.950
+Brian Nguyen: We can go into each of these folders and echo out the PDP Wi Fi option instead. Okay, so just remember that this variable can represent whatever
+
+686
+01:26:39.360 --> 01:26:46.800
+Brian Nguyen: You know lists of things. All right. And, you know, the thing that we're doing a we're taking advantage of what this variable is
+
+687
+01:26:47.850 --> 01:26:49.980
+Brian Nguyen: Ok sense in this case.
+
+688
+01:26:51.210 --> 01:26:55.320
+Brian Nguyen: We just quote conveniently named all our directories 1234 and five.
+
+689
+01:26:56.520 --> 01:27:01.170
+Brian Nguyen: Technically, there might be more folders different names users needs to be
+
+690
+01:27:02.370 --> 01:27:08.130
+Brian Nguyen: So for now, we can do. The first step is CD. CD, Brian.
+
+691
+01:27:09.420 --> 01:27:09.810
+Brian Nguyen: Our site.
+
+692
+01:27:11.490 --> 01:27:17.580
+Brian Nguyen: Okay, there's there's other ways of doing this to this is one way of the alright
+
+693
+01:27:19.620 --> 01:27:19.920
+Brian Nguyen: So,
+
+694
+01:27:22.920 --> 01:27:24.420
+Brian Nguyen: What's the next line.
+
+695
+01:27:39.990 --> 01:27:46.980
+Brian Nguyen: Good, that's fine too. YES, THAT'S GOOD IDEA. Make the folders first. All right, good. Good catch.
+
+696
+01:27:49.680 --> 01:27:50.580
+Brian Nguyen: All right, what's next.
+
+697
+01:27:51.990 --> 01:27:59.460
+Brian Nguyen: Anyone else to add to this little script that we get, we're gonna wrap this up and I'll copy the same exact script into my terminal and see what's up.
+
+698
+01:28:01.680 --> 01:28:01.890
+Right.
+
+699
+01:28:08.130 --> 01:28:09.000
+Brian Nguyen: Yeah, go for it.
+
+700
+01:28:14.100 --> 01:28:14.700
+Victoria Choi: Practice.
+
+701
+01:28:34.620 --> 01:28:35.700
+Brian Nguyen: With everyone falling down.
+
+702
+01:28:37.980 --> 01:28:41.550
+Brian Nguyen: Okay, so it says for this. Are you done here.
+
+703
+01:28:48.030 --> 01:29:01.350
+Brian Nguyen: Are yall already done here. Well, what happened, what will happen. For example, if we make this directory you go into this folder. The Echo this out. And then we say, okay we're done, what were you guys people
+
+704
+01:29:09.030 --> 01:29:10.350
+Brian Nguyen: happy occasion time and
+
+705
+01:29:21.720 --> 01:29:24.930
+Brian Nguyen: They will go step by step. All right.
+
+706
+01:29:27.090 --> 01:29:28.710
+Brian Nguyen: There we create a file.
+
+707
+01:29:31.170 --> 01:29:36.330
+Brian Nguyen: 12345 okay and he cd into one.
+
+708
+01:29:37.380 --> 01:29:37.740
+Brian Nguyen: All right.
+
+709
+01:29:39.030 --> 01:29:40.530
+Brian Nguyen: And then we echo a file.
+
+710
+01:29:41.760 --> 01:29:44.970
+Brian Nguyen: Into this destination techs right
+
+711
+01:29:46.020 --> 01:29:48.210
+Brian Nguyen: Now, we didn't end there here.
+
+712
+01:29:49.290 --> 01:30:01.350
+Brian Nguyen: We gotta keep in mind. Where are we right now in this script. Right. So if we were to be CD i right now in in the in the directory. Number one, okay. Now if we go back
+
+713
+01:30:03.090 --> 01:30:04.140
+Brian Nguyen: Into this directory
+
+714
+01:30:05.550 --> 01:30:05.880
+Brian Nguyen: Okay.
+
+715
+01:30:08.520 --> 01:30:15.630
+Brian Nguyen: Go back to the for loop. All right. Well what happened is, then you didn't create another directory, Brian.
+
+716
+01:30:17.520 --> 01:30:19.200
+Brian Nguyen: Because like iteration to
+
+717
+01:30:20.700 --> 01:30:23.490
+Brian Nguyen: Keep in mind, you're now creating
+
+718
+01:30:27.960 --> 01:30:29.580
+Brian Nguyen: An hour create another folder.
+
+719
+01:30:31.200 --> 01:30:35.970
+Brian Nguyen: Inside to inside one and this folder would then be called to
+
+720
+01:30:39.930 --> 01:30:40.290
+Brian Nguyen: Right.
+
+721
+01:30:42.000 --> 01:30:42.360
+Okay.
+
+722
+01:30:43.620 --> 01:30:52.170
+Brian Nguyen: And then you then you echo that file again this destination file that destination and the ending up in one okay so
+
+723
+01:30:53.850 --> 01:30:57.750
+Brian Nguyen: This is a common issue common mistake we all, we all make okay
+
+724
+01:30:59.070 --> 01:31:04.710
+Brian Nguyen: There you have to do before you are done, you can see the Period. Period.
+
+725
+01:31:05.880 --> 01:31:07.830
+Brian Nguyen: Victorious say alright
+
+726
+01:31:09.120 --> 01:31:11.520
+Brian Nguyen: That essentially what he called completing delete.
+
+727
+01:31:12.600 --> 01:31:12.990
+Brian Nguyen: All right.
+
+728
+01:31:15.870 --> 01:31:18.000
+Brian Nguyen: Is that clear out something occasion in three so
+
+729
+01:31:24.390 --> 01:31:28.050
+Brian Nguyen: It's not like kids to come up clap get
+
+730
+01:31:29.100 --> 01:31:29.370
+Brian Nguyen: Chris
+
+731
+01:31:38.820 --> 01:31:40.770
+Brian Nguyen: Give you a few minutes to get out.
+
+732
+01:31:42.600 --> 01:31:44.730
+Brian Nguyen: And in time, he had a similar code like this.
+
+733
+01:31:46.530 --> 01:31:47.640
+Brian Nguyen: Very impressive. Good job.
+
+734
+01:31:48.840 --> 01:31:49.230
+Brian Nguyen: Okay.
+
+735
+01:31:51.120 --> 01:31:51.660
+Brian Nguyen: All right.
+
+736
+01:31:56.010 --> 01:31:57.390
+Brian Nguyen: All right, all right.
+
+737
+01:31:58.620 --> 01:31:58.980
+Brian Nguyen: Good.
+
+738
+01:32:03.420 --> 01:32:09.690
+Brian Nguyen: Feel free to ask questions don't hesitate to all the crew all in growing the same boat guys now.
+
+739
+01:32:11.760 --> 01:32:13.080
+Brian Nguyen: Feel free to, you know, rock the boat.
+
+740
+01:32:17.280 --> 01:32:17.640
+Brian Nguyen: Alright.
+
+741
+01:32:19.800 --> 01:32:20.850
+Brian Nguyen: See this
+
+742
+01:32:22.560 --> 01:32:23.430
+Brian Nguyen: Oh, yeah.
+
+743
+01:32:26.880 --> 01:32:28.590
+Aakrsh: Good mission, Brian, I have a question.
+
+744
+01:32:30.600 --> 01:32:30.990
+Brian Nguyen: Yes.
+
+745
+01:32:31.410 --> 01:32:32.010
+Brian Nguyen: Or you can call it a
+
+746
+01:32:32.280 --> 01:32:35.550
+Aakrsh: Try okay I wrote this
+
+747
+01:32:36.690 --> 01:32:42.420
+Aakrsh: When I so I wrote this originally, but every time I try to run it, it just says error found
+
+748
+01:32:43.230 --> 01:32:58.470
+Brian Nguyen: Okay, so how this is share your screen and we'll all look at it together. And I'll spot the air. And now once I want to see you guys tonight, Tricia and Victoria. You can see the air. Okay, friendship, share your screen for us.
+
+749
+01:33:06.540 --> 01:33:09.540
+Jeffrey Tsai: There should be a green button at the bottom of the zoom window.
+
+750
+01:33:18.000 --> 01:33:22.020
+Brian Nguyen: Command Shift PLUS YEARS. Dave
+
+751
+01:33:25.170 --> 01:33:25.800
+Brian Nguyen: Okay.
+
+752
+01:33:28.440 --> 01:33:32.550
+Aakrsh: Well, this was the one I originally wrote, but every time I try to run it in the air.
+
+753
+01:33:33.540 --> 01:33:36.540
+Brian Nguyen: Okay. All right, good code.
+
+754
+01:33:41.610 --> 01:33:51.090
+Brian Nguyen: Alright everyone, you guys think this looks good. That's exactly my code, right. Okay, so let's save this and let's get out of that you run it.
+
+755
+01:33:53.550 --> 01:33:55.230
+Brian Nguyen: Okay, so, run it for me and then see what
+
+756
+01:34:00.690 --> 01:34:01.830
+Brian Nguyen: It kept sending into
+
+757
+01:34:07.890 --> 01:34:10.110
+Brian Nguyen: Ah permission denied.
+
+758
+01:34:11.700 --> 01:34:12.270
+Brian Nguyen: Okay.
+
+759
+01:34:18.000 --> 01:34:18.660
+Brian Nguyen: Do you
+
+760
+01:34:20.700 --> 01:34:21.630
+Brian Nguyen: Ls
+
+761
+01:34:22.980 --> 01:34:28.020
+Brian Nguyen: Space dash l the user permissions is related to
+
+762
+01:34:31.980 --> 01:34:33.840
+Brian Nguyen: Memories okay so
+
+763
+01:34:34.920 --> 01:34:37.260
+Brian Nguyen: Let's look at practice script.
+
+764
+01:34:39.720 --> 01:34:39.990
+Brian Nguyen: One.
+
+765
+01:34:42.300 --> 01:34:51.150
+Brian Nguyen: So remember that. So, okay, here's a I think we need to show this world it alright so
+
+766
+01:34:54.690 --> 01:35:00.090
+Brian Nguyen: May you stop your screen share I'll share my screen now. So introduction to this.
+
+767
+01:35:06.000 --> 01:35:09.990
+Brian Nguyen: Alright, so this is, it's called current mission files. Okay.
+
+768
+01:35:11.280 --> 01:35:27.780
+Brian Nguyen: So here's what you need to know. I'm gonna highlight this for you guys. I think I explain it to a few guys but not everyone. All right, though. Alright, have a filename Chinese words Chinese and Chinese I don't know enough money that a deer folders.
+
+769
+01:35:28.980 --> 01:35:45.180
+Brian Nguyen: Like desktop and downloads. Right. And those are signifies that is the okay David LS dash l like is your other more information about the file right and permissions. Alright, so what each of these. Did they come in, essentially, come in.
+
+770
+01:35:46.830 --> 01:35:48.990
+Brian Nguyen: groups of three. All right.
+
+771
+01:35:50.910 --> 01:35:58.980
+Brian Nguyen: These files, right. So this one the first three are w x stands for read, write and execute
+
+772
+01:36:00.030 --> 01:36:16.260
+Brian Nguyen: Execute. He basically running is running a code right it's allowing the user to do to edit the file ours to read the file as you know like how when you open up Microsoft Word is sometimes is a a week. Read Only file right
+
+773
+01:36:17.430 --> 01:36:21.000
+Brian Nguyen: Okay. And so, in certain cases,
+
+774
+01:36:25.950 --> 01:36:27.270
+Brian Nguyen: Right, my neighborhood.
+
+775
+01:36:30.570 --> 01:36:36.000
+Brian Nguyen: Alright, so in these cases first three letters is you're
+
+776
+01:36:37.260 --> 01:36:47.640
+Brian Nguyen: Essentially administration. Okay, like a admin for your computer. The next three is essentially you what permissions you have for this file.
+
+777
+01:36:48.330 --> 01:37:03.660
+Brian Nguyen: And now, last three here. Essentially what permissions to allow other users on your computer to use just fine. Okay. So Chris, what he had was this one here are dash dash
+
+778
+01:37:04.650 --> 01:37:13.560
+Brian Nguyen: Right in his bio, you look at the way he's missing is if you want to use it as an executable file to execute you need to do CH month
+
+779
+01:37:14.880 --> 01:37:21.180
+Brian Nguyen: You plus X okay and that would then give him the correct R dash
+
+780
+01:37:23.760 --> 01:37:26.490
+Brian Nguyen: I believe I should be missed. And in the file.
+
+781
+01:37:32.790 --> 01:37:34.020
+Brian Nguyen: Thank you from, I think,
+
+782
+01:37:41.010 --> 01:37:47.820
+Brian Nguyen: Each of us each model essentially changes, the easier it changes the permissions for each of the
+
+783
+01:37:49.260 --> 01:37:55.260
+Brian Nguyen: Each of these blocks, okay, if we all show you guys. You guys look up
+
+784
+01:37:56.400 --> 01:37:59.970
+Brian Nguyen: So if that you may Mickey Mantle can use word here.
+
+785
+01:38:01.860 --> 01:38:11.400
+Brian Nguyen: There's a numbering scheme. You have to look up online. And each of these add up to a certain number to speed up 777 you can each month.
+
+786
+01:38:12.630 --> 01:38:13.200
+Brian Nguyen: And he works.
+
+787
+01:38:15.480 --> 01:38:21.060
+Brian Nguyen: Alright so tonight. What this is our first copy it to say, we know what it looks like.
+
+788
+01:38:22.230 --> 01:38:31.620
+Brian Nguyen: They just didn't change these permissions and will make all everybody to have rewrite execute clinicians. Okay, and you show you enter
+
+789
+01:38:36.630 --> 01:38:39.810
+Brian Nguyen: That in any copies out the original one.
+
+790
+01:38:41.100 --> 01:38:41.970
+Brian Nguyen: That makes sense now.
+
+791
+01:38:43.200 --> 01:38:52.350
+Brian Nguyen: Alright so CH mod essentially change the permissions for that. I believe I don't remember exactly. I
+
+792
+01:38:54.360 --> 01:38:56.490
+Brian Nguyen: Agree. So each of these number represents the
+
+793
+01:38:57.690 --> 01:39:04.170
+Brian Nguyen: Each of the groups of five, three and three it done good example media to find out. Okay.
+
+794
+01:39:05.460 --> 01:39:07.440
+Brian Nguyen: So I'll just copy this today. You guys know
+
+795
+01:39:09.000 --> 01:39:09.930
+Brian Nguyen: What we had written
+
+796
+01:39:12.870 --> 01:39:13.950
+Right, so that's
+
+797
+01:39:15.360 --> 01:39:15.630
+Okay.
+
+798
+01:39:16.980 --> 01:39:17.490
+Brian Nguyen: Right, so
+
+799
+01:39:17.760 --> 01:39:23.370
+Aakrsh: Do I do, I do teach moon, you put accurate winning winning look number two.
+
+800
+01:39:23.760 --> 01:39:27.600
+Brian Nguyen: So you first access shortcut and sadly
+
+801
+01:39:28.800 --> 01:39:34.200
+Brian Nguyen: Exodus gives it gives all the permissions for executing right for all the groups.
+
+802
+01:39:35.280 --> 01:39:39.660
+Brian Nguyen: This one gives you a bit more finer control numbers, kind of thing.
+
+803
+01:39:41.820 --> 01:39:47.520
+Brian Nguyen: So that each group, you have a little bit more finer control of which group has permission. Okay.
+
+804
+01:39:48.780 --> 01:39:49.050
+Brian Nguyen: All right.
+
+805
+01:39:52.950 --> 01:39:53.490
+Brian Nguyen: Questions.
+
+806
+01:39:54.750 --> 01:39:58.260
+Brian Nguyen: It would be important later on. Okay. You can also
+
+807
+01:39:59.400 --> 01:40:04.080
+Brian Nguyen: Just type out just type out back in the file.
+
+808
+01:40:07.200 --> 01:40:23.580
+Brian Nguyen: dashes kinda century like the program and then it will just read the file indices. The first line. The she bang line you're going as you run desperate for you. Okay, the executable file making executable.
+
+809
+01:40:24.720 --> 01:40:27.720
+Brian Nguyen: Makes it a little bit easier. You don't need to check it out.
+
+810
+01:40:28.950 --> 01:40:29.220
+Brian Nguyen: Okay.
+
+811
+01:40:30.420 --> 01:40:31.020
+Brian Nguyen: All right.
+
+812
+01:40:37.590 --> 01:40:38.610
+Brian Nguyen: Alright, so
+
+813
+01:40:40.950 --> 01:40:45.180
+Brian Nguyen: Questions there. Hope you guys understand a little bit more about that.
+
+814
+01:40:46.470 --> 01:40:46.740
+Brian Nguyen: For you.
+
+815
+01:40:55.320 --> 01:40:57.690
+Brian Nguyen: Alright, so, what time is 1035
+
+816
+01:40:59.280 --> 01:41:03.570
+Brian Nguyen: Want to be open this up to you guys. You guys like to take the five minute break.
+
+817
+01:41:04.800 --> 01:41:05.250
+Brian Nguyen: Come back.
+
+818
+01:41:07.980 --> 01:41:10.890
+Brian Nguyen: Share we share we continued shopping along
+
+819
+01:41:15.960 --> 01:41:19.590
+Brian Nguyen: It's open to everyone said let me know what you guys like you guys
+
+820
+01:41:27.120 --> 01:41:30.090
+Brian Nguyen: You can return on occasion. Don't feel pressured
+
+821
+01:41:34.110 --> 01:41:38.580
+Brian Nguyen: Alright, so I guess we'll continue on. I get I like this. I love this.
+
+822
+01:41:38.910 --> 01:41:39.960
+Brian Nguyen: If you guys have here.
+
+823
+01:41:40.500 --> 01:41:41.250
+Brian Nguyen: Hopefully, yeah.
+
+824
+01:41:42.960 --> 01:41:46.710
+Brian Nguyen: Alright, Jeffrey. What's next on the list. I think you have the floor.
+
+825
+01:41:50.160 --> 01:41:50.640
+You take care
+
+826
+01:42:04.170 --> 01:42:06.330
+Jeffrey Tsai: SSH stands for Secure Shell right
+
+827
+01:42:09.210 --> 01:42:09.510
+Brian Nguyen: Yes.
+
+828
+01:42:11.520 --> 01:42:14.070
+Jeffrey Tsai: Alright, so, one of the nice things about
+
+829
+01:42:15.540 --> 01:42:15.810
+Aakrsh: What
+
+830
+01:42:21.300 --> 01:42:23.550
+Aakrsh: Can you make this bigger. Yeah.
+
+831
+01:42:28.920 --> 01:42:29.850
+Jeffrey Tsai: Alright, so
+
+832
+01:42:32.310 --> 01:42:34.200
+Jeffrey Tsai: We are unable to
+
+833
+01:42:35.220 --> 01:42:42.240
+Jeffrey Tsai: Go from our current computer into another computer so
+
+834
+01:42:44.370 --> 01:42:47.520
+Jeffrey Tsai: The command for that is SSH.
+
+835
+01:42:49.290 --> 01:42:57.120
+Jeffrey Tsai: So I don't exactly know how this works. But if you use SSH and then you give
+
+836
+01:42:59.280 --> 01:43:01.140
+Jeffrey Tsai: An address for
+
+837
+01:43:02.190 --> 01:43:03.090
+Jeffrey Tsai: Another computer
+
+838
+01:43:04.680 --> 01:43:10.170
+Jeffrey Tsai: You would be able to go into that computer and do whatever you want on there so
+
+839
+01:43:11.430 --> 01:43:13.770
+Jeffrey Tsai: Within this lab. The reason why we have
+
+840
+01:43:15.000 --> 01:43:18.990
+Jeffrey Tsai: Why we usually use SSH is in order to go to
+
+841
+01:43:20.010 --> 01:43:22.890
+Jeffrey Tsai: A cluster. So a cluster would be
+
+842
+01:43:24.210 --> 01:43:27.960
+Jeffrey Tsai: A separate computer that will run all of our calculations for us.
+
+843
+01:43:30.480 --> 01:43:44.970
+Jeffrey Tsai: So when we want to connect to that we would use SSH and the typical option that I would use here in order to make sure that it's a secure connection is Dash capital lie.
+
+844
+01:43:48.540 --> 01:43:54.810
+Jeffrey Tsai: So you all should have received UCI that IDs that were sponsored by Brian
+
+845
+01:43:56.070 --> 01:44:03.300
+Jeffrey Tsai: So if you want to connect to one of the computers in the artifact, which is a group of computers that we have
+
+846
+01:44:04.470 --> 01:44:05.970
+Jeffrey Tsai: In our like physical lab.
+
+847
+01:44:08.160 --> 01:44:10.530
+Jeffrey Tsai: You would write in your UCI ID.
+
+848
+01:44:11.970 --> 01:44:22.500
+Jeffrey Tsai: And then the at is just making sure that the UCI that ID that you wrote here is going to be the username for whichever computer you're connecting to
+
+849
+01:44:24.690 --> 01:44:30.990
+Jeffrey Tsai: So there are several different options that we have. You can pick any of them that you want to go into
+
+850
+01:44:32.250 --> 01:44:32.880
+Jeffrey Tsai: So,
+
+851
+01:44:34.320 --> 01:44:39.780
+Jeffrey Tsai: The modified the typical room there's like a separate room with like five different computers.
+
+852
+01:44:40.980 --> 01:44:45.690
+Jeffrey Tsai: And those are models 4567 and eight.
+
+853
+01:44:46.830 --> 01:44:51.240
+Jeffrey Tsai: So if you want to connect to the one the models you can connect to any of those five
+
+854
+01:44:52.470 --> 01:44:53.430
+Jeffrey Tsai: We also have
+
+855
+01:44:54.810 --> 01:45:00.120
+Jeffrey Tsai: Our own computers that are named after rivers. So there's Tigres
+
+856
+01:45:03.660 --> 01:45:04.920
+Jeffrey Tsai: I don't know how to process.
+
+857
+01:45:06.390 --> 01:45:07.170
+Jeffrey Tsai: That photo.
+
+858
+01:45:10.290 --> 01:45:10.470
+And
+
+859
+01:45:11.700 --> 01:45:13.980
+Jeffrey Tsai: This is all night are pronounced model.
+
+860
+01:45:18.330 --> 01:45:22.470
+Jeffrey Tsai: So you can choose any of those names so models takers.
+
+861
+01:45:23.670 --> 01:45:28.410
+Jeffrey Tsai: flogo mala so I'll do model six because that's what I used in my
+
+862
+01:45:29.430 --> 01:45:30.330
+Jeffrey Tsai: Class with Philip
+
+863
+01:45:31.620 --> 01:45:36.690
+Jeffrey Tsai: So all of these modified computers their service by
+
+864
+01:45:37.920 --> 01:45:38.670
+Jeffrey Tsai: A
+
+865
+01:45:40.410 --> 01:45:41.520
+PS is
+
+866
+01:45:43.080 --> 01:45:45.540
+Jeffrey Tsai: What was looking for. I know Pacific is like
+
+867
+01:45:46.950 --> 01:45:49.380
+Jeffrey Tsai: The computer around some friends, the love, but
+
+868
+01:45:50.160 --> 01:45:52.740
+Brian Nguyen: Yeah yeah vs sense with his for scientists
+
+869
+01:45:53.880 --> 01:45:57.300
+Brian Nguyen: Anything after the X is your IP address.
+
+870
+01:46:02.100 --> 01:46:12.330
+Jeffrey Tsai: So after the name we do period PS period. You see I period edu.
+
+871
+01:46:14.040 --> 01:46:14.280
+Alright.
+
+872
+01:46:15.330 --> 01:46:17.340
+Jeffrey Tsai: So if we click enter
+
+873
+01:46:19.620 --> 01:46:28.350
+Jeffrey Tsai: There might be something that pops up for you that says like, do you actually want to connect to a second computer just type in yes and then press Enter.
+
+874
+01:46:29.430 --> 01:46:29.730
+Jeffrey Tsai: Okay.
+
+875
+01:46:34.860 --> 01:46:40.050
+Jeffrey Tsai: So all of you should also have a password associated with the UCI ID.
+
+876
+01:46:41.550 --> 01:46:52.650
+Jeffrey Tsai: So you'll type it in here. One thing to take note of is on this kind of Secure Shell connection in order to make sure that people can't see what you're typing in
+
+877
+01:46:53.400 --> 01:47:05.940
+Jeffrey Tsai: There's not even going to be any Asterix as asterisks that appear when you type it in to hide your password. It's just not going to show up at all. So as you're typing in your password which I am right now.
+
+878
+01:47:07.350 --> 01:47:08.820
+Jeffrey Tsai: You'll see that nothing comes up.
+
+879
+01:47:10.380 --> 01:47:13.410
+Jeffrey Tsai: But if I type to them and press Enter.
+
+880
+01:47:16.680 --> 01:47:18.600
+Jeffrey Tsai: You should be able to enter the computer.
+
+881
+01:47:20.190 --> 01:47:23.250
+Jeffrey Tsai: Let me know if any of you have any trouble with that art.
+
+882
+01:47:25.980 --> 01:47:26.640
+Jeffrey Tsai: Or rather,
+
+883
+01:47:29.340 --> 01:47:36.960
+Jeffrey Tsai: For those of you who are needed just unmute yourself really quick and go back to being muted to make sure to tell me that you've collected
+
+884
+01:47:40.200 --> 01:47:41.490
+Aakrsh: You want to try
+
+885
+01:47:43.980 --> 01:47:44.610
+Jeffrey Tsai: Sorry, what was that
+
+886
+01:47:45.360 --> 01:47:46.440
+Aakrsh: You want to try to connect
+
+887
+01:47:47.670 --> 01:47:53.340
+Jeffrey Tsai: Yeah, um, the stuff that we're gonna be doing is going to be within one of these computers.
+
+888
+01:47:54.990 --> 01:47:56.760
+Brian Nguyen: Jeffrey, can you just have to computers.
+
+889
+01:48:02.310 --> 01:48:02.610
+Hey,
+
+890
+01:48:03.630 --> 01:48:04.260
+Chris
+
+891
+01:48:21.450 --> 01:48:22.920
+Theresa Carlos: Someone else to listen.
+
+892
+01:48:25.560 --> 01:48:26.370
+Theresa Carlos: To me.
+
+893
+01:48:34.410 --> 01:48:36.960
+Jeffrey Tsai: Sorry, Brian, can answer that. I don't know, an email.
+
+894
+01:48:38.280 --> 01:48:46.650
+Brian Nguyen: Okay, so I think you get the email Jeffrey, you got that email like a year ago as a long time ago. Right. So there are two
+
+895
+01:48:47.820 --> 01:48:56.220
+Brian Nguyen: There are two two accounts to give me one is that we're giving you an account on which called TCP blogging.
+
+896
+01:48:57.930 --> 01:49:04.710
+Brian Nguyen: On one, remember that is our cluster which is there are we caught it super computer like
+
+897
+01:49:05.880 --> 01:49:20.820
+Brian Nguyen: Cluster if area supercomputer by like it's a place where we can actually run heavy calculations. All right. But in this case, we're giving you access to our own server in our group or you run internally.
+
+898
+01:49:22.500 --> 01:49:27.600
+Brian Nguyen: And that server also has a bunch of computers in clusters because of server.
+
+899
+01:49:28.800 --> 01:49:49.470
+Brian Nguyen: And so that one is where we run our lighter calculations. Okay. And so we want to use that in most cases. Okay, eventually, if you have some very expensive calculations or I mean like really big malls and stuff about like really big like proteins, for example, okay.
+
+900
+01:49:50.550 --> 01:50:05.460
+Brian Nguyen: That's thousands of atoms. Okay, and need a very strong computer to run this calculation you would need to unplug cheeky logging one okay for now. We want you guys to log into our model.
+
+901
+01:50:08.280 --> 01:50:08.580
+Okay.
+
+902
+01:50:09.840 --> 01:50:12.720
+Brian Nguyen: So, I believe, Nate. EDU
+
+903
+01:50:14.430 --> 01:50:26.940
+Brian Nguyen: passwords to go through them one of them says the cluster tester and one of the mod as. All right, Mr effect passwords, our computers model for for the eight to 12 and more down
+
+904
+01:50:28.050 --> 01:50:29.760
+Brian Nguyen: The cluster is for to keep the login
+
+905
+01:50:31.440 --> 01:50:38.520
+Brian Nguyen: I hope that answered your questions. All right. Can everyone tried to log into the month back to just hand over check against
+
+906
+01:50:40.830 --> 01:50:41.250
+Victoria Choi: Oh,
+
+907
+01:50:42.360 --> 01:50:47.040
+Victoria Choi: It says that the connection is refused for like Muslims
+
+908
+01:50:48.270 --> 01:50:48.660
+Brian Nguyen: All right.
+
+909
+01:50:51.120 --> 01:50:57.150
+Brian Nguyen: Good. All right. That happens. So what I think I explained this to a
+
+910
+01:50:58.620 --> 01:50:59.340
+Brian Nguyen: Christian gone
+
+911
+01:51:00.600 --> 01:51:02.730
+Brian Nguyen: I think I explained this to
+
+912
+01:51:05.490 --> 01:51:14.790
+Brian Nguyen: You guys last week. So, so what happens is there's a firewall. I use guy. So keep in mind that we're all
+
+913
+01:51:15.840 --> 01:51:20.520
+Brian Nguyen: We all trust you guys right so we're sharing this to you guys to be careful denied.
+
+914
+01:51:21.030 --> 01:51:22.740
+Denied after
+
+915
+01:51:23.790 --> 01:51:37.440
+Brian Nguyen: Yes, I know you understand. So what happened is that there's a firewall. Right. And so how do you get get overcome that firewall. Use the VPN. So remember that thing, we said it last week on the VPN stuff.
+
+916
+01:51:39.420 --> 01:51:40.350
+Aakrsh: I'm on the weekend.
+
+917
+01:51:41.310 --> 01:51:41.760
+Okay.
+
+918
+01:51:44.190 --> 01:51:51.750
+Brian Nguyen: So Victoria can increase that he's talking to VPN and Chris, I think you're using the Cisco VPN.
+
+919
+01:51:52.980 --> 01:51:53.220
+Aakrsh: Yeah.
+
+920
+01:51:54.330 --> 01:51:55.590
+Brian Nguyen: Okay, you've
+
+921
+01:51:55.650 --> 01:51:56.970
+Brian Nguyen: successfully connected
+
+922
+01:51:59.880 --> 01:52:01.950
+Brian Nguyen: It, um,
+
+923
+01:52:03.210 --> 01:52:06.660
+Brian Nguyen: Maybe you try logging in. Now, see what happens.
+
+924
+01:52:07.230 --> 01:52:14.610
+Aakrsh: Oh, I'm logging in, like, I'm in everywhere and it prints out my password and when everyone path through the permission denied please try again.
+
+925
+01:52:15.510 --> 01:52:17.850
+Brian Nguyen: So that means that you didn't type in the password correctly.
+
+926
+01:52:19.770 --> 01:52:31.350
+Brian Nguyen: Right. So with the mod fat client, it's, there's two parts to your email, there's a pastor for the cluster and there's a password for that month back me. Let me double check that, you know, you guys.
+
+927
+01:52:43.650 --> 01:52:54.060
+Brian Nguyen: Yeah, so it would say your temporary password for the cluster is this law, your temporary password for the workstation. Sorry. It's called workstations. Okay. Is this the type that one.
+
+928
+01:53:00.870 --> 01:53:01.080
+Right.
+
+929
+01:53:04.920 --> 01:53:05.280
+Theresa Carlos: Yes.
+
+930
+01:53:05.550 --> 01:53:06.420
+Brian Nguyen: Your temporary password.
+
+931
+01:53:27.660 --> 01:53:40.830
+thanh: So whenever so it works so far, but like whenever I go on the VPN, it just like turns off to for me. So I'm going to switch over to my phone. So it works better.
+
+932
+01:54:03.030 --> 01:54:03.540
+Brian Nguyen: All right, good.
+
+933
+01:54:04.140 --> 01:54:04.680
+Right, so
+
+934
+01:54:06.990 --> 01:54:09.120
+Brian Nguyen: Permission denied, please. Okay. Teresa.
+
+935
+01:54:10.680 --> 01:54:12.630
+Brian Nguyen: De turn onto a Cisco VPN.
+
+936
+01:54:14.670 --> 01:54:20.820
+Brian Nguyen: Okay so permission denied his decrees to boss dirty you type in the past screen. Correct.
+
+937
+01:54:22.890 --> 01:54:26.190
+Brian Nguyen: Alright, so, so it's the workstation password.
+
+938
+01:54:27.570 --> 01:54:29.790
+Brian Nguyen: Is whatever is in the apostrophe.
+
+939
+01:54:37.080 --> 01:54:37.800
+Theresa Carlos: All time
+
+940
+01:55:33.870 --> 01:55:34.560
+Theresa Carlos: I'm not sure.
+
+941
+01:55:36.630 --> 01:55:37.860
+Brian Nguyen: Why not share screen.
+
+942
+01:55:40.590 --> 01:55:42.660
+Brian Nguyen: Share screen and share your
+
+943
+01:55:55.620 --> 01:55:56.280
+Brian Nguyen: If you're in
+
+944
+01:55:57.330 --> 01:55:58.410
+Brian Nguyen: Yeah, you've been
+
+945
+01:56:00.270 --> 01:56:03.750
+Brian Nguyen: You've been saving me, like, yeah, you've been in
+
+946
+01:56:04.140 --> 01:56:07.800
+Brian Nguyen: Yeah, yeah, and how you model six kids to get
+
+947
+01:56:08.880 --> 01:56:13.860
+Brian Nguyen: Right to say alright guys just pick your computers and stick to it for the rest of summer. Alright.
+
+948
+01:56:17.670 --> 01:56:23.220
+Brian Nguyen: Alright, so I think Jeffrey need to change passwords. Right. Correct. So if you take over now.
+
+949
+01:56:26.400 --> 01:56:28.500
+Jeffrey Tsai: I can cancel of change my password. Right.
+
+950
+01:56:30.960 --> 01:56:31.320
+Brian Nguyen: Because
+
+951
+01:56:33.570 --> 01:56:34.320
+I'd like to stick
+
+952
+01:56:43.170 --> 01:56:48.330
+Jeffrey Tsai: Right, so you have the password that Nate gave you. So if you want to change it.
+
+953
+01:56:49.530 --> 01:56:52.050
+Jeffrey Tsai: You can just type in past WD
+
+954
+01:56:55.140 --> 01:57:00.900
+Jeffrey Tsai: So it will ask you for the kind of pass rates so you can input, what whatever your current password is.
+
+955
+01:57:03.870 --> 01:57:04.650
+Should be
+
+956
+01:57:08.010 --> 01:57:09.810
+That close the window right
+
+957
+01:57:11.910 --> 01:57:23.340
+Jeffrey Tsai: So once you type that in and then press Enter, it should be able to prompt you for a new password that you want. So just sent that to different secure password.
+
+958
+01:57:24.480 --> 01:57:25.200
+Jeffrey Tsai: So,
+
+959
+01:57:26.940 --> 01:57:30.690
+Jeffrey Tsai: Make sure that it's not something that's easily guest or easily
+
+960
+01:57:33.690 --> 01:57:34.320
+Determined
+
+961
+01:57:36.750 --> 01:57:45.240
+Jeffrey Tsai: So what I've been using is a mix of capital and lowercase letters few numbers as well as a special symbol.
+
+962
+01:58:01.260 --> 01:58:06.660
+Jeffrey Tsai: Let me know if there is, let us know. Because friends and family be the one to fix it, but
+
+963
+01:58:07.920 --> 01:58:10.320
+Jeffrey Tsai: Let us know if there's any trouble with doing that.
+
+964
+01:58:31.470 --> 01:58:31.710
+Jeffrey Tsai: Good.
+
+965
+01:58:52.110 --> 01:58:55.680
+Jeffrey Tsai: Right. I think after changing. Oh, well, we
+
+966
+01:58:55.830 --> 01:58:57.570
+Aakrsh: Want to do us a CP
+
+967
+01:59:30.330 --> 01:59:32.460
+Jeffrey Tsai: For any one of them to copy file from
+
+968
+01:59:34.740 --> 01:59:39.120
+Jeffrey Tsai: My truck over to their computer. Yeah, and
+
+969
+01:59:39.180 --> 01:59:42.330
+Brian Nguyen: Vice versa, it's going to be important because I
+
+970
+01:59:54.660 --> 01:59:57.870
+Jeffrey Tsai: Will be sleeping whichever file.
+
+971
+02:00:00.810 --> 02:00:08.190
+Jeffrey Tsai: Username whichever computer their own data for the destination you use the ip address right
+
+972
+02:00:10.770 --> 02:00:11.340
+Brian Nguyen: Yes.
+
+973
+02:00:12.510 --> 02:00:19.230
+Jeffrey Tsai: Okay, I haven't actually SCP it anything before in this lab at least so
+
+974
+02:00:20.340 --> 02:00:21.630
+Brian Nguyen: That's okay, we'll learn as we
+
+975
+02:00:21.630 --> 02:00:21.930
+Go.
+
+976
+02:00:28.020 --> 02:00:42.030
+Brian Nguyen: So this will be a very useful command at CERN program. So you want to use to visualize is downloaded on your computer. It's much easier to visualize on your computer in through a network. Okay.
+
+977
+02:00:47.910 --> 02:00:49.950
+Jeffrey Tsai: So within model six
+
+978
+02:00:51.600 --> 02:00:52.320
+Jeffrey Tsai: Brian
+
+979
+02:00:54.210 --> 02:00:54.720
+See
+
+980
+02:00:56.640 --> 02:00:57.270
+Jeffrey Tsai: So,
+
+981
+02:01:01.140 --> 02:01:06.750
+Jeffrey Tsai: Let's just go into the documents directory. So change directories and documents.
+
+982
+02:01:09.150 --> 02:01:10.980
+Jeffrey Tsai: And then we'll just create a file.
+
+983
+02:01:12.480 --> 02:01:15.330
+Jeffrey Tsai: To copy over so we'll just call it file dot txt
+
+984
+02:01:16.860 --> 02:01:19.290
+Jeffrey Tsai: And then we can go something into that.
+
+985
+02:01:26.160 --> 02:01:26.610
+Jeffrey Tsai: So,
+
+986
+02:01:27.990 --> 02:01:35.490
+Jeffrey Tsai: Because we're connected to a different computer right now. We can't just directly like copy of the file from that computer
+
+987
+02:01:38.820 --> 02:01:42.150
+Jeffrey Tsai: And territory directory without using a CP
+
+988
+02:01:45.120 --> 02:01:49.440
+Jeffrey Tsai: CP command is for secure copy
+
+989
+02:01:50.760 --> 02:01:51.300
+Jeffrey Tsai: So it's
+
+990
+02:01:52.320 --> 02:01:59.160
+Jeffrey Tsai: Just like the Secure Shell connection that we use in order to get into these computers, we want to use the secure copy in our to
+
+991
+02:02:00.450 --> 02:02:07.830
+Jeffrey Tsai: Do the copying as well. So after scb will type in the name of the file that we want to move
+
+992
+02:02:10.740 --> 02:02:11.790
+Jeffrey Tsai: And now our current
+
+993
+02:02:15.750 --> 02:02:16.950
+Jeffrey Tsai: Directory that we're in.
+
+994
+02:02:18.780 --> 02:02:21.660
+Theresa Carlos: The prisons and I can see
+
+995
+02:02:24.930 --> 02:02:26.820
+Jeffrey Tsai: Oh, can you share your screen, please.
+
+996
+02:02:50.010 --> 02:02:51.780
+Jeffrey Tsai: Ellis option. L.
+
+997
+02:02:55.230 --> 02:02:57.120
+Jeffrey Tsai: Dash. Sorry, that's all.
+
+998
+02:03:07.890 --> 02:03:09.060
+Jeffrey Tsai: Well, you don't need often say
+
+999
+02:03:21.900 --> 02:03:24.180
+Brian Nguyen: Hey, we can just type in CD.
+
+1000
+02:03:28.470 --> 02:03:28.890
+Brian Nguyen: W.
+
+1001
+02:03:32.070 --> 02:03:32.580
+Brian Nguyen: WD
+
+1002
+02:03:39.000 --> 02:03:40.470
+Brian Nguyen: Anyone else having the same issue.
+
+1003
+02:03:41.760 --> 02:03:42.150
+thanh: Yeah.
+
+1004
+02:03:44.940 --> 02:03:45.210
+Brian Nguyen: Can
+
+1005
+02:03:46.410 --> 02:03:47.100
+Brian Nguyen: You scroll up
+
+1006
+02:03:48.720 --> 02:03:50.370
+Brian Nguyen: For a three second scroll up
+
+1007
+02:03:55.200 --> 02:03:55.560
+Brian Nguyen: That's it.
+
+1008
+02:03:58.170 --> 02:04:04.200
+Brian Nguyen: I was trying to see, okay, I want to see the quite happy when you login to log out. Remember control deep
+
+1009
+02:04:05.010 --> 02:04:05.880
+Brian Nguyen: Breath control and D.
+
+1010
+02:04:08.340 --> 02:04:10.710
+Brian Nguyen: All right, he log back in as a second
+
+1011
+02:04:30.210 --> 02:04:32.940
+Brian Nguyen: ps, ps, ps. But you see, I
+
+1012
+02:04:36.510 --> 02:04:37.440
+Brian Nguyen: could catch a
+
+1013
+02:04:42.540 --> 02:04:44.130
+Brian Nguyen: Donkey. Yeah, it's fine.
+
+1014
+02:04:47.970 --> 02:04:49.950
+Brian Nguyen: All right, all right. I remember now.
+
+1015
+02:04:53.070 --> 02:04:53.700
+Brian Nguyen: I'm
+
+1016
+02:04:54.840 --> 02:05:00.660
+Brian Nguyen: Uh, yeah, I didn't. I guess I didn't check with you guys on logging into the workstation. Sorry about that.
+
+1017
+02:05:01.770 --> 02:05:03.810
+Brian Nguyen: Chris has gone there.
+
+1018
+02:05:08.010 --> 02:05:10.140
+Brian Nguyen: I didn't check the workstation with you guys.
+
+1019
+02:05:11.460 --> 02:05:13.560
+Brian Nguyen: Looks like that will get that makes
+
+1020
+02:05:15.900 --> 02:05:20.940
+Brian Nguyen: Me see here. So I want to see the options. The documentation of law.
+
+1021
+02:05:26.580 --> 02:05:27.660
+Brian Nguyen: Okay, can you let
+
+1022
+02:05:37.380 --> 02:05:41.160
+Jeffrey Tsai: Me also try LS space dash a
+
+1023
+02:05:42.180 --> 02:05:43.050
+Jeffrey Tsai: See if they're hitting
+
+1024
+02:05:53.280 --> 02:06:00.450
+Brian Nguyen: Okay, so don't worry about this if everyone seen this, the same thing where you get all locking different computers.
+
+1025
+02:06:01.980 --> 02:06:02.910
+Brian Nguyen: Can stop sharing now.
+
+1026
+02:06:06.240 --> 02:06:10.350
+Brian Nguyen: Is everyone else locked into their own computer a computer to
+
+1027
+02:06:12.630 --> 02:06:14.070
+Brian Nguyen: Okay, so what computer dx.
+
+1028
+02:06:16.170 --> 02:06:17.130
+thanh: Model for
+
+1029
+02:06:17.910 --> 02:06:18.240
+Orange.
+
+1030
+02:06:19.980 --> 02:06:20.550
+Victoria Choi: Simon
+
+1031
+02:06:21.960 --> 02:06:23.220
+Brian Nguyen: Oh, yay.
+
+1032
+02:06:24.900 --> 02:06:44.970
+Brian Nguyen: All right. Don't worry about, oh, get that fixed send an email to Nate and he should get traffic. Okay, so for now. I think you can still you still copy files back and forth should be fine. Jeffrey, I think we should copy files from my local computers that she'll be easier.
+
+1033
+02:06:46.560 --> 02:06:49.380
+Jeffrey Tsai: Local computer or over it. Oh yeah, it's gonna be a lot
+
+1034
+02:06:50.310 --> 02:06:50.730
+Easier.
+
+1035
+02:06:51.780 --> 02:06:57.540
+Jeffrey Tsai: Okay. Otherwise, if the destination is our own computer what we put in the IP address.
+
+1036
+02:06:59.490 --> 02:07:00.300
+Jeffrey Tsai: From the past
+
+1037
+02:07:01.530 --> 02:07:04.410
+Brian Nguyen: You need a name and an IP address, you have to look at
+
+1038
+02:07:06.030 --> 02:07:07.140
+Brian Nguyen: That little bit difficult.
+
+1039
+02:07:07.920 --> 02:07:09.840
+Brian Nguyen: View. The other way I learned
+
+1040
+02:07:10.260 --> 02:07:10.590
+Brian Nguyen: This
+
+1041
+02:07:11.130 --> 02:07:12.000
+In your own computer.
+
+1042
+02:07:13.440 --> 02:07:14.550
+Jeffrey Tsai: If you log out.
+
+1043
+02:07:15.810 --> 02:07:20.850
+Jeffrey Tsai: Of the SSH and then you log back in. They'll tell you. Oh well.
+
+1044
+02:07:21.810 --> 02:07:28.050
+Brian Nguyen: As it's not worried about that. I think it's easier to just as a CP on your local computer
+
+1045
+02:07:28.320 --> 02:07:36.930
+Jeffrey Tsai: If you need your IP address. Yeah, if you walk in, again, you'll see this at the end. Right. So let's go back.
+
+1046
+02:07:39.510 --> 02:07:41.730
+Jeffrey Tsai: So if you want to close your connection.
+
+1047
+02:07:42.990 --> 02:07:45.150
+Jeffrey Tsai: Just press Control or Command.
+
+1048
+02:07:46.440 --> 02:07:47.280
+Brian Nguyen: Is I think
+
+1049
+02:07:47.610 --> 02:07:48.570
+Brian Nguyen: In our control the
+
+1050
+02:07:49.110 --> 02:07:49.980
+Brian Nguyen: map looks as good
+
+1051
+02:07:56.940 --> 02:07:57.990
+Jeffrey Tsai: You should be logged out
+
+1052
+02:08:09.990 --> 02:08:10.290
+Jeffrey Tsai: Okay.
+
+1053
+02:08:19.290 --> 02:08:22.740
+Jeffrey Tsai: Everyone in their documents folder. Are you back in your home directory
+
+1054
+02:08:26.010 --> 02:08:29.640
+Jeffrey Tsai: Okay so well Sep one of these files.
+
+1055
+02:08:30.870 --> 02:08:33.450
+Jeffrey Tsai: Let's just do the for them file.
+
+1056
+02:08:37.890 --> 02:08:40.710
+Jeffrey Tsai: So Sep and then the name of the file that you want to copy over
+
+1057
+02:09:03.930 --> 02:09:05.430
+Jeffrey Tsai: France, the current period.
+
+1058
+02:09:50.040 --> 02:09:51.210
+Jeffrey Tsai: Destination.
+
+1059
+02:09:55.410 --> 02:09:56.730
+Jeffrey Tsai: Destination is the
+
+1060
+02:09:58.110 --> 02:09:58.620
+Perfect.
+
+1061
+02:10:02.130 --> 02:10:04.320
+Brian Nguyen: Path, you know, to be home directory
+
+1062
+02:10:06.000 --> 02:10:08.220
+Brian Nguyen: So when you login login here under a tree.
+
+1063
+02:10:11.250 --> 02:10:11.550
+Jeffrey Tsai: Okay.
+
+1064
+02:10:19.230 --> 02:10:23.760
+Jeffrey Tsai: Okay, so like as from here, we'll just put in our username again.
+
+1065
+02:10:24.870 --> 02:10:29.400
+Jeffrey Tsai: And then the name of the computer that we want to connect it to that we want to
+
+1066
+02:10:30.540 --> 02:10:31.830
+Jeffrey Tsai: Send the file over to you.
+
+1067
+02:10:34.860 --> 02:10:35.910
+Jeffrey Tsai: Now we'll have a colon.
+
+1068
+02:10:38.520 --> 02:10:39.150
+Jeffrey Tsai: Is
+
+1069
+02:10:42.540 --> 02:10:53.130
+Jeffrey Tsai: Alright, so if we want to copy it into the home directory on this computer. So after the column will put in the path to whichever directory. Want to put forth
+
+1070
+02:10:54.420 --> 02:10:59.610
+Jeffrey Tsai: So we saw earlier when we connected
+
+1071
+02:11:02.010 --> 02:11:02.430
+You can use
+
+1072
+02:11:05.730 --> 02:11:06.540
+Brian Nguyen: You can use till now.
+
+1073
+02:11:08.700 --> 02:11:12.180
+Brian Nguyen: Or just a period. Okay, so just so everyone knows
+
+1074
+02:11:13.380 --> 02:11:27.960
+Brian Nguyen: When you log in, you log into your home directory. Right. And so he did put a tool that signifies signifies the home directory or period, which means that because you're entering the home directory and locking
+
+1075
+02:12:07.320 --> 02:12:11.370
+Jeffrey Tsai: Alright, so after SSH King, you can check out for coffee then correctly.
+
+1076
+02:12:13.740 --> 02:12:14.700
+Jeffrey Tsai: And yeah.
+
+1077
+02:12:20.160 --> 02:12:20.370
+Hi.
+
+1078
+02:12:21.810 --> 02:12:22.650
+Jeffrey Tsai: Everyone sees file.
+
+1079
+02:12:27.270 --> 02:12:28.410
+Okay, awesome.
+
+1080
+02:12:31.830 --> 02:12:37.950
+Jeffrey Tsai: I think that's the end for what we want to do on the mod pack so next would be Green Planet.
+
+1081
+02:12:44.160 --> 02:12:46.950
+Brian Nguyen: I think I think he said, I'll take over this one right
+
+1082
+02:12:51.690 --> 02:12:52.350
+Brian Nguyen: Give me a second.
+
+1083
+02:13:12.630 --> 02:13:14.160
+Brian Nguyen: Background noise. Good.
+
+1084
+02:13:15.480 --> 02:13:25.170
+Brian Nguyen: Right, so that's just that. So we was everyone able to copy their file to the most effective for you, Chris, I had
+
+1085
+02:13:26.340 --> 02:13:27.030
+Brian Nguyen: Been sorry
+
+1086
+02:13:31.020 --> 02:13:33.060
+Brian Nguyen: All right, very good now.
+
+1087
+02:13:34.830 --> 02:13:35.370
+Brian Nguyen: Oh,
+
+1088
+02:13:36.450 --> 02:13:37.440
+Use my
+
+1089
+02:13:38.490 --> 02:13:40.170
+Brian Nguyen: Little show how to use
+
+1090
+02:13:44.340 --> 02:13:46.800
+Brian Nguyen: We're gonna do is we're
+
+1091
+02:13:49.650 --> 02:13:51.690
+Brian Nguyen: So can everyone just talking to
+
+1092
+02:14:00.060 --> 02:14:01.260
+Brian Nguyen: Talking to Green Planet.
+
+1093
+02:14:14.790 --> 02:14:15.330
+Brian Nguyen: Log into
+
+1094
+02:14:17.580 --> 02:14:18.990
+Brian Nguyen: Your head. You guys got there.
+
+1095
+02:14:30.540 --> 02:14:32.130
+thanh: Nice you what you just type
+
+1096
+02:14:32.370 --> 02:14:34.530
+Brian Nguyen: A good so
+
+1097
+02:14:36.000 --> 02:14:37.230
+Brian Nguyen: Did the same thing change.
+
+1098
+02:14:37.260 --> 02:14:38.490
+thanh: Your password that will be
+
+1099
+02:14:39.630 --> 02:14:39.990
+Brian Nguyen: Okay.
+
+1100
+02:14:41.070 --> 02:14:45.690
+Brian Nguyen: And then that shit. You know you update your password. Right. Do the same thing.
+
+1101
+02:14:48.030 --> 02:14:49.320
+Brian Nguyen: give you guys a minute or so.
+
+1102
+02:14:50.670 --> 02:14:50.970
+Brian Nguyen: I
+
+1103
+02:14:51.120 --> 02:14:52.260
+Brian Nguyen: Guess do that I am
+
+1104
+02:14:52.260 --> 02:14:53.040
+thanh: Going to
+
+1105
+02:14:54.150 --> 02:14:55.590
+thanh: Can I say we didn't
+
+1106
+02:14:56.730 --> 02:14:57.390
+thanh: Like the
+
+1107
+02:14:57.840 --> 02:14:58.140
+Script
+
+1108
+02:15:10.860 --> 02:15:11.280
+Brian Nguyen: Alright.
+
+1109
+02:15:24.270 --> 02:15:25.590
+Brian Nguyen: Feel free to ask questions.
+
+1110
+02:16:01.770 --> 02:16:07.800
+Brian Nguyen: Alright, so, removing that I can move move a little bit faster right to feel free to stop me.
+
+1111
+02:16:08.970 --> 02:16:11.340
+Brian Nguyen: OK, now go back to terminal.
+
+1112
+02:16:15.090 --> 02:16:21.240
+Brian Nguyen: Alright, so right now I'm back home, my home, my local computer because my computer here.
+
+1113
+02:16:22.860 --> 02:16:27.630
+Brian Nguyen: So you guys can see me as I've already changed your password. So what we're gonna do is go back
+
+1114
+02:16:28.440 --> 02:16:42.600
+Brian Nguyen: To my new local machine or open a new tab, who's eight like the McAfee from McAfee naked little tap on your feet on the terminology told me to leave on
+
+1115
+02:16:45.720 --> 02:16:45.960
+Top
+
+1116
+02:16:55.920 --> 02:16:56.160
+Brian Nguyen: Oh,
+
+1117
+02:16:57.960 --> 02:16:58.200
+Brian Nguyen: Right.
+
+1118
+02:17:01.800 --> 02:17:02.580
+Brian Nguyen: Okay, so
+
+1119
+02:17:03.930 --> 02:17:07.230
+Brian Nguyen: That was the same thing, Sep board. All right.
+
+1120
+02:17:08.280 --> 02:17:26.790
+Brian Nguyen: And then so it's just 30 guys know SAP is the same thing at CP but SAP is allows you to copy stuff from one computer to another. Okay. Exactly. For priceless. All right, for the role did the same thing with Jeffrey to showed you
+
+1121
+02:17:31.200 --> 02:17:33.720
+Theresa Carlos: And I'm sorry the case that you can say, I
+
+1122
+02:17:35.010 --> 02:17:39.000
+Brian Nguyen: Dominate us a period because I know that when you lock in the home directory
+
+1123
+02:17:40.140 --> 02:17:41.040
+Brian Nguyen: And other
+
+1124
+02:17:42.780 --> 02:17:46.680
+Brian Nguyen: It will be useful in the future you will know that, you know,
+
+1125
+02:17:47.850 --> 02:17:53.100
+Brian Nguyen: This can be anything. You know, it could be like documents. Right, right. Some file.
+
+1126
+02:17:54.690 --> 02:17:59.250
+Brian Nguyen: For research or something of that right. So this is an example away, it will
+
+1127
+02:18:00.810 --> 02:18:05.760
+Brian Nguyen: copy the file team for that too, so that all right.
+
+1128
+02:18:07.440 --> 02:18:14.850
+Brian Nguyen: For our purposes, we're going to copy this to the home directory. Alright. Okay.
+
+1129
+02:18:19.260 --> 02:18:21.060
+Brian Nguyen: Alright, so it basically tell you
+
+1130
+02:18:21.660 --> 02:18:22.470
+Brian Nguyen: passed over
+
+1131
+02:18:37.980 --> 02:18:43.230
+Brian Nguyen: Alright, so you see my files, fair, right. So what we're going to do is
+
+1132
+02:18:45.330 --> 02:18:50.760
+Brian Nguyen: Keep this in mind. Alright, so we scroll up with it. Okay.
+
+1133
+02:18:52.050 --> 02:19:03.090
+Brian Nguyen: There are stirring stirring things need to know. Alright, so here's the Green Planet cluster. You've been running some calculation. GERALD. Learn how to submit a calculation to he's cluster.
+
+1134
+02:19:04.500 --> 02:19:05.970
+Brian Nguyen: Or bunch of computers.
+
+1135
+02:19:07.890 --> 02:19:09.840
+Brian Nguyen: Three. So you have a question.
+
+1136
+02:19:14.940 --> 02:19:16.080
+Brian Nguyen: I can't hear you.
+
+1137
+02:19:25.020 --> 02:19:28.410
+Brian Nguyen: I can't hear you. But can you hear me.
+
+1138
+02:19:30.120 --> 02:19:32.130
+Jeffrey Tsai: I think you can just me.
+
+1139
+02:19:32.580 --> 02:19:33.870
+Brian Nguyen: Okay, there's something wrong.
+
+1140
+02:19:35.100 --> 02:19:35.790
+Brian Nguyen: Here is like it.
+
+1141
+02:19:41.250 --> 02:19:42.090
+Brian Nguyen: Can't hear anyone
+
+1142
+02:19:42.630 --> 02:19:45.420
+Brian Nguyen: What a shame. You say, Okay, this
+
+1143
+02:20:01.860 --> 02:20:02.940
+Brian Nguyen: Can someone say something
+
+1144
+02:20:09.210 --> 02:20:11.760
+Brian Nguyen: Oh, shoot. Oh my.
+
+1145
+02:20:17.130 --> 02:20:19.170
+Brian Nguyen: Man technical difficulties, he said.
+
+1146
+02:20:19.500 --> 02:20:20.580
+Brian Nguyen: All right, this happens.
+
+1147
+02:20:26.460 --> 02:20:27.300
+Brian Nguyen: I'll be right back.
+
+1148
+02:20:34.950 --> 02:20:35.370
+Brian Nguyen: Okay.
+
+1149
+02:21:04.890 --> 02:21:06.060
+Brian Nguyen: Alright, so I want to say something.
+
+1150
+02:21:08.760 --> 02:21:09.120
+You
+
+1151
+02:21:10.470 --> 02:21:12.480
+Brian Nguyen: Know, happy here. Okay.
+
+1152
+02:21:16.110 --> 02:21:16.770
+Brian Nguyen: Well then.
+
+1153
+02:21:18.210 --> 02:21:22.110
+Brian Nguyen: I'm gonna come back zillion carefree take over.
+
+1154
+02:21:24.720 --> 02:21:25.320
+Brian Nguyen: I'll be back.
+
+1155
+02:21:41.880 --> 02:21:45.150
+Jeffrey Tsai: Unfortunately, I don't, I don't know how to text.
+
+1156
+02:21:51.180 --> 02:21:53.070
+Aakrsh: I can still
+
+1157
+02:21:56.400 --> 02:22:01.530
+Aakrsh: Every like I've even like change my password but every time it gets permission.
+
+1158
+02:22:13.980 --> 02:22:19.350
+Jeffrey Tsai: You try to save the file or actually SSH answer.
+
+1159
+02:22:20.670 --> 02:22:25.590
+Aakrsh: No I don't, I can't even get into my computer and. Oh, OK.
+
+1160
+02:22:27.660 --> 02:22:29.490
+Brian Nguyen: OK, I can hear you guys again.
+
+1161
+02:22:30.570 --> 02:22:38.040
+Brian Nguyen: I think I have been was when I use the open a Cisco VPN it messed up my zoom thing, I think,
+
+1162
+02:22:38.100 --> 02:22:47.220
+Aakrsh: That's what, that's what happened to meet you. Like, I couldn't hear anything until I left, I turn the VPN off, but because of that. I can't get into the
+
+1163
+02:22:48.720 --> 02:22:53.820
+Brian Nguyen: Okay, well, what will fix the after class right okay so
+
+1164
+02:22:56.310 --> 02:22:57.960
+Brian Nguyen: Go to your best to follow along.
+
+1165
+02:22:59.910 --> 02:23:00.960
+Brian Nguyen: Coming into East
+
+1166
+02:23:02.250 --> 02:23:03.930
+Brian Nguyen: Teresa, what was your question.
+
+1167
+02:23:04.890 --> 02:23:06.090
+Theresa Carlos: No, I hadn't mentioned
+
+1168
+02:23:09.360 --> 02:23:09.600
+Theresa Carlos: Yeah.
+
+1169
+02:23:12.120 --> 02:23:19.380
+Brian Nguyen: Yeah, that's the, that's the best answer for me, you know, having your students answer your own question.
+
+1170
+02:23:20.550 --> 02:23:22.770
+Brian Nguyen: He great crowd. Yes. Good.
+
+1171
+02:23:23.910 --> 02:23:29.850
+Brian Nguyen: Alright so okay let me go back to my, you know,
+
+1172
+02:23:32.790 --> 02:23:36.750
+Brian Nguyen: Alright, so now he is the terminal.
+
+1173
+02:23:39.300 --> 02:23:48.540
+Brian Nguyen: Okay, so you can see notes. Here are a few lock in notes. You can use up talking to people logging.
+
+1174
+02:23:50.340 --> 02:23:52.350
+Brian Nguyen: In using the same more or less.
+
+1175
+02:23:54.210 --> 02:23:55.860
+Brian Nguyen: Alright, so each
+
+1176
+02:23:57.540 --> 02:24:06.660
+Brian Nguyen: When you log in, you enter your home directory each of your home directory has a quota, meaning that there's a limitation to how much data you can store.
+
+1177
+02:24:07.530 --> 02:24:24.840
+Brian Nguyen: On the home directory, because this home directory is backed up. Alright, so if anything happens for some reason to your computer crashes or something, you have a backup for your, your data, right, but there's only 20 gigabyte limit right 100
+
+1178
+02:24:26.100 --> 02:24:33.360
+Brian Nguyen: So this is often only used to back up. Maybe a few data files and things like that. So what we want you to use
+
+1179
+02:24:33.720 --> 02:24:34.440
+Brian Nguyen: Was take note.
+
+1180
+02:24:35.040 --> 02:24:52.230
+Brian Nguyen: Of this you want you to use this to data file right DFS dash l and DNS be okay to take note of that. Everybody logged in with this will show up every time so you won't run calculations always on your conversation baseball. All right.
+
+1181
+02:24:54.450 --> 02:24:56.430
+Brian Nguyen: Josh elledge is for long term storage.
+
+1182
+02:24:56.910 --> 02:24:59.250
+Aakrsh: Fees for short term storage. Okay.
+
+1183
+02:25:03.870 --> 02:25:10.980
+Brian Nguyen: Just things to note is this extra data green plant isn't free. It costs money to kind of keep
+
+1184
+02:25:11.130 --> 02:25:11.880
+Brian Nguyen: Things like that, but
+
+1185
+02:25:12.420 --> 02:25:19.260
+Brian Nguyen: Just don't worry about that because it doesn't cost that much money right I ran a calculation on a
+
+1186
+02:25:19.260 --> 02:25:20.040
+Brian Nguyen: Protein
+
+1187
+02:25:20.340 --> 02:25:24.660
+Brian Nguyen: And about 70,000 items every single day.
+
+1188
+02:25:24.900 --> 02:25:25.470
+Brian Nguyen: For a month.
+
+1189
+02:25:26.160 --> 02:25:31.860
+Brian Nguyen: And the bill was about $4 so don't worry about the costs are it
+
+1190
+02:25:31.980 --> 02:25:34.410
+Brian Nguyen: Will basically cover it right
+
+1191
+02:25:35.190 --> 02:25:35.430
+So,
+
+1192
+02:25:36.540 --> 02:25:41.070
+Brian Nguyen: Going back there for a loop, though, are we want to submit the calculation.
+
+1193
+02:25:41.310 --> 02:25:42.390
+Brian Nguyen: To the computers.
+
+1194
+02:25:42.420 --> 02:25:42.780
+Brian Nguyen: On
+
+1195
+02:25:43.020 --> 02:25:46.590
+Brian Nguyen: The planet. So we have our for loop here, right.
+
+1196
+02:25:47.760 --> 02:25:51.510
+Brian Nguyen: Now you want to copy that or missing move it.
+
+1197
+02:25:52.530 --> 02:25:52.860
+To
+
+1198
+02:25:54.150 --> 02:25:54.960
+Brian Nguyen: The DFS
+
+1199
+02:25:56.130 --> 02:25:57.270
+Brian Nguyen: To do this because
+
+1200
+02:25:57.600 --> 02:26:00.990
+Brian Nguyen: It's not much Ada for a
+
+1201
+02:26:01.110 --> 02:26:01.380
+Start
+
+1202
+02:26:03.300 --> 02:26:03.480
+Brian Nguyen: Up.
+
+1203
+02:26:03.690 --> 02:26:04.740
+A next step. The next step.
+
+1204
+02:26:08.490 --> 02:26:12.210
+Brian Nguyen: Ms that supposed to be nd file first
+
+1205
+02:26:14.940 --> 02:26:29.430
+Brian Nguyen: And the last one is the destination or the path. Is this the way we want to move it to if you press tap a couple of times. I think I showed this a couple of people. This is way to like write everything, all in one line. Okay.
+
+1206
+02:26:31.290 --> 02:26:41.310
+Brian Nguyen: So you can see the tap a couple of times to name should be there, you're using it should be there so Christian there. The Tanya their
+
+1207
+02:26:42.630 --> 02:26:46.350
+Brian Nguyen: Target air okay ok to use your username.
+
+1208
+02:26:50.190 --> 02:26:50.610
+Aakrsh: Enter.
+
+1209
+02:26:51.750 --> 02:26:52.350
+Brian Nguyen: Ls
+
+1210
+02:26:53.550 --> 02:26:57.240
+Brian Nguyen: Yet before you file, it's gone. And let's go into that folder.
+
+1211
+02:27:04.710 --> 02:27:05.130
+Brian Nguyen: All right.
+
+1212
+02:27:06.360 --> 02:27:10.860
+Brian Nguyen: Okay, yeah, we're gonna make this directory all. See ya.
+
+1213
+02:27:12.060 --> 02:27:12.330
+Brian Nguyen: Know,
+
+1214
+02:27:14.250 --> 02:27:14.550
+Brian Nguyen: For
+
+1215
+02:27:16.320 --> 02:27:35.550
+Brian Nguyen: Underscore and when you make a folder. Whatever you do, do not use a space tried to connect everything with like underscore dashes. All right. But if you do this, you will think that you're agreeing to two different folders and I'll show you an example here.
+
+1216
+02:27:38.100 --> 02:27:53.580
+Brian Nguyen: Right. But that's not where you wanted you to I believe if you want to be spaces, little more difficult, but when you do the first fourth backslash episode here some sort of that.
+
+1217
+02:27:57.360 --> 02:27:58.500
+Brian Nguyen: Right, okay.
+
+1218
+02:28:00.030 --> 02:28:14.610
+Brian Nguyen: That's a little bit more complicated and a little confusing to us. So my suggestion is to connect spaces with underscores with dashes. All right, we'll just call it for ages okie he
+
+1219
+02:28:19.770 --> 02:28:23.820
+Brian Nguyen: Will do the same thing to make one more directory inside of the first
+
+1220
+02:28:26.340 --> 02:28:27.660
+Brian Nguyen: So he will call it
+
+1221
+02:28:29.910 --> 02:28:30.210
+Brian Nguyen: Art
+
+1222
+02:28:31.980 --> 02:28:36.180
+Brian Nguyen: Yeah, he wants to see that. All right. We'll move for the
+
+1223
+02:28:38.190 --> 02:28:38.520
+Brian Nguyen: First
+
+1224
+02:28:45.720 --> 02:28:46.560
+Brian Nguyen: Stop right there.
+
+1225
+02:28:51.030 --> 02:28:53.370
+Brian Nguyen: Faster, because I think it gets
+
+1226
+02:28:55.230 --> 02:28:55.560
+Brian Nguyen: Loaded
+
+1227
+02:28:57.450 --> 02:29:01.050
+Brian Nguyen: Right, so you're using all the skills you learned just earlier this morning. All right.
+
+1228
+02:29:09.270 --> 02:29:10.410
+Brian Nguyen: Feel free to stop me.
+
+1229
+02:29:11.580 --> 02:29:12.390
+Brian Nguyen: Ask me questions.
+
+1230
+02:29:13.830 --> 02:29:19.590
+Brian Nguyen: All right, I'm going to be moving like see direction right okay so
+
+1231
+02:29:22.680 --> 02:29:23.910
+Brian Nguyen: Let's look at our for loop.
+
+1232
+02:29:25.350 --> 02:29:36.030
+Brian Nguyen: I don't remember exactly. I think it's the fourth and we wrote. Okay, we're going to run this script. Right. But what we can do is we're going to run this script by some a calculation.
+
+1233
+02:29:37.170 --> 02:29:41.340
+Brian Nguyen: Mistake too many instead of just running. Alright, so
+
+1234
+02:29:42.870 --> 02:29:48.000
+Brian Nguyen: What we can do is we're going to see a candy cane permission for this.
+
+1235
+02:29:55.470 --> 02:29:55.860
+Brian Nguyen: Okay.
+
+1236
+02:29:57.240 --> 02:30:14.550
+Brian Nguyen: All right, so let's let's find out how to submit a calculation on how to select calculation, we have a close knit script and that's in this group is where you request. How much, how many nodes and the CPUs are so I need to
+
+1237
+02:30:15.840 --> 02:30:21.810
+Brian Nguyen: Give you an idea what the show of what we mean by notes. Me give you a picture.
+
+1238
+02:30:23.190 --> 02:30:27.330
+Brian Nguyen: All right, so imagine what we call is, this is what
+
+1239
+02:30:29.760 --> 02:30:31.380
+Brian Nguyen: Up the planet.
+
+1240
+02:30:33.510 --> 02:30:35.970
+Brian Nguyen: Because the way
+
+1241
+02:30:37.170 --> 02:30:42.390
+Brian Nguyen: The way I understand it. I'm going to scan explain it to you guys. So when I say nodes.
+
+1242
+02:30:43.680 --> 02:30:49.680
+Brian Nguyen: Nodes are like this, and each node there are you know CPUs.
+
+1243
+02:30:50.820 --> 02:30:51.750
+Brian Nguyen: Maybe to these are
+
+1244
+02:30:53.430 --> 02:30:53.700
+Brian Nguyen: Now,
+
+1245
+02:30:59.460 --> 02:31:06.690
+Brian Nguyen: Alright, and there can be up to almost 20 a bunch of CPU in there. And this is what we call a new
+
+1246
+02:31:10.410 --> 02:31:10.770
+Brian Nguyen: All right.
+
+1247
+02:31:12.570 --> 02:31:19.650
+Brian Nguyen: Okay, so when I refer to notes I referred to basically a computer with a bunch of CPUs. Okay.
+
+1248
+02:31:22.020 --> 02:31:26.700
+Brian Nguyen: So for every know there's certain number of CPUs for certain number of memory. I
+
+1249
+02:31:28.620 --> 02:31:28.920
+Brian Nguyen: Got it.
+
+1250
+02:31:30.090 --> 02:31:32.340
+Brian Nguyen: Okay and process that alright
+
+1251
+02:31:33.480 --> 02:31:48.750
+Brian Nguyen: guys have questions there. This is really quick. And I think terminology. When I say nodes is essentially like a computer with a bunch of CPUs. Right. And these computers are dedicated to just run the calculations.
+
+1252
+02:31:49.830 --> 02:31:51.030
+Brian Nguyen: All right. Okay.
+
+1253
+02:31:52.170 --> 02:31:53.040
+Brian Nguyen: Stop share here.
+
+1254
+02:31:55.800 --> 02:31:57.630
+Brian Nguyen: And go back to my terminal.
+
+1255
+02:31:59.760 --> 02:32:01.770
+Brian Nguyen: All right. Okay, here's my for loop.
+
+1256
+02:32:02.970 --> 02:32:06.270
+Brian Nguyen: Alright, so we're going to need to get our summit script.
+
+1257
+02:32:07.350 --> 02:32:15.750
+Brian Nguyen: To get our summit script CP, CP, we have a copy of this, we made a template of this. So the CV mod fat.
+
+1258
+02:32:17.550 --> 02:32:18.150
+Brian Nguyen: Cetera.
+
+1259
+02:32:19.650 --> 02:32:25.710
+Brian Nguyen: All right, miss the rest of what's in there that we could do tap you can type person tap a couple of times.
+
+1260
+02:32:26.850 --> 02:32:44.490
+Brian Nguyen: You'll see a few of these files. Right. And so all these are called run some scripts. All right. And these are different programs and gals any empty, you can, you know, the one we want is the one is the turtle mobile. All right, man.
+
+1261
+02:32:48.720 --> 02:33:00.300
+Brian Nguyen: Alright. So Neil little quiz for you guys. So I want to copy this file from to the folder that I was in week one. How do I do that.
+
+1262
+02:33:02.610 --> 02:33:04.320
+Brian Nguyen: What's it. What's the destination chef, but
+
+1263
+02:33:09.690 --> 02:33:11.190
+Brian Nguyen: I just want to make sure you can hear anyone
+
+1264
+02:33:14.370 --> 02:33:14.520
+Brian Nguyen: Else.
+
+1265
+02:33:14.730 --> 02:33:15.360
+Jeffrey Tsai: Going on here. Yeah.
+
+1266
+02:33:16.380 --> 02:33:17.700
+Brian Nguyen: I mean I can I hear you guys
+
+1267
+02:33:19.350 --> 02:33:22.410
+Brian Nguyen: I get I can hear you. Alright, so
+
+1268
+02:33:24.450 --> 02:33:29.820
+Brian Nguyen: As you guys guys question quiz time. Don't worry about this.
+
+1269
+02:33:32.670 --> 02:33:33.570
+Brian Nguyen: What should I put there.
+
+1270
+02:33:40.920 --> 02:33:41.400
+Aakrsh: CP
+
+1271
+02:33:44.910 --> 02:33:49.140
+Brian Nguyen: CP is the command I use it here. That's correct. Right.
+
+1272
+02:33:50.160 --> 02:33:51.330
+Brian Nguyen: That's correct. I
+
+1273
+02:33:52.950 --> 02:33:57.300
+Brian Nguyen: Why I wanted to do, is I'm copying this file runs learn caramel.
+
+1274
+02:33:58.410 --> 02:34:05.160
+Brian Nguyen: Basically what this does is that I'm pointing it. So this thing here, this extra thing here. I'm pointing it
+
+1275
+02:34:06.210 --> 02:34:15.840
+Brian Nguyen: To this folder and saying copy this file. Okay, so it's slightly a little bit different than what we usually do in the past so
+
+1276
+02:34:18.180 --> 02:34:33.960
+Brian Nguyen: Since since we're talking from a different folder. You want to do it this way. Okay, so this is an idea, different way of looking at it. Alright, so now once we specify the file we want. So I want to do is, how do I copy this folder here.
+
+1277
+02:34:39.300 --> 02:34:42.960
+Brian Nguyen: You know, to delight information to recruit me into your green so
+
+1278
+02:34:49.620 --> 02:34:53.400
+Jeffrey Tsai: So I was we are currently in the week one directory
+
+1279
+02:35:00.180 --> 02:35:03.120
+Brian Nguyen: Time. Remember that answer that you gave last night.
+
+1280
+02:35:05.940 --> 02:35:07.530
+Brian Nguyen: Our meeting and I was like,
+
+1281
+02:35:12.360 --> 02:35:12.690
+thanh: No.
+
+1282
+02:35:14.670 --> 02:35:15.330
+Brian Nguyen: I'm so
+
+1283
+02:35:16.200 --> 02:35:20.040
+Brian Nguyen: What if I press this period will do that.
+
+1284
+02:35:36.510 --> 02:35:42.060
+Brian Nguyen: Is anyone else anyone else is free to answer this question. Sorry to call you out.
+
+1285
+02:35:49.530 --> 02:35:52.950
+thanh: I don't know what the period does, but do we put W.
+
+1286
+02:35:56.010 --> 02:35:56.490
+Brian Nguyen: W.
+
+1287
+02:35:59.160 --> 02:36:10.020
+Brian Nguyen: W Q is used used for them or via right. Remember to save or quick. OK.
+
+1288
+02:36:11.400 --> 02:36:12.330
+Brian Nguyen: OK, Mary that
+
+1289
+02:36:13.590 --> 02:36:17.040
+Brian Nguyen: But W Q technically that would kill you have to view.
+
+1290
+02:36:18.660 --> 02:36:21.810
+Brian Nguyen: Colon W. All right. That's one way.
+
+1291
+02:36:23.250 --> 02:36:25.920
+Brian Nguyen: It will basically save inputs are saving
+
+1292
+02:36:28.470 --> 02:36:29.910
+Brian Nguyen: Out like okay
+
+1293
+02:36:31.860 --> 02:36:38.610
+Brian Nguyen: Each each each mentor each graduate student has a different way of showing things so you will you'll pick up things, you know,
+
+1294
+02:36:40.080 --> 02:36:44.580
+Brian Nguyen: So yes, tell me to is to write them so period.
+
+1295
+02:36:46.830 --> 02:37:04.200
+Brian Nguyen: What that does is, then we are in the current directory right now, which is this thing right here, we highlight right what period does take note of this you will come up many times and only because you guys in the future. This and
+
+1296
+02:37:05.340 --> 02:37:14.160
+Brian Nguyen: How to do it. The period will copy this file once learn about thermal into this folder. Okay, let's see what happens.
+
+1297
+02:37:16.320 --> 02:37:16.740
+Brian Nguyen: Voila.
+
+1298
+02:37:18.060 --> 02:37:23.070
+Brian Nguyen: OK, so now let's take some time and try to
+
+1299
+02:37:25.380 --> 02:37:33.090
+Brian Nguyen: Okay, read the script, what is real. Okay, so let's fitness VI or them into runs
+
+1300
+02:37:35.010 --> 02:37:35.640
+Brian Nguyen: Terrible mom.
+
+1301
+02:37:37.560 --> 02:37:37.980
+Brian Nguyen: All right.
+
+1302
+02:37:39.870 --> 02:37:46.680
+Brian Nguyen: All right, so you see that the very first nine fishy bang it shows that is a bash script.
+
+1303
+02:37:48.090 --> 02:37:55.470
+Brian Nguyen: Okay. All this is essentially what you just learned earlier today, just a little bit more fancier right here somewhere options.
+
+1304
+02:37:56.850 --> 02:38:04.440
+Brian Nguyen: I will send an email about this. There's documentation on how to submit these these scripts. Okay.
+
+1305
+02:38:06.150 --> 02:38:16.500
+Brian Nguyen: You guys want to know a little bit more, but I wanted to show you guys is how how to submit a calculation and what options to change. Alright, so here is he just dropped me
+
+1306
+02:38:17.640 --> 02:38:25.230
+Brian Nguyen: Okay, this is where you change your title. Right. So will you insert will change. It will call it for you.
+
+1307
+02:38:28.410 --> 02:38:28.710
+Brian Nguyen: All right.
+
+1308
+02:38:29.910 --> 02:38:38.190
+Brian Nguyen: We'll escape. Okay, so this is changing the name to every time you submit your job. Don't have a name. And you can kind of track calculation see
+
+1309
+02:38:39.390 --> 02:38:39.780
+Brian Nguyen: See
+
+1310
+02:38:41.160 --> 02:38:41.880
+To see the
+
+1311
+02:38:43.080 --> 02:38:54.510
+Brian Nguyen: How long the calculation is running. Okay, so here this next one is competition, which is or call notes right and they are different nodes. Alright.
+
+1312
+02:38:55.020 --> 02:39:11.400
+Brian Nguyen: So here is the name of all the different partition and actually 1.9 IO GT three any yesterday morning as to provide the RPT right and these are different processors painting and this kind of speed of ratios.
+
+1313
+02:39:12.570 --> 02:39:23.670
+Brian Nguyen: Sorry, this means the number of course alright per nodes to that means there are about eight to 12 course for next semester. That means that you can
+
+1314
+02:39:24.510 --> 02:39:39.390
+Brian Nguyen: Run your calculation in parallel. So when I say in parallel and mean. So how many CPUs are going to be used to run that calculation. Right. But we just need form right but if you want the board specified um
+
+1315
+02:39:41.340 --> 02:39:44.340
+Brian Nguyen: Alright, so what we didn't choose partition, you're actually any. Yes.
+
+1316
+02:39:45.840 --> 02:39:46.170
+Brian Nguyen: Okay.
+
+1317
+02:39:50.820 --> 02:39:51.420
+Brian Nguyen: Going
+
+1318
+02:39:53.370 --> 02:40:03.330
+Brian Nguyen: Alright, here's some of the options is they were request some of the computer power. Do you want notes. It's numbers computers we want so for now.
+
+1319
+02:40:04.170 --> 02:40:26.370
+Brian Nguyen: We only use this one right task per node number number of CPUs for note for a job since it's very easy, very quick or just use one all right for memory four gigabytes is a lot. There's not much our calculation. Not much, much most calculation was probably around four to eight gigabytes.
+
+1320
+02:40:27.960 --> 02:40:31.020
+Brian Nguyen: Of memory is the total memories that people at
+
+1321
+02:40:32.040 --> 02:40:36.900
+Brian Nguyen: The calculation me. So what I mean by memory is the
+
+1322
+02:40:40.020 --> 02:40:52.050
+Brian Nguyen: Yellow Pages. Here we have is our go to much better than saying to me that allows you to store string calculations and to access that calculation very quickly.
+
+1323
+02:40:53.160 --> 02:40:59.340
+Brian Nguyen: So the more memory you give the calculation generally that will can help with this female population. Okay.
+
+1324
+02:41:00.840 --> 02:41:09.960
+Brian Nguyen: And then time is the first one is not a time you want to give it three. The first one is three hours hours, minutes, and seconds. Okay.
+
+1325
+02:41:11.130 --> 02:41:16.260
+Brian Nguyen: And we only need that much hours. I was like, you know, 10 minutes. Okay.
+
+1326
+02:41:19.050 --> 02:41:19.260
+Brian Nguyen: Yeah.
+
+1327
+02:41:21.030 --> 02:41:21.360
+Brian Nguyen: All right.
+
+1328
+02:41:23.250 --> 02:41:25.110
+Brian Nguyen: Going, going, going,
+
+1329
+02:41:26.190 --> 02:41:31.410
+Brian Nguyen: But it's some more options comments you thing to note, like when you see a hashtag.
+
+1330
+02:41:32.580 --> 02:41:34.530
+Brian Nguyen: Here, it means to comment out
+
+1331
+02:41:35.730 --> 02:41:44.310
+Brian Nguyen: So that means that when you run your strip, you will not be that right and kind of ignored by line. OK. OK. I mind.
+
+1332
+02:41:46.770 --> 02:41:47.850
+Brian Nguyen: Here's where you want to
+
+1333
+02:41:49.260 --> 02:41:50.580
+Brian Nguyen: Edit your, your file.
+
+1334
+02:41:51.690 --> 02:42:03.630
+Brian Nguyen: So what we want to do is blue modified this script here, this little old feared also like a little bit more. And what you guys to do right delete that and leave this here.
+
+1335
+02:42:04.920 --> 02:42:12.300
+Brian Nguyen: Alright, so I'll explain that later on. What this means modular why I want to finish mostly show you guys is to have some completion.
+
+1336
+02:42:13.530 --> 02:42:13.770
+Brian Nguyen: OK.
+
+1337
+02:42:15.690 --> 02:42:18.660
+Brian Nguyen: And it will actually return come back to this later on.
+
+1338
+02:42:21.540 --> 02:42:34.110
+Brian Nguyen: Alright, so this is not what we want. So here's the commands that we wanted to set up right on. So what we're gonna do is comment this out. Okay, injured.
+
+1339
+02:42:35.910 --> 02:42:38.640
+Brian Nguyen: Unable to hear slack slash for
+
+1340
+02:42:40.470 --> 02:42:58.920
+Brian Nguyen: Okay, so what does he said you submit this calculation in the directory. If you want to run this calculation and that same contract in that same folder to run that file. So essentially the script will basically run fast. Okay, questions here. Let's stop right there.
+
+1341
+02:43:05.940 --> 02:43:07.770
+Brian Nguyen: I breeze through this pretty quick. So
+
+1342
+02:43:12.660 --> 02:43:13.860
+Brian Nguyen: All right here.
+
+1343
+02:43:14.880 --> 02:43:16.170
+Brian Nguyen: So we'll have to escape.
+
+1344
+02:43:17.850 --> 02:43:20.310
+Brian Nguyen: Then we'll save this and I believe
+
+1345
+02:43:22.320 --> 02:43:24.060
+Brian Nguyen: Jeffrey show something interesting.
+
+1346
+02:43:25.560 --> 02:43:37.380
+Brian Nguyen: Interesting, right, so that every said shifts easy right so sad. Save it. So I think I show a few other students, you know, who do. Right. Thank you.
+
+1347
+02:43:38.850 --> 02:43:41.100
+Brian Nguyen: break this down and saying you want to exit.
+
+1348
+02:43:42.360 --> 02:43:43.620
+Brian Nguyen: Stage. Right.
+
+1349
+02:43:46.320 --> 02:43:46.830
+Brian Nguyen: Okay.
+
+1350
+02:43:50.190 --> 02:43:52.380
+Brian Nguyen: Actually, one last thing we want to do.
+
+1351
+02:43:53.790 --> 02:43:55.710
+Brian Nguyen: Is create that will lead to disagree.
+
+1352
+02:43:57.240 --> 02:44:05.400
+Brian Nguyen: Alright, so what we then do is we're going to submit our calculation for what it's going to do is we look at for loop.
+
+1353
+02:44:06.660 --> 02:44:21.720
+Brian Nguyen: Will essentially run this for for us make this file and create this destination. Okay, we'll do it. We'll do it really quickly. Right. So what am I need to do. I'm gonna look at one more command I forgot to add
+
+1354
+02:44:26.760 --> 02:44:27.450
+Brian Nguyen: One second.
+
+1355
+02:44:52.590 --> 02:44:52.980
+Brian Nguyen: Sorry.
+
+1356
+02:45:03.570 --> 02:45:06.270
+Brian Nguyen: So we go back to her run some scripts.
+
+1357
+02:45:07.290 --> 02:45:09.120
+Brian Nguyen: Okay, I want to add one last thing.
+
+1358
+02:45:11.820 --> 02:45:18.750
+Brian Nguyen: We're going to have this call speed command. Okay. And we have put it for three minutes.
+
+1359
+02:45:19.980 --> 02:45:27.990
+Brian Nguyen: OK, so the reason why I want to do this is I want to show that you can kind of keep track of all your calculations. All right.
+
+1360
+02:45:29.130 --> 02:45:33.270
+Brian Nguyen: Because the scripts can run really quickly and will end really quickly so
+
+1361
+02:45:34.560 --> 02:45:52.080
+Brian Nguyen: I just want to give you guys time to do the preparation. Okay so escape. Let's save that. Alright, so now let's submit our calculation. So the way to submit your calculation in here is called s batch.
+
+1362
+02:45:54.030 --> 02:45:54.630
+Brian Nguyen: When slim.
+
+1363
+02:45:58.410 --> 02:46:01.620
+Brian Nguyen: Alright, I will press ENTER yet. Let's see if everyone
+
+1364
+02:46:02.910 --> 02:46:05.580
+Brian Nguyen: Can give me a nod that they got to this stage.
+
+1365
+02:46:07.140 --> 02:46:08.370
+Brian Nguyen: I think Teresa in
+
+1366
+02:46:09.780 --> 02:46:11.640
+Brian Nguyen: Victoria you nodding Teresa.
+
+1367
+02:46:12.870 --> 02:46:13.260
+Brian Nguyen: Okay.
+
+1368
+02:46:15.030 --> 02:46:16.530
+Brian Nguyen: All right. Good, good, good, good.
+
+1369
+02:46:17.640 --> 02:46:30.150
+Brian Nguyen: All right, and submitted to see what happens. Alright, so we have some at the calculation, boo. It gives you a ID number s batch right job ID. So what we want to do you want to see what our job is doing.
+
+1370
+02:46:31.110 --> 02:46:47.970
+Brian Nguyen: This current status type in this command plus years. And in that use the username and here is wha, you see that your calculation is running right here. And this is a way to track your calculations. All right, so it will be FAQ
+
+1371
+02:46:49.050 --> 02:46:52.410
+Brian Nguyen: On five. Oh, this one.
+
+1372
+02:46:53.670 --> 02:46:53.940
+Brian Nguyen: Okay.
+
+1373
+02:46:55.440 --> 02:47:00.810
+Brian Nguyen: These other users that please keep track of your calculations like that. Okay.
+
+1374
+02:47:02.790 --> 02:47:05.700
+Brian Nguyen: I've ever ever can see the calculation. Right.
+
+1375
+02:47:06.960 --> 02:47:07.320
+Brian Nguyen: Good.
+
+1376
+02:47:08.430 --> 02:47:08.910
+Brian Nguyen: Alright.
+
+1377
+02:47:10.230 --> 02:47:13.410
+Brian Nguyen: So angel LS to give you some information.
+
+1378
+02:47:14.460 --> 02:47:30.240
+Brian Nguyen: There is some work note, here's a slim directory. Okay. This kind of gives you more information where your calculation is and ideas. The way it works is that it will copy this folder into this this computer here and then run that calculation. All right.
+
+1379
+02:47:33.750 --> 02:47:36.060
+Brian Nguyen: Since I put it for three minutes.
+
+1380
+02:47:39.900 --> 02:47:42.810
+Brian Nguyen: Take some time and she approaches for two minutes or something.
+
+1381
+02:47:43.980 --> 02:47:44.010
+Okay.
+
+1382
+02:47:46.530 --> 02:47:49.470
+Brian Nguyen: guys have questions about so many calculations on Green Planet.
+
+1383
+02:47:54.960 --> 02:47:58.020
+Brian Nguyen: And there's a lot. This will be very useful in the future.
+
+1384
+02:48:02.280 --> 02:48:21.330
+Brian Nguyen: Alright, so since this calculations, taking a while and we know that script is already ran the one thing is to can't something you want to cancel ago mean that you invest UP SOMETHING YOU KNOW THAT DR fail and you don't want to waste resources. So we can do typing s cancel.
+
+1385
+02:48:23.700 --> 02:48:26.460
+Brian Nguyen: And then copy the job ID number.
+
+1386
+02:48:29.670 --> 02:48:30.660
+Brian Nguyen: And then that will
+
+1387
+02:48:33.210 --> 02:48:33.930
+Brian Nguyen: Be a user
+
+1388
+02:48:34.950 --> 02:48:35.940
+Brian Nguyen: I will cancel your job.
+
+1389
+02:48:42.090 --> 02:48:49.200
+Brian Nguyen: Good. Alright. Easy now, you ll well it does, does he ran the script for you.
+
+1390
+02:48:51.090 --> 02:48:56.850
+Brian Nguyen: Yeah, because now you're asking a computer to do this job for you. Right.
+
+1391
+02:48:58.200 --> 02:49:00.720
+Brian Nguyen: And so you did a look at destination.
+
+1392
+02:49:03.630 --> 02:49:06.240
+Brian Nguyen: See here is alright.
+
+1393
+02:49:07.890 --> 02:49:16.440
+Brian Nguyen: So the way it works is that it's running the calculations work folder, the username is the job ID. And then this is the name of the story.
+
+1394
+02:49:17.700 --> 02:49:18.060
+Brian Nguyen: All right.
+
+1395
+02:49:21.300 --> 02:49:21.960
+Brian Nguyen: Questions there.
+
+1396
+02:49:27.990 --> 02:49:31.680
+Brian Nguyen: Oh, right. No, leave that there. And I'm going to stop sharing
+
+1397
+02:49:37.260 --> 02:49:41.940
+Brian Nguyen: shared a lot of technical stuff. So feel free to ask questions.
+
+1398
+02:49:44.100 --> 02:49:45.540
+Brian Nguyen: I'll send you an email, how to
+
+1399
+02:49:45.840 --> 02:49:47.010
+Brian Nguyen: Get more information.
+
+1400
+02:49:54.420 --> 02:49:54.600
+Right.
+
+1401
+02:50:06.900 --> 02:50:10.080
+Brian Nguyen: Here but one last thing I hit to share
+
+1402
+02:50:11.760 --> 02:50:14.160
+Brian Nguyen: Before you guys go, I noticed something
+
+1403
+02:50:15.270 --> 02:50:18.060
+Brian Nguyen: Inside your folders, your home. If you
+
+1404
+02:50:20.970 --> 02:50:22.020
+Brian Nguyen: share one thing
+
+1405
+02:50:24.450 --> 02:50:30.030
+Brian Nguyen: Okay so we are estimated our calculations, since this block out like your computer.
+
+1406
+02:50:31.890 --> 02:50:32.760
+Brian Nguyen: Your computer
+
+1407
+02:50:33.780 --> 02:50:35.490
+Brian Nguyen: I noticed some of your guys's
+
+1408
+02:50:37.140 --> 02:50:47.430
+Brian Nguyen: Terminal is so messy. So we try to like clean up terminal, you know, making folders. Good. I think you guys all like me like
+
+1409
+02:50:49.530 --> 02:50:51.180
+Brian Nguyen: You know, all these directory in the
+
+1410
+02:50:52.290 --> 02:50:56.610
+Brian Nguyen: Home directory to like take some time to clean that up, too.
+
+1411
+02:50:57.510 --> 02:51:13.080
+Brian Nguyen: Because you know the because in the future. You guys going to be running a bunch of calculations. Right. And one of the most important thing is to be organized. Okay, so make sure take what you learned today and try to clean up your folders. Okay.
+
+1412
+02:51:14.280 --> 02:51:30.120
+Brian Nguyen: Because in the future, you're going to be running hundreds of calculations and oftentimes if you just named a 12345 that might not be descriptive enough to your calculation, you're running so on Wednesday will
+
+1413
+02:51:31.530 --> 02:51:47.970
+Brian Nguyen: Explain a little bit more, we can go about doing that, but for you guys. Maybe just kind of clean up your folders, probably one or day one. No, nothing like that just kind of practice right and then move the folder.
+
+1414
+02:51:49.260 --> 02:51:51.510
+Brian Nguyen: One into the
+
+1415
+02:51:54.450 --> 02:51:54.750
+Okay.
+
+1416
+02:51:56.040 --> 02:51:58.110
+Brian Nguyen: Cleaning up some stuff. Alright.
+
+1417
+02:52:02.730 --> 02:52:06.900
+Brian Nguyen: So that's, that's another tip I want to give you guys that. All right, so
+
+1418
+02:52:08.430 --> 02:52:08.850
+Brian Nguyen: All right.
+
+1419
+02:52:14.250 --> 02:52:15.090
+Brian Nguyen: I think
+
+1420
+02:52:23.760 --> 02:52:24.240
+Brian Nguyen: The show
+
+1421
+02:52:28.320 --> 02:52:28.830
+Jeffrey Tsai: Today,
+
+1422
+02:52:32.610 --> 02:52:44.730
+Brian Nguyen: That's that. That's it, be plenty for you guys right will be. I do not overwhelm. All right. Just remember to take them take notes also send a recording of this. You guys okay
+
+1423
+02:52:46.290 --> 02:52:50.160
+Jeffrey Tsai: So remember the always well
+
+1424
+02:52:51.420 --> 02:52:56.400
+Jeffrey Tsai: All the best stuff and the Unix commands are all readily available online.
+
+1425
+02:52:58.530 --> 02:53:00.930
+Jeffrey Tsai: And I think Brian's gonna end up
+
+1426
+02:53:03.600 --> 02:53:04.110
+Jeffrey Tsai: On this stuff.
+
+1427
+02:53:06.210 --> 02:53:07.890
+Brian Nguyen: Is a few things about the
+
+1428
+02:53:09.180 --> 02:53:10.620
+Brian Nguyen: Summit script. That's it.
+
+1429
+02:53:11.970 --> 02:53:13.830
+Brian Nguyen: You guys are curious about it. Right.
+
+1430
+02:53:15.390 --> 02:53:32.610
+Brian Nguyen: Okay so afraid we have a office hours tomorrow, Tuesday, Thursday, right, at ideas. Maybe if you guys need help. Extra Help us that time and also you can use that to kind of supplement the things you're learning
+
+1431
+02:53:37.050 --> 02:53:49.650
+Brian Nguyen: Because I want you right now pretty much room I showed you how to do things, but how it works, or you know why it's not really thoroughly explained so I can try to talk about
+
+1432
+02:53:50.850 --> 02:53:52.740
+Brian Nguyen: Juniors office hours. Right.
+
+1433
+02:53:55.410 --> 02:53:57.810
+Brian Nguyen: You can't make those times, feel free to email me too.
+
+1434
+02:54:01.830 --> 02:54:04.800
+Brian Nguyen: All right. Alright, so that's one, guys.
+
+1435
+02:54:07.980 --> 02:54:08.850
+Brian Nguyen: How you guys feel
+
+1436
+02:54:15.300 --> 02:54:16.440
+Brian Nguyen: Excitement in your eyes.
+
+1437
+02:54:19.980 --> 02:54:23.460
+Brian Nguyen: Good. That's it. So that's what we have for today.
+
+1438
+02:54:25.800 --> 02:54:25.980
+What's
+
+1439
+02:54:36.420 --> 02:54:37.470
+Brian Nguyen: Up to stick around.
+
+1440
+02:54:39.240 --> 02:54:40.530
+Brian Nguyen: Try to help out. If
+
+1441
+02:54:41.550 --> 02:54:43.470
+Brian Nguyen: You have additional questions, you can stick around.
+
+1442
+02:54:45.270 --> 02:54:48.000
+Brian Nguyen: But yeah, good after today. Not too bad. Right.
+
+1443
+02:54:49.140 --> 02:54:50.490
+Brian Nguyen: Okay, see you guys.
+
+1444
+02:54:55.080 --> 02:54:55.530
+Yes.
+
+1445
+02:55:07.500 --> 02:55:08.910
+Jeffrey Tsai: I see the end button.
+
+1446
+02:55:18.690 --> 02:55:21.330
+Brian Nguyen: OK. OK, I can stick around.
+
+1447
+02:55:22.410 --> 02:55:23.250
+Brian Nguyen: Me a question.
+
+1448
+02:55:25.440 --> 02:55:43.380
+Aakrsh: I can do it now. Or we can do tomorrow. I know, been like a long time, but I still I every time I've probably, probably try and like 30 or 40 times and when even changed all my passwords. Oh my god I net and stuff but it keeps denying the permission from entering the computer.
+
+1449
+02:55:45.840 --> 02:55:48.120
+Brian Nguyen: So you're at the login screen. Correct.
+
+1450
+02:55:49.140 --> 02:55:49.440
+Aakrsh: What
+
+1451
+02:55:50.100 --> 02:55:51.810
+Brian Nguyen: You're able to log into Green Planet.
+
+1452
+02:55:52.650 --> 02:55:54.090
+I wasn't able to log into anything
+
+1453
+02:55:55.200 --> 02:55:55.470
+Brian Nguyen: So,
+
+1454
+02:55:57.030 --> 02:55:59.340
+Brian Nguyen: Right. So in it is a. Can you share me your
+
+1455
+02:56:00.690 --> 02:56:04.800
+Brian Nguyen: Your screen is finished do share the desktop or desktop.
+
+1456
+02:56:06.180 --> 02:56:07.200
+Brian Nguyen: So I can see that you
+
+1457
+02:56:07.200 --> 02:56:09.780
+Brian Nguyen: Love. Yeah, then you
+
+1458
+02:56:11.100 --> 02:56:17.460
+Brian Nguyen: Can show me how do you do the VPN dance. See it right
+
+1459
+02:56:18.840 --> 02:56:19.200
+Aakrsh: Again,
+
+1460
+02:56:19.800 --> 02:56:20.010
+Yeah.
+
+1461
+02:56:21.090 --> 02:56:21.540
+Aakrsh: I can
+
+1462
+02:56:21.630 --> 02:56:22.290
+Aakrsh: Move up in
+
+1463
+02:56:44.520 --> 02:56:45.840
+Aakrsh: I'm connected to the VPN.
+
+1464
+02:56:47.520 --> 02:56:47.880
+Aakrsh: Okay.
+
+1465
+02:56:47.970 --> 02:56:56.970
+Brian Nguyen: Just like you said connection is in this case if you're you. All right. Okay. And is that the terminology, but you make a camera. The biggest financial
+
+1466
+02:56:58.800 --> 02:57:02.190
+Brian Nguyen: What to make a terminal those bigger command shift.
+
+1467
+02:57:02.220 --> 02:57:02.430
+Out.
+
+1468
+02:57:05.310 --> 02:57:05.580
+Brian Nguyen: They go
+
+1469
+02:57:08.280 --> 02:57:11.700
+Aakrsh: Dark. Why, and then my up are you
+
+1470
+02:57:14.130 --> 02:57:15.240
+Aakrsh: And then add
+
+1471
+02:57:16.680 --> 02:57:17.370
+Aakrsh: Tigers.
+
+1472
+02:57:18.960 --> 02:57:19.830
+Aakrsh: Not here.
+
+1473
+02:57:21.030 --> 02:57:21.510
+Aakrsh: edu.
+
+1474
+02:57:23.940 --> 02:57:24.540
+Aakrsh: Is that correct,
+
+1475
+02:57:26.580 --> 02:57:26.880
+Brian Nguyen: Correct.
+
+1476
+02:57:28.260 --> 02:57:29.220
+Aakrsh: And then when I entered
+
+1477
+02:57:30.030 --> 02:57:33.300
+Aakrsh: I changed all my passwords and every time.
+
+1478
+02:57:34.350 --> 02:57:36.180
+Aakrsh: I get this error message.
+
+1479
+02:57:39.780 --> 02:57:42.060
+Brian Nguyen: To possibility. It's been a
+
+1480
+02:57:43.440 --> 02:57:44.760
+Brian Nguyen: Second Iran pastors.
+
+1481
+02:57:46.590 --> 02:57:46.890
+Brian Nguyen: Say,
+
+1482
+02:57:47.070 --> 02:57:49.260
+Aakrsh: I don't think it's the wrong password. You can I like
+
+1483
+02:57:49.590 --> 02:58:00.360
+Aakrsh: I tried you know me to conference average set and then I even went back in and change my password in like the UCI website that you like personally and it
+
+1484
+02:58:01.500 --> 02:58:03.900
+Brian Nguyen: Goes okay so
+
+1485
+02:58:06.720 --> 02:58:11.730
+Brian Nguyen: Okay, so this passwords in your email, I think we are not using that Pastor. Afraid you see
+
+1486
+02:58:13.530 --> 02:58:15.300
+Brian Nguyen: You next week cluster one right
+
+1487
+02:58:16.230 --> 02:58:18.390
+Aakrsh: Workstation okay I
+
+1488
+02:58:18.600 --> 02:58:22.710
+Aakrsh: Hate that window. It was part of the instructions and like to change it.
+
+1489
+02:58:23.640 --> 02:58:25.020
+Brian Nguyen: Oh, snap. Okay.
+
+1490
+02:58:26.040 --> 02:58:27.060
+Aakrsh: I changed it in it.
+
+1491
+02:58:27.720 --> 02:58:28.290
+Aakrsh: It doesn't work.
+
+1492
+02:58:29.580 --> 02:58:33.000
+Brian Nguyen: Okay, can control C.
+
+1493
+02:58:34.200 --> 02:58:34.500
+Aakrsh: Control.
+
+1494
+02:58:35.580 --> 02:58:39.240
+Brian Nguyen: Etc. Interesting, interesting battle cancer.
+
+1495
+02:58:42.000 --> 02:58:42.600
+Aakrsh: Economy
+
+1496
+02:58:43.230 --> 02:58:44.190
+Brian Nguyen: Control C.
+
+1497
+02:58:45.570 --> 02:58:46.200
+Aakrsh: Control V
+
+1498
+02:58:53.220 --> 02:58:58.530
+Brian Nguyen: Okay so necessary like in your to your team planet accounts that absolutely checked in a work directly
+
+1499
+02:59:03.690 --> 02:59:06.060
+Aakrsh: With your honey, like I'm
+
+1500
+02:59:06.300 --> 02:59:07.770
+Aakrsh: On my end or in like
+
+1501
+02:59:09.240 --> 02:59:09.480
+Brian Nguyen: Oh,
+
+1502
+02:59:09.960 --> 02:59:12.180
+Brian Nguyen: Maybe I think okay VPN things and
+
+1503
+02:59:12.270 --> 02:59:16.170
+Aakrsh: Like whatever internal I can't like they didn't really work as well.
+
+1504
+02:59:17.280 --> 02:59:17.550
+Aakrsh: Okay.
+
+1505
+02:59:17.580 --> 02:59:19.110
+Brian Nguyen: How about this.
+
+1506
+02:59:20.700 --> 02:59:23.910
+Brian Nguyen: Can you leave zoom and come back.
+
+1507
+02:59:25.710 --> 02:59:25.980
+Brian Nguyen: Anytime.
+
+1508
+02:59:28.410 --> 02:59:29.400
+Brian Nguyen: stop sharing
+
+1509
+03:00:05.070 --> 03:00:06.150
+Brian Nguyen: Is that better is better.
+
+1510
+03:00:06.930 --> 03:00:07.290
+Oh, yeah.
+
+1511
+03:00:08.340 --> 03:00:15.450
+Brian Nguyen: Okay, so I think what yeah what I did was I, I just exit zoo and re enter new last time. Okay.
+
+1512
+03:00:17.190 --> 03:00:23.580
+Brian Nguyen: Okay. So, okay, there's two options. It's either can't forget the password.
+
+1513
+03:00:25.080 --> 03:00:25.410
+Brian Nguyen: Or
+
+1514
+03:00:27.810 --> 03:00:28.920
+Brian Nguyen: I stopped recording again.
+

@@ -1,0 +1,4 @@
+/Users/briandinhnguyen/Desktop/furche_hsop/2020/for_loops/strawberry
+/Users/briandinhnguyen/Desktop/furche_hsop/2020/for_loops/banana
+/Users/briandinhnguyen/Desktop/furche_hsop/2020/for_loops/orange
+/Users/briandinhnguyen/Desktop/furche_hsop/2020/for_loops/apple
